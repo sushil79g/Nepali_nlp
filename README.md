@@ -1,0 +1,1 @@
+This projects aims to build a library for all the NLP processes for Nepali Language.
