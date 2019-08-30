@@ -1,7 +1,9 @@
 import gensim
 from gensim.models.keyedvectors import KeyedVectors
-
-def load_vector():
+#soon S3 bucket link will be provided.This is just for test
+def load_vector():​
+4
+#Soon S
     """Download and load embedding. #This is private embedding I will update link later
     
     Returns:
