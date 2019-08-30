@@ -2,6 +2,14 @@ import wget
 import gzip
 from gensim.models.keyedvectors import KeyedVectors
 def load_fasttext(link="https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz"):
+    """This function load fasttext embeddings for nepali
+    
+    Keyword Arguments:
+        link {str} -- link of binary embedding for Nepali (default: {"https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz"})
+    
+    Returns:
+        keyebvector model -- Embedding model
+    """
     fil_ = wget.download(link)
     print('embedding_downloaded')
     abc = gzip.open(fil_, 'rb')
