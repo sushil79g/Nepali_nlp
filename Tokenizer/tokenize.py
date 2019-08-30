@@ -14,5 +14,15 @@ def sentence_tokenize(text):
     return sentences
 
 def word_tokenize(sentece):
-    punctuations = ['।',',',';','?','!','—','-']
+    """This function tokenize with respect to word
     
+    Arguments:
+        sentece {string} -- sentence you want to tokenize 
+    
+    Returns:
+        list -- tokenized words
+    """
+    punctuations = ['।',',',';','?','!','—','-']
+    for punct in punctuations:
+        text = ' '.join(text.split(punct))
+    return text.split()
