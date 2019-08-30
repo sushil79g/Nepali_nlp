@@ -8,7 +8,5 @@ TODOs:</br>
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
 - [ ] Summerization 
-- [x] Word synonym
-- [ ] Pos_tag
 - [ ] Named Entity Recognition
 - [ ] Nepali OCR
