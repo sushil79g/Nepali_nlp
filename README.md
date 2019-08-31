@@ -5,6 +5,7 @@ TODOs:</br>
 - [x] Tokenizers (word, sentence) 
 - [x] Stop Words 
 - [x] Word synonym
+- [ ] Spell correction 
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
 - [ ] Summerization 
