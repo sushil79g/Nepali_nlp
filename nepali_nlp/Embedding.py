@@ -2,7 +2,6 @@ import gensim
 from gensim.models.keyedvectors import KeyedVectors
 from nepali_nlp.Download_embedding import download_file_from_google_drive
 
-#soon S3 bucket link will be provided.This is just for test
 def load_vector():
     """Download and load embedding. #This is private embedding I will update link later
     
@@ -16,7 +15,7 @@ def load_vector():
 
 def load_large_vector():
     """Returns a large Nepali word embedding. Creator: https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language
-        Will update link sooner.
+       
     Returns:
         [keyedVectors] -- [Custom Nepali word Embedding]
     """
