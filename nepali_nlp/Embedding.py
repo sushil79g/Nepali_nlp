@@ -15,3 +15,16 @@ def load_vector():
     
     return word_vector
 
+def load_large_vector():
+    """Returns a large Nepali word embedding. Creator: https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language
+        Will update link sooner.
+    Returns:
+        [keyedVectors] -- [Custom Nepali word Embedding]
+    """
+    from google.colab import drive
+    drive.mount('/content/drive')
+    base_folder = 'drive/My Drive/'
+    word_vector = KeyedVectors.load(base_folder + 'nepali_embeddings_word2vec.txt')
+
+    return word_vector
+
