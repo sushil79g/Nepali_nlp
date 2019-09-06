@@ -3,8 +3,9 @@ This projects aims to build a library for all the NLP processes for Nepali Langu
 TODOs:</br>
 - [x] Nepali Embeddings 
 - [x] Tokenizers (word, sentence) 
-- [x] Stop Words 
-- [x] Word synonym
+- [x] Stop Words
+- [x] Nepali Words Collection 
+- [x] Nepali Word synonym
 - [ ] Spell correction 
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
