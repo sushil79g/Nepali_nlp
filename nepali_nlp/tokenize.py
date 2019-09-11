@@ -1,5 +1,7 @@
 import string
 
+import icu
+
 class Tokenizer:
     def __init__(self):
         pass
@@ -35,6 +37,27 @@ class Tokenizer:
             sentence = ' '.join(sentence.split(punct))
         
         return sentence.split()
+
+    def character_tokenize(self,word):
+        """ Returns the tokenization in character level.
+        
+        Arguments:
+            word {string} -- word to be tokenized in character level.
+        
+        Returns:
+            [list] -- list of characters.
+        """
+        
+        temp_ = icu.BreakIterator.createCharacterInstance(icu.Locale())
+        temp_.setText(word)
+        char = []
+        i = 0
+        for j in temp_:
+            s = word[i:j]
+            char.append(s)
+            i = j
+        
+        return char
     
     def __str__(self):
         return "Helps to tokenize content written in Nepali language."
