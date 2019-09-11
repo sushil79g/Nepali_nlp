@@ -1,31 +1,41 @@
 import requests
 
-def download_file_from_google_drive(id, destination):
-    def get_confirm_token(response):
-        for key, value in response.cookies.items():
-            if key.startswith('download_warning'):
-                return value
+class Download:
+    """This class helps to download different embeddings for Nepali language"""
 
-        return None
+    def __init__(self):
+        pass
 
-    def save_response_content(response, destination):
-        CHUNK_SIZE = 32768
+    def download_file_from_google_drive(self,id, destination):
+        
+        def get_confirm_token(response):
+            for key, value in response.cookies.items():
+                if key.startswith('download_warning'):
+                    return value
 
-        with open(destination, "wb") as f:
-            for chunk in response.iter_content(CHUNK_SIZE):
-                if chunk: # filter out keep-alive new chunks
-                    f.write(chunk)
+            return None
 
-    URL = "https://docs.google.com/uc?export=download"
+        def save_response_content(response, destination):
+            CHUNK_SIZE = 32768
 
-    session = requests.Session()
+            with open(destination, "wb") as f:
+                for chunk in response.iter_content(CHUNK_SIZE):
+                    if chunk: # filter out keep-alive new chunks
+                        f.write(chunk)
 
-    response = session.get(URL, params = { 'id' : id }, stream = True)
-    token = get_confirm_token(response)
+        URL = "https://docs.google.com/uc?export=download"
 
-    if token:
-        params = { 'id' : id, 'confirm' : token }
-        response = session.get(URL, params = params, stream = True)
+        session = requests.Session()
 
-    save_response_content(response, destination)    
+        response = session.get(URL, params = { 'id' : id }, stream = True)
+        token = get_confirm_token(response)
+
+        if token:
+            params = { 'id' : id, 'confirm' : token }
+            response = session.get(URL, params = params, stream = True)
+
+        save_response_content(response, destination)  
+
+    def __str__(self):
+        return "Required to Download embedding from weblink. Make sure your internet is working."
 
