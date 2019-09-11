@@ -15,7 +15,7 @@ class Download:
 
             return None
 
-        def save_response_content(self,response, destination):
+        def save_response_content(response, destination):
             CHUNK_SIZE = 32768
 
             with open(destination, "wb") as f:
