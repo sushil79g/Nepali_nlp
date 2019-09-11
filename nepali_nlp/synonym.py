@@ -52,3 +52,6 @@ class Synonym:
                 syno.append(words)
         
         return syno
+
+    def __str__(self):
+        return "return filtered and un-filtered synonyms for Nepali word."
