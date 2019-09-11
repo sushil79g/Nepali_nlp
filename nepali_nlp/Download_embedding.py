@@ -3,6 +3,9 @@ import requests
 class Download:
     """This class helps to download different embeddings for Nepali language"""
 
+    def __init__(self):
+        pass
+
     def download_file_from_google_drive(self,id, destination):
         
         def get_confirm_token(response):
@@ -31,5 +34,8 @@ class Download:
             params = { 'id' : id, 'confirm' : token }
             response = session.get(URL, params = params, stream = True)
 
-        save_response_content(response, destination)    
+        save_response_content(response, destination)  
+
+    def __str__(self):
+        return "Required to Download embedding from weblink. Make sure your internet is working."
 
