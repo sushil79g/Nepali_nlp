@@ -46,7 +46,8 @@ class Synonym:
         """
         word_vec = self.load_embedding(load_large)
         syno = []
-        for words in abc:
+        synonyms = word_vec.most_similar(word)
+        for words in synonyms:
             if word not in words[0]:
                 syno.append(words)
         
