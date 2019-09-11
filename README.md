@@ -6,6 +6,7 @@ TODOs:</br>
 - [x] Stop Words
 - [x] Nepali Words Collection 
 - [x] Nepali Word synonym
+- [ ] Roman Nepali to Nepali (Currently)
 - [ ] Spell correction 
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
