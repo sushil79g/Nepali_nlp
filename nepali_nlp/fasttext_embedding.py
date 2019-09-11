@@ -8,7 +8,7 @@ class Fasttext:
     def __init__(self):
         pass 
 
-    def load(link="https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz"):
+    def load(self,link="https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz"):
         """This function load fasttext embeddings for nepali
         
         Keyword Arguments:
