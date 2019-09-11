@@ -7,7 +7,18 @@ class Download:
         pass
 
     def download_file_from_google_drive(self,id, destination):
+        """Download Nepali embedding file which is in gooogle drive.
         
+        Arguments:
+            id {string} -- unique id;represent file in google drive
+            destination {string} -- filename where the content is to be written
+
+            eg: id: '1KnAZ2Eeqwz3S9VrAuzTLWysAaRB6Ch7e'
+                destination: 'abc.txt'
+        
+        Returns:
+            [type] -- [description]
+        """
         def get_confirm_token(response):
             for key, value in response.cookies.items():
                 if key.startswith('download_warning'):
