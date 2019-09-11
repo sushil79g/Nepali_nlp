@@ -1,31 +1,35 @@
 import requests
 
-def download_file_from_google_drive(id, destination):
-    def get_confirm_token(response):
-        for key, value in response.cookies.items():
-            if key.startswith('download_warning'):
-                return value
+class Download:
+    """This class helps to download different embeddings for Nepali language"""
 
-        return None
+    def download_file_from_google_drive(self,id, destination):
+        
+        def get_confirm_token(response):
+            for key, value in response.cookies.items():
+                if key.startswith('download_warning'):
+                    return value
 
-    def save_response_content(response, destination):
-        CHUNK_SIZE = 32768
+            return None
 
-        with open(destination, "wb") as f:
-            for chunk in response.iter_content(CHUNK_SIZE):
-                if chunk: # filter out keep-alive new chunks
-                    f.write(chunk)
+        def save_response_content(self,response, destination):
+            CHUNK_SIZE = 32768
 
-    URL = "https://docs.google.com/uc?export=download"
+            with open(destination, "wb") as f:
+                for chunk in response.iter_content(CHUNK_SIZE):
+                    if chunk: # filter out keep-alive new chunks
+                        f.write(chunk)
 
-    session = requests.Session()
+        URL = "https://docs.google.com/uc?export=download"
 
-    response = session.get(URL, params = { 'id' : id }, stream = True)
-    token = get_confirm_token(response)
+        session = requests.Session()
 
-    if token:
-        params = { 'id' : id, 'confirm' : token }
-        response = session.get(URL, params = params, stream = True)
+        response = session.get(URL, params = { 'id' : id }, stream = True)
+        token = get_confirm_token(response)
 
-    save_response_content(response, destination)    
+        if token:
+            params = { 'id' : id, 'confirm' : token }
+            response = session.get(URL, params = params, stream = True)
+
+        save_response_content(response, destination)    
 
