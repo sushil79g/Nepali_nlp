@@ -50,21 +50,27 @@ def display(result_temp):
   result = result + result_temp
   print(result)
 
-def spacebarPressed(){
-  global code_support="",code="",flag_for_shabda_banot=False
+def spacebarPressed():
+  global code_support, code, flag_for_shabda_banot
+  code_support="" 
+  code="" 
+  flag_for_shabda_banot=False
   display('\u0020')
-}
+
 
 def enterkeyPressed():
-  global code_support="",code="",flag_for_shabda_banot=False
+  global code_support, code, flag_for_shabda_banot
+  code_support=""
+  code=""
+  flag_for_shabda_banot=False
   display("\n")
 
-def Unicode():
-  global val,numerals,special_character,code,code_support,vowel,consonant,flag_for_shabda_banot
+def Unicode(val):
+  global numerals,special_character,code,code_support,vowel,consonant,flag_for_shabda_banot,sabda_banot,flag_for_shabda_banot,flg,result,nepali,mystruct
   last_latter = val[len(val)-1]
   if last_latter in numerals or last_latter in special_character:
     display(last_latter)
-    flag = "e"
+    flg = "e"
     return None 
   
   found = False
@@ -72,7 +78,110 @@ def Unicode():
   if code_support[len(code_support) - 1] in vowel and last_latter in consonant:
     code_support = ""
   if flag_for_shabda_banot==True:
+    if last_latter in vowel:
+      code_support = code_support + last_latter
     
+    if code_support in sabda_banot and last_latter in vowel:
+      changeinDisplay2(code_support)
+      display(shabda_banot[code_support])
+
+      if last_latter in vowel and len(code_support)<2:
+        flag_for_shabda_banot=True
+      else:
+        flag_for_shabda_banot=False
+        code_support = ""
+      return None
+  if last_latter in consonant:
+    flag_for_shabda_banot=True
+  cond = len(flg)
+  for i in range(0,cond):
+    if flg[i] == code:
+      found = True
+      if  flg[i]=="aa" or flg[i]=="ii" or flg[i]=="uu":
+        result = result[:len(result)-1]
+      else:
+        changeinDisplay(code)
+      display(nepali[code])
+      return None
+  code = last_latter
+  flg = mystruct[code]
+  display(nepali[code])
+  return None
+
+def enable_Eng(val_temp):
+  global taggleon
+  temp_flag = False
+  if taggleon=='>' and val_temp == '>':
+    taggleon = False
+    temp_flag = True
+  if not taggleon:
+    if val_temp == '<':
+      taggleon = True
+      temp_flag = True
+  if taggleon:
+    display(val_temp)
+    temp_flag=True
+  return temp_flag
+
+def exception_handling():
+  global result,word 
+  exception= {'au': 'औ', 'aauda': 'आउँदा', 'acharya': 'आचार्य', 'airport': 'एअरपोर्ट', 'amrit': 'अमृत', 'char': 'चार', 'chhetri': '', 'paanch': 'पाँच', 'facebook': 'फेसबुक', 'fortystones': 'फोर्टिस्टोन्स', 'kathmandu': 'काठमाडौं', 'kripaya': 'कृपया', 'krishi': 'कृषि', 'krishna': 'कृष्ण', 'krishnaa': 'कृष्णा', 'patan': 'पाटन', 'tapai': 'तपाईं', 'gyan': 'ज्ञान', 'rajbhandari': 'राजभण्डारी', 'roushan': 'रौशन','shah': 'शाह', 'shrestha': 'श्रेष्ठ', 'unicode': 'युनिकोड', 'united': 'युनाईटेड'}
+  temp = len(result) - 1
+  if word in exception:
+    while result[temp] != "\u0020":
+      if temp==0:
+        temp = temp -1
+        break
+      temp = temp - 1
+    result = result[:temp+1]
+    display(exception[word])
+    word = ""
+    return True
+  return False
+
+def input_(val):
+  global word
+  temp_val = val
+  for k in range(len(temp_val)):
+    if enable_Eng(temp_val[k]):
+      continue
+    if temp_val[k] == "*":
+      display("ँ")
+      continue
+    if temp_val[k] == "^":
+      display("ं")
+      continue
+    if temp_val[k] == "R":
+      display("ऋ")
+      continue
+    if k == 0:
+      initialize(temp_val[k])
+    word = word + temp_val[k]
+
+    if exception_handling():
+      continue
+    if temp_val[k] == "\n":
+      enterkeyPressed()
+      word= ""
+      continue
+    if temp_val[k] == "\u0020":
+      temp_val[k] = "\u0020"
+      spacebarPressed()
+      word = ""
+      continue
+    Unicode(temp_val[k])
+  resetflags()
+  if len(temp_val) == 0:
+    display("")
+
+
+input_("hamro")
+
+
+
+
+
+
 
 
 
