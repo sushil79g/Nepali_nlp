@@ -6,8 +6,8 @@ TODOs:</br>
 - [x] Stop Words
 - [x] Nepali Words Collection 
 - [x] Nepali Word synonym
-- [ ] Roman Nepali to Nepali (Currently)
-- [ ] Spell correction 
+- [x] Roman Nepali to Nepali
+- [ ] Spell correction (Currently)
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
 - [ ] Summerization 
