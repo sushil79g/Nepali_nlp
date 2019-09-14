@@ -93,7 +93,7 @@ function enterkeyPressed() {
     display("\n");
 }
 
-function Unicode(
+function Unicode(val
 ) {
     var last_letter=val[val.length-1];
     if(last_letter in numerals||last_letter in special_characters) {

@@ -397,12 +397,8 @@ d2r_dict=OrderedDict([
 ('ौ','au')
 ])
 
-def main(text): 
-#   new = ''
-  for key,value in d2r_dict.items():
-#     print(key,value)
-#     break
-  	text=text.replace(value,key)  
-  return text
-
-print(main('hamro ghar ma dherai manche chhan'))
+foo = OrderedDict(sorted(d2r_dict.items(), key=lambda x: len(x[1]),reverse=True))
+def main(text):
+    for key,value in foo.items():
+       text=text.replace(value,key)  
+    return (text)
