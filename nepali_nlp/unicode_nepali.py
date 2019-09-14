@@ -2,7 +2,7 @@ import collections
 from collections import OrderedDict
 from pprint import pprint
 
-from nepali_nlp.tokenize import convert_word
+from nepali_nlp.tokenize import Tokenizer
 
 nepali =  {
     'a': 'अ', 'aa': 'आ', 'i': 'इ', 'ii': 'ई', 'u': 'उ', 'uu': 'ऊ', 'e': 'ए', 'ai': 'ऐ', 'o': 'ओ', 'au': 'औ', 'k': 'क्',
@@ -78,7 +78,8 @@ def unicode_word(text):
 
 def unicode_sentence(sentence):
    
-   texts =convert_word(sentence)
+   tokenizer = Tokenizer()
+   texts =tokenizer.word_tokenize(sentence)
    convert_nepali = ''
    for text in texts:
       if text in exception.keys():
