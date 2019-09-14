@@ -125,7 +125,7 @@ def enable_Eng(val_temp):
 
 def exception_handling():
   global result,word 
-  exception= {'au': 'औ', 'aauda': 'आउँदा', 'acharya': 'आचार्य', 'airport': 'एअरपोर्ट', 'amrit': 'अमृत', 'char': 'चार', 'chhetri': '', 'paanch': 'पाँच', 'facebook': 'फेसबुक', 'fortystones': 'फोर्टिस्टोन्स', 'kathmandu': 'काठमाडौं', 'kripaya': 'कृपया', 'krishi': 'कृषि', 'krishna': 'कृष्ण', 'krishnaa': 'कृष्णा', 'patan': 'पाटन', 'tapai': 'तपाईं', 'gyan': 'ज्ञान', 'rajbhandari': 'राजभण्डारी', 'roushan': 'रौशन','shah': 'शाह', 'shrestha': 'श्रेष्ठ', 'unicode': 'युनिकोड', 'united': 'युनाईटेड'}
+  exception= {'au': 'औ', 'garchu':'गर्छु','aauda': 'आउँदा', 'acharya': 'आचार्य', 'airport': 'एअरपोर्ट', 'amrit': 'अमृत', 'char': 'चार', 'chhetri': '', 'paanch': 'पाँच', 'facebook': 'फेसबुक', 'fortystones': 'फोर्टिस्टोन्स', 'kathmandu': 'काठमाडौं', 'kripaya': 'कृपया', 'krishi': 'कृषि', 'krishna': 'कृष्ण', 'krishnaa': 'कृष्णा', 'patan': 'पाटन', 'tapai': 'तपाईं', 'gyan': 'ज्ञान', 'rajbhandari': 'राजभण्डारी', 'roushan': 'रौशन','shah': 'शाह', 'shrestha': 'श्रेष्ठ', 'unicode': 'युनिकोड', 'united': 'युनाईटेड'}
   temp = len(result) - 1
   if word in exception:
     while result[temp] != "\u0020":
