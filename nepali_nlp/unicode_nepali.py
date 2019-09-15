@@ -2,7 +2,7 @@ import collections
 from collections import OrderedDict
 from pprint import pprint
 
-from nepali_nlp.tokenize import Tokenizer
+# from tokenize import Tokenizer
 
 nepali =  {
     'a': 'अ', 'aa': 'आ', 'i': 'इ', 'ii': 'ई', 'u': 'उ', 'uu': 'ऊ', 'e': 'ए', 'ai': 'ऐ', 'o': 'ओ', 'au': 'औ', 'k': 'क्',
@@ -28,6 +28,7 @@ exception= {'au': 'औ', 'garchu':'गर्छु','aauda': 'आउँदा', 
             'rajbhandari': 'राजभण्डारी', 'roushan': 'रौशन','shah': 'शाह', 'shrestha': 'श्रेष्ठ', 'unicode': 'युनिकोड', 'united': 'युनाईटेड','gardai':'गर्दै','gardaichhu':'गर्दैछु'}
 
 def unicode_word(text):
+   text = text.replace('aa','aaa')
    if text in exception.keys():
       return exception[text]
 
@@ -59,7 +60,7 @@ def unicode_word(text):
       elif latter in sabda_banot:
          actual_text = actual_text + str(sabda_banot[latter])
 
-   for index in range(1, len(split)-1):
+   for index in range(len(split)):
       if split[index] in sabda_banot:
          if split[index-1] in halanta:
                split[index-1] = halanta[split[index-1]]
@@ -75,60 +76,4 @@ def unicode_word(text):
    for item in split:
       word = word + str(latter_dict[item])
    return word
-
-def unicode_sentence(sentence):
    
-   tokenizer = Tokenizer()
-   texts =tokenizer.word_tokenize(sentence)
-   convert_nepali = ''
-   for text in texts:
-      if text in exception.keys():
-         convert_nepali = convert_nepali + ' ' + exception[text]
-         continue
-
-      combine_latter = {**nepali, **sabda_banot}
-      ship = collections.OrderedDict(combine_latter)
-      latter_dict = OrderedDict(sorted(combine_latter.items(), key=lambda x: len(x[0]),reverse=True))
-      split = []
-      keys = list(latter_dict.keys())
-      c = 0
-      while text != "":
-         key_collection = keys.copy()
-         for key in key_collection:
-            if key == text[:len(key)]:
-                  split.append(key)
-                  text = text[len(key):]
-                  c = 1
-                  break
-         if c== 1:
-            c = 0
-            continue
-         if not text:
-            break
-         split.append(text[0])
-         text = text[1:]
-      actual_text = ''
-      for latter in split:
-         if latter in nepali:
-            actual_text = actual_text + str(nepali[latter])
-         elif latter in sabda_banot:
-            actual_text = actual_text + str(sabda_banot[latter])
-
-      for index in range(1, len(split)-1):
-         if split[index] in sabda_banot:
-            if split[index-1] in halanta:
-                  split[index-1] = halanta[split[index-1]]
-                  continue
-            else:
-                  if  split[index-2] in halanta:
-                     split[index-2] = halanta[split[index-2]]
-                  continue
-
-      if split[-1] in halanta:
-         split[-1] = halanta[split[-1]]
-      word = ''
-      for item in split:
-         word = word + str(latter_dict[item])
-      convert_nepali = convert_nepali + ' ' + word
-   
-   return convert_nepali

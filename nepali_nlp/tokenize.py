@@ -1,6 +1,6 @@
 import string
 
-import icu
+# import icu
 
 class Tokenizer:
     def __init__(self):
