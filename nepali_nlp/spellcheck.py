@@ -11,7 +11,7 @@ class spell_distance:
     def __init__(self):
         pass
 
-    def _load_words(self,location):
+    def __load_words(self,location):
         """This function load all the Nepali words in given location.
         
         Arguments:
@@ -40,7 +40,7 @@ class spell_distance:
         Returns:
             [list] -- ['n' correct word predictions.]
         """
-        word_list = self._load_words(location)
+        word_list = self.__load_words(location)
         matches = get_close_matches(word, word_list, n=2, cutoff=0.3)
 
         return matches
