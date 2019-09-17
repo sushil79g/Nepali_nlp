@@ -4,7 +4,7 @@ sys.path.append('..')
 
 from difflib import get_close_matches
 
-class spell_distance:
+class Corrector:
     """This function correct the Nepali word based on distance of character.
     
     """
