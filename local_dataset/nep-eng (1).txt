@@ -1,6 +1,4 @@
-aba
-
-ca
+aba	ca
 
 adv.
 
@@ -451,6 +449,8 @@ based upon
 adharit cha
 
 cfwfl/t %
+
+-
 
 based upon
 
