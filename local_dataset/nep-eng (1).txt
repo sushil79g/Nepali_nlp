@@ -16763,14 +16763,14 @@ vf]hva/
 
 n.
 
+trace, quest, search, enquiry
+
 khojnu
 
 vf]HgÚ
 
 v.t.
 
-trace, quest, search,
-enquiry
 to search
 
 kholnu
@@ -16785,11 +16785,15 @@ vf]nf]
 
 n.
 
+small river
+
 khopo
 
 vf]kf]
 
 n.
+
+a small hole in the wall for keeping things
 
 khoriya
 
@@ -16797,16 +16801,14 @@ vf]l/of
 
 n.
 
+uncultivated land, nature reserve
+
 khorsani
 
 vf];f{gL
 
 n.
 
-a small hole in the wall for
-keeping things
-uncultivated land, nature
-reserve
 chilli, hot pepper
 
 khosuva
@@ -16847,9 +16849,15 @@ vÚ*f
 
 n.
 
+a kind of sword, a kind of scimitar
+
 khushi
 
 vÚzL
+
+-
+
+pleasure, delight, cheerfulness, glad, happy
 
 khusi
 
@@ -16857,10 +16865,6 @@ vÚ;L
 
 adj.
 
-a kind of sword, a kind of
-scimitar
-pleasure, delight,
-cheerfulness, glad, happy
 happy
 
 khutrukka
@@ -16869,14 +16873,14 @@ vÚqÚSs
 
 n.
 
+the sound produced by little articles when dropped
+
 khutto
 
 vÚ§f]
 
 n.
 
-the sound produced by little
-articles when dropped
 leg
 
 khuvaunu
@@ -16893,14 +16897,14 @@ ls
 
 conj.
 
+or, either; word to denote interrogation or doubt
+
 kilakile
 
 lsnlsn]
 
 n.
 
-or, either; word to denote
-interrogation or doubt
 uvula
 
 kimbu
@@ -16935,13 +16939,7 @@ v.t.
 
 to go shopping, to buy
 
-72
-
-to open, to unfasten, to
-explain, to annotate
-small river
-
-kinnu
+kinnu
 
 lsGgÚ
 
@@ -16963,15 +16961,14 @@ ls+jbGtL
 
 n.
 
+rumour, hearsay, false report, popular talk, vague talk, tradition
+
 kira
 
 sL/f
 
 n.
 
-rumour, hearsay, false
-report, popular talk, vague
-talk, tradition
 worm
 
 kiraya
@@ -16996,14 +16993,14 @@ sLlt{dfg
 
 adj.
 
+renowned, famous, celebrated
+
 kisam
 
 ls;d
 
 n.
 
-renowned, famous,
-celebrated
 kind, sort, class, species
 
 kisan
@@ -17052,15 +17049,14 @@ ls^\gÚ
 
 v.t.
 
+to grind teeth, to gnash, to decide, to fix, to specify, to resolve
+
 kodali
 
 sf]bfnL
 
 n.
 
-to grind teeth, to gnash, to
-decide, to fix, to specify, to
-resolve
 spade (with short handle)
 
 kodalo
@@ -17149,11 +17145,15 @@ sf];
 
 n.
 
+a measure of length (distance of about 2 miles)
+
 koshish
 
 sf]lzz
 
 n.
+
+endeavour, attempt, exertion, effort
 
 koshish garnu
 
@@ -17161,10 +17161,6 @@ sf]lzz ugÚ{
 
 v.t.
 
-a measure of length
-(distance of about 2 miles)
-endeavour, attempt,
-exertion, effort
 to try
 
 kot
@@ -17189,18 +17185,15 @@ sf]tkj{
 
 n.
 
-(a histsorical event: Jang
-
-73
-
-Bahadur's coup of 1846
-that brought the Rana
-family into power)
-after the coup of 1846
+(a histsorical event: Jang Bahadur's coup of 1846 that brought the Rana family into power)
 
 kotparva pashcat
 
 sf]tkj{ kZrft
+
+-
+
+after the coup of 1846
 
 kotyaunu
 
@@ -17216,11 +17209,15 @@ qmd
 
 n.
 
+series, chain, order, method
+
 kramashah
 
 qmdzM
 
 adj.
+
+step by step, by degree, serially, successively
 
 krambodhak
 
@@ -17228,10 +17225,6 @@ qmdaf]ws
 
 n.
 
-series, chain, order,
-method
-step by step, by degree,
-serially, successively
 ordinal number
 
 kramjor
@@ -17248,11 +17241,15 @@ qmflGt
 
 n.
 
+revolution, pace, movement, declination, invading, surpassing
+
 krishna paksha
 
 s[i)f kIf
 
 comp.
+
+dark fortnight, the phase of the waning moon
 
 krisi
 
@@ -17260,11 +17257,6 @@ s[lif
 
 n.
 
-revolution, pace,
-movement, declination,
-invading, surpassing
-dark fortnight, the phase of
-the waning moon
 agriculture
 
 krisi utpadan
@@ -17313,14 +17305,14 @@ Ifdtf
 
 n.
 
+ability, capacity, might, power
+
 kshetra
 
 If]q
 
 n.
 
-ability, capacity, might,
-power
 file, plot of land, area
 
 kshetraphal
@@ -17329,14 +17321,14 @@ If]qkmn
 
 n.
 
+products of the land, field crops, area
+
 kucakra
 
 sÚrqm
 
 n.
 
-products of the land, field
-crops, area
 intrigue, a secret plot
 
 kuco
@@ -17427,13 +17419,13 @@ n.
 
 dog
 
-74
-
-kul
+kul
 
 sÚn
 
 n.
+
+race, generation, family, clan, dynasty, parentage
 
 kumari
 
@@ -17441,8 +17433,6 @@ sÚdf/L
 
 n.
 
-race, generation, family,
-clan, dynasty, parentage
 princess, unmarried women
 
 kun
@@ -17483,14 +17473,14 @@ sÚlGg
 
 adv.
 
+I don't know, perhaps, maybe
+
 kuposan
 
 sÚkf]if)f
 
 n.
 
-I don't know, perhaps,
-maybe
 malnutrition
 
 kura
@@ -17515,14 +17505,14 @@ sÚ/fpgL
 
 n.
 
+milk boiled down till nearly solid
+
 kurnu
 
 sÚgÚ{
 
 v.t.
 
-milk boiled down till nearly
-solid
 to wait,to attend
 
 kursi
@@ -17539,11 +17529,15 @@ sÚzn
 
 n./adj.
 
+happiness, wellbeing; skilful, proficient, expert
+
 kushasan
 
 sÚzf;g
 
 n.
+
+bad government, maladministration
 
 kusti
 
@@ -17551,15 +17545,15 @@ sÚ:tL
 
 n.
 
-happiness, wellbeing;
-skilful, proficient, expert
-bad government,
-maladministration
 wrestling
 
 kusti khelnu
 
 sÚ:tL v]NgÚ
+
+-
+
+to wrestle
 
 kutapita
 
@@ -17605,11 +17599,17 @@ kyare
 
 Sof/]
 
+-
+
+I suppose
+
 labh
 
 nfe
 
 n.
+
+value, profit, gain, earning, advantage
 
 lacar
 
@@ -17617,8 +17617,6 @@ nfrf/
 
 adj.
 
-value, profit, gain, earning,
-advantage
 unable, helpless, obliged
 
 ladain
@@ -17635,11 +17633,15 @@ n*\gÚ
 
 v.i./v.t.
 
+to fight, to struggle, to fall down
+
 lagabhaga
 
 nueu
 
 adv.
+
+about, nearly, approximately, almost
 
 lagaeko
 
@@ -17647,10 +17649,6 @@ nufPsf]
 
 adj.
 
-to fight, to struggle, to fall
-down
-about, nearly,
-approximately, almost
 used
 
 lagani
@@ -17667,21 +17665,14 @@ nufpgÚ
 
 v.t.
 
-to use, to put on, to wear,
+to use, to put on, to wear,to set up, to cause to work
 
-to wrestle
-
-I suppose
-
-75
-
-lagayat
+lagayat
 
 nufot
 
 postp.
 
-to set up, to cause to work
 including, together with
 
 laghukatha
@@ -17706,14 +17697,14 @@ nfUgÚ
 
 v.i.
 
+to appear, to begin, to start, to join
+
 lagu
 
 nfuÚ
 
 adj.
 
-to appear, to begin, to start,
-to join
 intoxicating, exciting
 
 lahad
@@ -17722,12 +17713,12 @@ nx*
 
 n.
 
+entertainment, diversion of mind, amusement, joke
+
 lahad aunu
 
 nx* cfpgÚ
 
-entertainment, diversion of
-mind, amusement, joke
 to wish
 
 lahar
@@ -17736,11 +17727,15 @@ nx/
 
 n.
 
+ripple, small wave, surge, undulation
+
 lahari
 
 nx/fL
 
 n.
+
+ripple, small wave, surge, undulation
 
 laihernu
 
@@ -17748,10 +17743,6 @@ nfOx]gÚ{
 
 v.t.
 
-ripple, small wave, surge,
-undulation
-ripple, small wave, surge,
-undulation
 to try on [clothes]
 
 laijanu
@@ -17776,11 +17767,15 @@ nHhf
 
 n.
 
+shame, shyness, dishonour, ignominy, scandal, disgrace
+
 lakh
 
 nfv
 
 num.
+
+one hundred thousand, 1.00.000
 
 lakkhan
 
@@ -17788,35 +17783,31 @@ nSvg
 
 adj.
 
+one hundred thousand, 1.00.000
+
 laksha
 
 nIf
 
 adj.
 
-lakshmiprasad
-devkota
-lakshya
+one hundred thousand, 1.00.000
+
+lakshmi prasad devkota
 
 nIdfLk|;fb b]jsf]^f
 
 n.
 
+Lakshmi Prasad Devkota [a famous Nepali poet]
+
+lakshya
+
 nIo
 
 n.
 
-shame, shyness,
-dishonour, ignominy,
-scandal, disgrace
-one hundred thousand,
-1.00.000
-one hundred thousand,
-1.00.000
-one hundred thousand,
-1.00.000
-Lakshmi Prasad Devkota [a
-famous Nepali poet]
+
 aim, target, goal
 
 lalitpur
@@ -17825,15 +17816,14 @@ nlntkÚ/
 
 n.
 
+Lalitpur, Patan [a neighbouring town of Kathmandu]
+
 lam
 
 nfd
 
 n.
 
-Lalitpur, Patan [a
-neighbouring town of
-Kathmandu]
 a long line, a queue
 
 lamai
@@ -17858,14 +17848,14 @@ nDsgÚ
 
 v.i.
 
+to walk with long steps, to stride
+
 lamkhutte
 
 nfDvÚ§]
 
 n.
 
-to walk with long steps, to
-stride
 mosquito
 
 lamo
@@ -17892,9 +17882,7 @@ adj.
 
 prostrate, stretched out
 
-76
-
-lanchana
+lanchana
 
 nfG%gf
 
@@ -17916,14 +17904,14 @@ nkSs
 
 adv.
 
+adhering, attaching, stricking
+
 lapsi
 
 nK;L
 
 n.
 
-adhering, attaching,
-stricking
 a kind of sour fruit
 
 larbarinu
@@ -18004,11 +17992,15 @@ n]s
 
 n.
 
+hilly region, the higher slope of a mountain
+
 lekha
 
 n]v
 
 n.
+
+prose composition, writing, essay, article
 
 lekhak
 
@@ -18016,10 +18008,6 @@ n]vs
 
 n.
 
-hilly region, the higher
-slope of a mountain
-prose composition, writing,
-essay, article
 author, writer
 
 lekhinu
@@ -18036,14 +18024,14 @@ n]vgfy kf}*Øfn
 
 n.
 
+Lekh Nath Paudyal [a famous Nepali poet]
+
 lekhpadh
 
 n]vk(
 
 n.
 
-Lekh Nath Paudyal [a
-famous Nepali poet]
 reading and writing, study
 
 leninvad
@@ -18060,15 +18048,14 @@ lnR%lj
 
 n.
 
+Licchavi [an early ruling dynasty of the Kathmandu valley]
+
 licchavikal
 
 lnR%ljsfn
 
 n.
 
-Licchavi [an early ruling
-dynasty of the Kathmandu
-valley]
 Licchavi era
 
 ligalige
@@ -18101,14 +18088,14 @@ nLnf
 
 n.
 
+a play, amusement, diversion
+
 lilam
 
 lnnd
 
 n.
 
-a play, amusement,
-diversion
 auction
 
 limbu
@@ -18133,23 +18120,23 @@ lngÚ
 
 v.t.
 
+to take, to acquire, to accept
+
 lipi
 
 lnlk
 
 n.
 
-to take, to acquire, to
-accept
 script, writing, handwriting
 
-77
-
-lobh
+lobh
 
 nf]e
 
 n.
+
+greed, covetousness, temptation
 
 lobhi
 
@@ -18157,8 +18144,6 @@ nf]eL
 
 adj.
 
-greed, covetousness,
-temptation
 greedy, stingy, covetous
 
 logne
@@ -18199,16 +18184,15 @@ nf]s
 
 n.
 
+world, the three worlds [heaven, earth, hell],
+
 loktantra
 
 nf]stGq
 
 n.
 
-world, the three worlds
-[heaven, earth, hell],
-people
-democracy
+people democracy
 
 luga
 
@@ -18344,15 +18328,14 @@ dw];
 
 n.
 
+the Tarai (the southern flat land along the Indian border)
+
 madhya-din
 
-dWo–lbg
+dWo–lbgs
 
 n.
 
-the Tarai (the southern flat
-land along the Indian
-border)
 noon
 
 madhyakalin
@@ -18361,7 +18344,7 @@ dWosfnLg
 
 adj.
 
-mediaeval
+medieval
 
 madhyam
 
@@ -18395,17 +18378,21 @@ n.
 
 midnight
 
-78
-
-madhyavadhi nirvacan dWofjlw lgjf{rg
-madhye
-dWo]
+madhyavadhi nirvacan
+ 
+dWofjlw lgjf{rg
 
 n.
 
 mid-term elections
 
+madhye
+
+dWo]
+
 postp.
+
+amongin the middle, at the centre, in between, within, inside
 
 mag
 
@@ -18413,9 +18400,6 @@ dfu
 
 n.
 
-amongin the middle, at the
-centre, in between, within,
-inside
 demand, claim
 
 magaj
@@ -18440,14 +18424,14 @@ df#
 
 n.
 
+tenth month of the Nepali year [January/February]
+
 magne
 
 dfUg]
 
 n.
 
-tenth month of the Nepali
-year [January/February]
 beggar
 
 magnu
@@ -18472,11 +18456,15 @@ dxflwj]zg
 
 n.
 
+general assembly, general meeting
+
 mahajan
 
 dxfhg
 
 n.
+
+moneylender, rich man, virtuous man
 
 mahakavi
 
@@ -18484,18 +18472,14 @@ dxfslj
 
 n.
 
+great poet [a title for Bhanubhakta Acharya]
+
 mahal
 
 dxn
 
 n.
 
-general assembly, general
-meeting
-moneylender, rich man,
-virtuous man
-great poet [a title for
-Bhanubhakta Acharya]
 palace
 
 mahango
@@ -18512,11 +18496,15 @@ dx;'n
 
 n.
 
+cess, tax, rate, custom, octroi
+
 mahasus
 
 dx;';
 
 n./adj.
+
+feeling, experience, understanding
 
 mahatta
 
@@ -18524,11 +18512,15 @@ dxQf
 
 n.
 
+greatness, magnitude, gravity, glory, importance
+
 mahattva
 
 dxj
 
 n.
+
+greatness, magnitude, gravity, glory, importance
 
 mahattvakanksha
 
@@ -18536,14 +18528,6 @@ dxjsf+Iff
 
 n.
 
-cess, tax, rate, custom,
-octroi
-feeling, experience,
-understanding
-greatness, magnitude,
-gravity, glory, importance
-greatness, magnitude,
-gravity, glory, importance
 high ambition, great desire
 
 mahattvakankshi
@@ -18560,14 +18544,14 @@ dxjk')f{
 
 adj.
 
+superb, royal, regal, palmy, magnanimous, generous
+
 mahila
 
 dlxnf
 
 n.
 
-superb, royal, regal, palmy,
-magnanimous, generous
 woman
 
 mahilo
