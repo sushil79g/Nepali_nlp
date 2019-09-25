@@ -1,3 +1,4 @@
+# coding: utf-8
 import sys 
 sys.path.append('..')
 
@@ -13,6 +14,7 @@ def load_words(location ='../local_dataset/words.txt'):
 def corrector(word,number=2, threshold = 0.3):
     word_list = load_words()
     matches = get_close_matches(word, word_list, n=number, cutoff=threshold)
+
     return matches
 
-print(corrector('वह्किल'))
+print(len(corrector('वह्किल')))
