@@ -21187,11 +21187,15 @@ cf]O/fpgÚ
 
 v.t.
 
+to cause to drop, to cause to fall [in large quantity]
+
 oirini
 
 cf]Ol/gÚ
 
 v.i.
+
+to drop, to fall [in large quantity]
 
 oirinu
 
@@ -21199,10 +21203,6 @@ cf]Ol/gÚ
 
 v.i.
 
-to cause to drop, to cause
-to fall [in large quantity]
-to drop, to fall [in large
-quantity]
 to flow continually
 
 ojhel
@@ -21219,14 +21219,14 @@ cf]s^\gÚ
 
 v.t.
 
+to occupy, to reserve, to hinder
+
 okhar
 
 cf]v/
 
 n.
 
-to occupy, to reserve, to
-hinder
 walnut
 
 okhati
@@ -21259,11 +21259,15 @@ cf];fl/gÚ
 
 v.i.
 
+to be moved from one place to another
+
 osarnu
 
 cf];fgÚ{
 
 v.t.
+
+to move something from one place to another
 
 oth
 
@@ -21271,10 +21275,6 @@ cf]&
 
 n.
 
-to be moved from one
-place to another
-to move something from
-one place to another
 lip, lips
 
 pacadi
@@ -21421,9 +21421,7 @@ n.
 
 meaning of a word, matter
 
-91
-
-padarthavacak nam
+padarthavacak nam
 
 kbfy{jfrs gfd
 
@@ -21445,14 +21443,14 @@ k(fO
 
 n.
 
+study, method of reading or teaching
+
 padhaunu
 
 k(fpgÚ
 
 v.t.
 
-study, method of reading or
-teaching
 to teach
 
 padhelekheka
@@ -21461,14 +21459,14 @@ k(]n]v]sf
 
 adj.
 
+educated, able to read and write
+
 padhnu
 
 k(\gÚ
 
 v.t.
 
-educated, able to read and
-write
 to lear, to read, to study
 
 padina
@@ -21541,14 +21539,14 @@ klxrfg
 
 n.
 
+recognition, acquaintance, identity
+
 pahilo
 
 klxnf]
 
 adj.
 
-recognition, acquaintance,
-identity
 first
 
 pahiran
@@ -21557,14 +21555,14 @@ klx/g
 
 n.
 
+costume, suit, dress, clothes, garments
+
 pahuna
 
 kfxÚgf
 
 n.
 
-costume, suit, dress,
-clothes, garments
 visitor, guest
 
 painsatthi
@@ -21605,19 +21603,14 @@ khgL
 
 n.
 
+arrangement, setting in order, overhauling [the annual festival during which appointments of government officials were renewed for the ensuing year]
+
 pakaunu
 
 ksfpgÚ
 
 v.t.
 
-arrangement, setting in
-order, overhauling [the
-annual festival during which
-appointments of
-government officials were
-renewed for the ensuing
-year]
 to cook
 
 pakeko
@@ -21660,13 +21653,13 @@ n.
 
 wing
 
-92
-
-pakhura
+pakhura
 
 kfvÚ/f
 
 n.
+
+arm
 
 pakka
 
@@ -21674,11 +21667,15 @@ kSsf
 
 adj.
 
+1. certain, sure, true; durable, strong; careful
+
 pakka garnu
 
 kSsf ugÚ{
 
 v.t.
+
+to confirm to make sure
 
 pakku
 
@@ -21694,14 +21691,14 @@ kfSgÚ
 
 v.i.
 
+to be ripe, to ripen, to be cooked
+
 pako
 
 kfsf]
 
 adj.
 
-to be ripe, to ripen, to be
-cooked
 aged, experienced
 
 pakranu
@@ -21710,15 +21707,14 @@ kqmgÚ
 
 v.t.
 
+to catch, to hold, to arrest, to capture, to seize, to catch on, to understand
+
 pakrau
 
 kqmfp
 
 n.
 
-to catch, to hold, to arrest,
-to capture, to seize, to
-catch on, to understand
 capture, arrest, seizure
 
 paksha
@@ -21735,11 +21731,15 @@ kfNgÚ
 
 v.t.
 
+to take care of, to raise, to bring up, to nourish, to keep, to tame
+
 palpa
 
 kfNkf
 
 n.
+
+Palpa [former mini-state, currently a district of Nepal]
 
 paltan
 
@@ -21747,11 +21747,6 @@ kN^g
 
 n.
 
-to take care of, to raise, to
-bring up, to nourish, to
-keep, to tame
-Palpa [former mini-state,
-currently a district of Nepal]
 regiment, batallion
 
 palunggo
@@ -21768,15 +21763,14 @@ kfg
 
 n.
 
+the leaf of the betal nut eaten with areca nut and lime
+
 pana
 
 kfgf
 
 n.
 
-the leaf of the betal nut
-eaten with areca nut and
-lime
 leaf (of a book)
 
 panati
@@ -21817,14 +21811,14 @@ k~rfé
 
 n.
 
+almanac (of Hindu astrology)
+
 pancaun
 
 kfrf}+
 
 adj.
 
-almanac (of Hindu
-astrology)
 fifth
 
 pancayat
@@ -21833,15 +21827,14 @@ kGrfot
 
 n.
 
+village assembly to decide disputes, an assembly of elected representatives
+
 panchaunu
 
 kG%fpgÚ
 
 v.t.
 
-village assembly to decide
-disputes, an assembly of
-elected representatives
 to evade, to push aside
 
 pandhra
@@ -21884,14 +21877,7 @@ comp.
 
 when it rains
 
-93
-
-arm
-1. certain, sure, true; durable,
-strong; careful
-to confirm to make sure
-
-pani parnu
+pani parnu
 
 kfgL kgÚ{
 
@@ -21905,11 +21891,15 @@ klgp
 
 n.
 
+a flat spoon used for ladling out rice
+
 panjaa
 
 kGhf
 
 n.
+
+a combination of five fingers, gloves, covering of the hands
 
 panjika
 
@@ -21917,11 +21907,6 @@ kl~hsf
 
 n.
 
-a flat spoon used for ladling
-out rice
-a combination of five
-fingers, gloves, covering of
-the hands
 register, list, calender
 
 pankha
@@ -21970,11 +21955,15 @@ kf/
 
 n.
 
+end, other side, limit, accomplishment,renunciation, release, relief, deliverance, liberation
+
 para
 
 k/
 
 adv.
+
+aside, separate, beyond, further
 
 paraghaun
 
@@ -21982,12 +21971,6 @@ k/f#f}+
 
 adv.
 
-end, other side, limit,
-accomplishment,
-renunciation, release, relief,
-deliverance, liberation
-aside, separate, beyond,
-further
 after two years
 
 parajaya
@@ -22004,14 +21987,14 @@ k/flht
 
 adj.
 
+defeated, vanquished, overthrown
+
 parajit
 
 k/flht
 
 adj.
 
-defeated, vanquished,
-overthrown
 defeated, overthrown
 
 parakram
@@ -22020,11 +22003,15 @@ k/fqmd
 
 n.
 
+power, strength, valour, prowess
+
 parakrami
 
 k/fqmdL
 
 adj.
+
+heroic, gallant, valiant, brave
 
 param
 
@@ -22032,11 +22019,15 @@ k/d
 
 adj.
 
+best, supreme, uttermost, extreme
+
 paramdham
 
 k/dwfd
 
 n.
+
+heaven, paradise, the next world; death, demise
 
 paramgati
 
@@ -22044,14 +22035,6 @@ k/dult
 
 n.
 
-power, strength, valour,
-prowess
-heroic, gallant, valiant,
-brave
-best, supreme, uttermost,
-extreme
-heaven, paradise, the next
-world; death, demise
 liberation, salvation
 
 parampad
@@ -22068,14 +22051,14 @@ k/Dk/f
 
 n.
 
+sequence, succession, order
+
 paramparagat
 
 k/Dk/fut
 
 adj.
 
-sequence, succession,
-order
 tradional
 
 paramparik
@@ -22100,20 +22083,17 @@ k/GtÚ
 
 n./adv.
 
+but, inspite, however, still, the remaining life, end
+
 parapacuke
 
 kf/kfrÚs]
 
 n.
 
-but, inspite, however, still,
-the remaining life, end
-divorce, dissolution of
-marriage
+divorce, dissolution of marriage
 
-94
-
-parar
+parar
 
 k/f/
 
@@ -22127,23 +22107,31 @@ k//fi^«
 
 n.
 
-pararastra mantralaya k//fi^« dGqfno
-pararastra mantri
-k//fi^« dGqL
-pararastriya
-k//fi^«Lo
+foreign county, another country
+
+pararastra mantralaya 
+
+k//fi^« dGqfno
 
 n.
 
-foreign county, another
-country
 foreign ministry
+
+pararastra mantri
+
+k//fi^« dGqL
 
 n.
 
 foreign minister
 
+pararastriya
+
+k//fi^«Lo
+
 adj.
+
+foreign, alien, related to another nation
 
 paraspar
 
@@ -22151,16 +22139,14 @@ k/:k/
 
 adj.
 
+mutually, reciprocal, one another
+
 parca
 
 krf{
 
 n.
 
-foreign, alien, related to
-another nation
-mutually, reciprocal, one
-another
 leaflet, settlement record
 
 parda
@@ -22169,14 +22155,14 @@ kbf{
 
 n.
 
+curtain, screen, veil, partition
+
 pardabhitrai
 
 kbf{leq}
 
 comp.
 
-curtain, screen, veil,
-partition
 secretly
 
 pardesh
@@ -22190,6 +22176,11 @@ abroad
 pardesh lagnu
 
 k/b]z nfUgÚ
+
+-
+
+to go abroad
+
 
 parela
 
@@ -22213,11 +22204,15 @@ kfl/
 
 n.
 
+the other side [of the shore or boundary]
+
 pari
 
 kf/L
 
 n.
+
+the other side [of the shore or boundary]
 
 paribhasa
 
@@ -22225,10 +22220,6 @@ kl/efiff
 
 n.
 
-the other side [of the shore
-or boundary]
-the other side [of the shore
-or boundary]
 definition, terminology
 
 paricalan
@@ -22245,11 +22236,15 @@ kl/ro
 
 n.
 
+acquaintance, intimacy, familiarity
+
 paricched
 
 kl/R%]b
 
 n.
+
+part, division, section of a book, chapter, paragraph
 
 pariksha
 
@@ -22257,10 +22252,6 @@ k/LIff
 
 n.
 
-acquaintance, intimacy,
-familiarity
-part, division, section of a
-book, chapter, paragraph
 examination, investigation
 
 parikshan
@@ -22293,11 +22284,15 @@ kl/)ffd:j¿k
 
 conj.
 
+as a result of, with the result of, consequently
+
 parinati
 
 kl/)flt
 
 n.
+
+transformation, culmination, form
 
 paripati
 
@@ -22305,18 +22300,14 @@ kl/kf^L
 
 n.
 
+tradition, method, mode, arrangement, order
+
 paripurti
 
 kl/kÚlt{
 
 n.
 
-as a result of, with the
-result of, consequently
-transformation, culmination,
-form
-tradition, method, mode,
-arrangement, order
 perfection, completion
 
 parisad
@@ -22325,25 +22316,23 @@ kl/ifb
 
 n.
 
+assembly, council, senate, committee
+
 parishist
 
 kl/lzi^
 
 n.
 
-to go abroad
-
-95
-
-assembly, council, senate,
-committee
 appendix, supplement
 
-parishrami
+parishrami
 
 kl/>dL
 
 adj.
+
+assembly, council, senate, committee
 
 paristhiti
 
@@ -22351,11 +22340,15 @@ kl/l:ylt
 
 n.
 
+circumstances, situation, condition, surrounding, environment
+
 parit
 
 kfl/t
 
 adj.
+
+resolved, decided, concluded, passed (of a motion, bill, etc.)
 
 parityag
 
@@ -22363,15 +22356,6 @@ kl/Tofu
 
 n.
 
-laborious, industrious,
-painstaking, hardworking,
-diligent
-circumstances, situation,
-condition, surrounding,
-environment
-resolved, decided,
-concluded, passed (of a
-motion, bill, etc.)
 abandonment, abdication
 
 parivar
@@ -22428,11 +22412,15 @@ kgÚ{
 
 v.i.
 
+to happen, to occur, to fall,to ignite
+
 parnu
 
 kfgÚ{
 
 v.t.
+
+to put in, to lay, to ignite, to cause, to make
 
 paro
 
@@ -22440,10 +22428,6 @@ kf/f]
 
 n.
 
-to happen, to occur, to fall,
-to ignite
-to put in, to lay, to ignite, to
-cause, to make
 mercury
 
 parsi
@@ -22468,11 +22452,15 @@ kf^L{ s]Gb|Lo sldlt
 
 n.
 
+central committee of a party
+
 parva
 
 kj{
 
 n.
+
+festival, holiday, fête, chapter, section, portion, canto
 
 parvat
 
@@ -22480,11 +22468,6 @@ kj{t
 
 n.
 
-central committee of a
-party
-festival, holiday, fête,
-chapter, section, portion,
-canto
 hill, mountain, rock
 
 paryanta
@@ -22533,14 +22516,14 @@ k;n]
 
 n.
 
+shopkeeper, merchant, vendor
+
 pashcim
 
 klZrd
 
 n.
 
-shopkeeper, merchant,
-vendor
 west
 
 pashupalan
@@ -22567,9 +22550,7 @@ n.
 
 sweat
 
-96
-
-paskanu
+paskanu
 
 k:sgÚ
 
@@ -22583,11 +22564,15 @@ k:gÚ
 
 v.t.
 
+to enter, to go in, to come in
+
 pata
 
 kf^
 
 n.
+
+jute, hessian, silk, silk threat
 
 patak
 
@@ -22595,10 +22580,6 @@ k^s
 
 n.
 
-to enter, to go in, to come
-in
-jute, hessian, silk, silk
-threat
 times, occasion
 
 patalo
@@ -22631,15 +22612,14 @@ kf^g
 
 n.
 
+Lalitpur, Patan [a neighbouring town of Kathmandu]
+
 patani
 
 k^gL
 
 n.
 
-Lalitpur, Patan [a
-neighbouring town of
-Kathmandu]
 irrigation
 
 path
@@ -22696,14 +22676,14 @@ kf&zfnfof
 
 n.
 
+school, college, academy, seminary
+
 pati
 
 klt
 
 n.
 
-school, college, academy,
-seminary
 husband
 
 patit
@@ -22720,14 +22700,14 @@ kTgL
 
 n.
 
+wife, better half, married woman
+
 patra
 
 kq
 
 n.
 
-wife, better half, married
-woman
 page
 
 patrakar
@@ -22816,19 +22796,15 @@ kfpgÚ
 
 v.t.
 
-to get, to obtain, to receive,
-to bear, to beget, to
+to get, to obtain, to receive, to bear, to beget, to
 
-97
-
-pauranik
+pauranik
 
 kf}/flgs
 
 adj.
 
-produce
-legendary
+produce legendary
 
 pauranu
 
@@ -22868,14 +22844,14 @@ kf}if
 
 n.
 
+ninth month of the Nepali year (December/January)
+
 paustik
 
 kf}li^s
 
 n.
 
-ninth month of the Nepali
-year (December/January)
 nutrition
 
 pesh
@@ -22916,11 +22892,15 @@ k]^L
 
 n.
 
+belt, casket, small box, small chest, girdle
+
 phagun
 
 kmfuÚg
 
 n.
+
+eleventh month of the Nepali year (February/March)
 
 phaida
 
@@ -22928,11 +22908,6 @@ kmfO{bf
 
 n.
 
-belt, casket, small box,
-small chest, girdle
-eleventh month of the
-Nepali year
-(February/March)
 advantage
 
 phailanu
@@ -22965,14 +22940,14 @@ km};nf
 
 n.
 
+decision, judgement, settlement, adjudication
+
 phalam
 
 kmnfd
 
 n.
 
-decision, judgement,
-settlement, adjudication
 iron
 
 phalgun
@@ -22981,11 +22956,15 @@ kmNuÚ)f
 
 n.
 
+eleventh month of the Nepali year (February/March)
+
 phalnu
 
 kmfNgÚ
 
 v.t.
+
+to throw away
 
 phalnu
 
@@ -22993,14 +22972,14 @@ kmNgÚ
 
 v.i.
 
+to bear fruits; to cleanse, to husk
+
 phalphul
 
 kmnkm'n
 
 n.
 
-to bear fruits; to cleanse, to
-husk
 fruits and flowers
 
 phalphul kheti
@@ -23025,14 +23004,14 @@ kmf;L
 
 n.
 
+execution by hanging, noose
+
 phapar
 
 kmfk/
 
 n.
 
-execution by hanging,
-noose
 buckwheat
 
 pharak
@@ -23041,23 +23020,17 @@ km/s
 
 n.
 
+difference, separation, being apart
+
 pharakilo
 
 km/flsnf]
 
 adj.
-98
 
-eleventh month of the
-Nepali year
-(February/March)
-to throw away
-
-difference, separation,
-being apart
 spacious, roomy, extensive
 
-pharar
+pharar
 
 km/f/
 
@@ -23111,14 +23084,14 @@ km]l/
 
 adv.
 
+again, once more, once again
+
 phesan
 
 km];g
 
 n.
 
-again, once more, once
-again
 facion
 
 phijinu
@@ -23205,6 +23178,10 @@ phuleko kesh
 
 kmÚn]sf] s]z
 
+-
+
+grey hair
+
 phulkopi
 
 km'nsf]kL
@@ -23275,14 +23252,14 @@ kLl*t
 
 adj.
 
+afflicted, tortured, distressed, oppressed
+
 pindalu
 
 lk+*fnÚ
 
 n.
 
-afflicted, tortured,
-distressed, oppressed
 a kind of root
 
 pindulo
@@ -23307,14 +23284,9 @@ kL/
 
 n.
 
-worry, anxiety, distress,
-mental trouble, punishment
+worry, anxiety, distress, mental trouble, punishment
 
-grey hair
-
-99
-
-pira
+pira
 
 lk/f
 
@@ -23328,14 +23300,14 @@ lk/NgÚ
 
 v.i./v.t.
 
+to torment, to afflict, to distress, to tease
+
 piro
 
 lk/f]
 
 adj.
 
-to torment, to afflict, to
-distress, to tease
 hot [in taste]
 
 pirolnu
@@ -23344,14 +23316,14 @@ lk/f]NgÚ
 
 v.t.
 
+to torment, to afflict, to distress, to tease
+
 pita
 
 lktf
 
 n.
 
-to torment, to afflict, to
-distress, to tease
 father [Sanskritized]
 
 pithiun
@@ -23408,14 +23380,14 @@ kf]On
 
 n.
 
+running away with a man without formal marriage
+
 poila janu
 
 kf]On hfgÚ
 
 comp.
 
-running away with a man
-without formal marriage
 run away with a man
 
 pokhari
@@ -23448,14 +23420,14 @@ kf]TgÚ
 
 v.t.
 
+smear with red clay, paint the floor wall, whitewash
+
 poto
 
 kf]tf]
 
 n.
 
-smear with red clay, paint
-the floor wall, whitewash
 a smearing rag
 
 prabandhak
@@ -23464,11 +23436,15 @@ k|aGws
 
 n.
 
+manager, writer of an essay
+
 prabhat
 
 k|eft
 
 n.
+
+daybreak, dawn
 
 prabhav
 
@@ -23476,11 +23452,15 @@ k|efj
 
 n.
 
+influence, effect, power, strength, authority, dominance
+
 prabhavashali
 
 k|efjzfnL
 
 adj.
+
+powerful, strong, radiant
 
 pracalan
 
@@ -23488,11 +23468,15 @@ k|rng
 
 n.
 
+prevalence, custom, usage, currency, movement
+
 pracalit
 
 k|rlnt
 
 adj.
+
+prevalent, current, customary, in practice, in vogue, recognised
 
 pracar
 
@@ -23500,35 +23484,17 @@ k|rf/
 
 n.
 
+publicity, publication, usage, advertisement, announcement
+
 pracarit
 
 k|rfl/t
 
 adj.
 
-100
+propagated, publicised, circulated, made current, made prevalent, given currency
 
-manager, writer of an
-essay
-daybreak, dawn
-influence, effect, power,
-strength, authority,
-dominance
-powerful, strong, radiant
-prevalence, custom, usage,
-currency, movement
-prevalent, current,
-customary, in practice, , in
-vogue, recognised
-publicity, publication,
-usage, advertisement,
-announcement
-propagated, publicised,
-circulated, made current,
-made prevalent, given
-currency
-
-pracin
+pracin
 
 k|frLg
 
