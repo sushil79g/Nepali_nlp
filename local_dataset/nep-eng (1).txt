@@ -1,4 +1,6 @@
-aba	ca
+aba	
+
+ca
 
 adv.
 
@@ -18610,9 +18612,7 @@ n.
 
 mother's brother's wife
 
-79
-
-mailo
+mailo
 
 d}nf]
 
@@ -18642,11 +18642,15 @@ d}gf
 
 n.
 
+a name applied to several different sturnoid passerine birds of India and countries further east, belonging to the genera Acridotheres and Eulabes
+
 maiyan
 
 d}of
 
 n.
+
+princess; a word used affectionately for addressing a daughter
 
 maja
 
@@ -18654,23 +18658,14 @@ dhf
 
 n.
 
+happiness, enjoyment, rejoicing
+
 majako
 
 dhfsf]
 
 adj.
 
-a name applied to several
-different sturnoid passerine
-birds of India and countries
-further east, belonging to
-the genera Acridotheres
-and Eulabes
-princess; a word used
-affectionately for
-addressing a daughter
-happiness, enjoyment,
-rejoicing
 pleased, funny
 
 majha
@@ -18711,15 +18706,14 @@ dsn
 
 n.
 
+a small moveable earthenware stove used for heating
+
 malai man parcha
 
 dnfO{ dg k%{
 
 comp.
 
-a small moveable
-earthenware stove used for
-heating
 I like
 
 malai man pardaina
@@ -18776,12 +18770,12 @@ dg
 
 n.
 
+mind, thought, mental state, heart, feeling
+
 man aunu
 
 dg cfpgÚ
 
-mind, thought, mental
-state, heart, feeling
 to long, to wish
 
 manadeva
@@ -18790,15 +18784,14 @@ dfgb]j
 
 n.
 
+Manadeva [name of several kings of the Licchavi era]
+
 manahi
 
 dgfxL
 
 n.
 
-Manadeva [name of
-several kings of the
-Licchavi era]
 prohibition, control
 
 manai
@@ -18815,20 +18808,17 @@ dfggLo
 
 adj.
 
+honorable, respectable, venerable
+
 manasib
 
 dgfl;a
 
 adj.
 
-honorable, respectable,
-venerable
-right, just, proper,
-reasonable, fit
+right, just, proper, reasonable, fit
 
-80
-
-manaunu
+manaunu
 
 dgfpgÚ
 
@@ -18842,14 +18832,14 @@ dfgj
 
 n.
 
+mankind, man, human being
+
 manavshastra
 
 dfgjzf:q
 
 n.
 
-mankind, man, human
-being
 anthropology
 
 manbodhak
@@ -18874,14 +18864,13 @@ d~r/L
 
 n.
 
+cluster of buds and flowers, flower bud
 manche
 
 dfG%]
 
 n.
 
-cluster of buds and flowers,
-flower bud
 man, person
 
 mandro
@@ -18914,19 +18903,23 @@ dfu
 
 n.
 
+demand, requirement, requisition
+
 manglavar
 
 d+Unjf/
 
 n.
 
-demand, requirement,
-requisition
 Tuesday
 
 mangoliya
 
 d+uf]lnof
+
+-
+
+Mongolei
 
 mangsir
 
@@ -18934,14 +18927,14 @@ d+u;L/
 
 n.
 
+eighth month of the Nepali year [November/December]
+
 mani
 
 dfgL
 
 adj.
 
-eighth month of the Nepali
-year [November/December]
 respectable, respectful
 
 manis
@@ -18958,11 +18951,15 @@ dfGgÚ
 
 v.t.
 
+to respect, to worship, to accept, to observe
+
 manoranjan
 
 dgf]/~hg
 
 n.
+
+amusement, entertainment, recreation
 
 manovigyan
 
@@ -18970,10 +18967,6 @@ dgf]lj!fg
 
 n.
 
-to respect, to worship, to
-accept, to observe
-amusement, entertainment,
-recreation
 psychology
 
 manovigyanik
@@ -19006,14 +18999,14 @@ dGtJo
 
 n.
 
+view, opinion, remark, note, comment
+
 mantralaya
 
 dGqfno
 
 n.
 
-view, opinion, remark, note,
-comment
 ministery
 
 mantri
@@ -19030,14 +19023,14 @@ dfGotf
 
 n.
 
+recognition, validity, accredition
+
 mapdanda
 
 dfkb)*
 
 n.
 
-recognition, validity,
-accredition
 touchstone, standard
 
 maramar
@@ -19062,14 +19055,9 @@ dfu{
 
 n.
 
-eighth month of the Nepali
-year [November/December]
+eighth month of the Nepali year [November/December]
 
-Mongolei
-
-81
-
-maric
+maric
 
 dl/r
 
@@ -19123,14 +19111,14 @@ dl;gf]
 
 adj.
 
+fine, thin, mild, gentle, delicate
+
 mast
 
 d:t
 
 adj.
 
-fine, thin, mild, gentle,
-delicate
 drunk, intoxicated
 
 mastira
@@ -19155,14 +19143,14 @@ dt
 
 n.
 
+vote, opinion, voice, dogma, belief
+
 matabhed
 
 dte]b
 
 n.
 
-vote, opinion, voice,
-dogma, belief
 difference of opinion
 
 matako
@@ -19211,14 +19199,14 @@ dtf]
 
 n.
 
+consultation, counsel, opinion
+
 mato
 
 df^f]
 
 n.
 
-consultation, counsel,
-opinion
 earth, clay, soil
 
 matoko sarvekshan
@@ -19299,15 +19287,14 @@ df};'km
 
 pron.
 
+personal address towards the king [royal honorific pronoun]
+
 maya
 
 dfof
 
 n.
 
-personal address towards
-the king [royal honorific
-pronoun]
 love
 
 maya garnu
@@ -19326,13 +19313,13 @@ n.
 
 Meche [a Nepali nationality]
 
-82
-
-meghalaya
+meghalaya
 
 d]#fno
 
 n.
+
+Meghalaya [a Northeast Indian state]
 
 mehanat
 
@@ -19340,8 +19327,6 @@ d]xgt
 
 n.
 
-Meghalaya [a Northeast
-Indian state]
 industry, labour, hard work
 
 mehel
@@ -19358,15 +19343,14 @@ d]n
 
 n.
 
+meeting, unity, concord, harmony, intimacy, friendship, union, alliance
+
 meva
 
 d]jf
 
 n.
 
-meeting, unity, concord,
-harmony, intimacy,
-friendship, union, alliance
 melon
 
 midiya
@@ -19383,15 +19367,14 @@ ldxL
 
 adj.
 
+fine, fine spun, finely pulverized; soft, tender, smooth
+
 mihinet
 
 ldlxg]t
 
 n.
 
-fine, fine spun, finely
-pulverized; soft, tender,
-smooth
 labour, industry, work, toil
 
 mihineti
@@ -19400,11 +19383,15 @@ ldlxg]tL
 
 adj.
 
+industrious, hardworking, busy, active
+
 milaunu
 
 ldnfpgÚ
 
 v.t.
+
+to reconcile, to resolve, to arbitrate, to bring about an agreement, to cause to join, to mix, to adjust, to solve, to balance
 
 milnu
 
@@ -19412,11 +19399,15 @@ ldNgÚ
 
 v.i.
 
+to agree, to fit in, to mingle to mix up, to befit
+
 mirg
 
 ldu{
 
 n.
+
+deer
 
 misaunu
 
@@ -19424,14 +19415,14 @@ ld;fpgÚ
 
 v.t.
 
+to mingle, to mix up together
+
 misri
 
 ld;|L
 
 n.
 
-to mingle, to mix up
-together
 sugar candy, rockcandy
 
 mit
@@ -19546,20 +19537,7 @@ v.t.
 
 to drive a car
 
-83
-
-industrious, hardworking,
-busy, active
-to reconcile, to resolve, to
-arbitrate, to bring about an
-agreement, to cause to
-join, to mix, to adjust, to
-solve, to balance
-to agree, to fit in, to mingle
-to mix up, to befit
-deer
-
-motaunu
+motaunu
 
 df]^fpgÚ
 
@@ -19661,14 +19639,14 @@ dÚxfg
 
 n.
 
+source of a river or an irrigation canal
+
 muhar
 
 dÚxf/
 
 n.
 
-source of a river or an
-irrigation canal
 facade
 
 muhurta
@@ -19677,11 +19655,15 @@ dÚx't{
 
 n.
 
+a division of time (48 minutes), auspicious moment, a moment, a while, a very short time
+
 mukam
 
 dÚsfd
 
 n.
+
+halting place, halt, dwelling, place of residence, camping place
 
 mukh
 
@@ -19689,13 +19671,6 @@ dÚv
 
 n.
 
-a division of time (48
-minutes), auspicious
-moment, a moment, a
-while, a very short time
-halting place, halt, dwelling,
-place of residence,
-camping place
 mouth, face
 
 mukh dhunu
@@ -19712,14 +19687,14 @@ dÚVot
 
 adv.
 
+chiefly, mainly, principally, primarily
+
 mukta
 
 dÚQm
 
 adj.
 
-chiefly, mainly, principally,
-primarily
 liberated, released
 
 mukta garnu
@@ -19752,11 +19727,15 @@ d'ns
 
 postp.
 
+based on, depending on, growing from, emanating from, originating from
+
 mulatah
 
 d'ntM
 
 adv.
+
+basically, fundamentally, primarily, essentially
 
 mulayat
 
@@ -19764,11 +19743,6 @@ dÚnfot
 
 adj.
 
-based on, depending on,
-growing from, emanating
-from, originating from
-basically, fundamentally,
-primarily, essentially
 soft
 
 mulsadak
@@ -19795,9 +19769,7 @@ n.
 
 native, original inhabitant
 
-84
-
-mulya
+mulya
 
 d'No
 
@@ -19819,11 +19791,15 @@ dÚdf
 
 n.
 
+mother [used by upper class only]
+
 munal
 
 dÚgfn
 
 n.
+
+a kind of bird from the mountains
 
 mung
 
@@ -19831,18 +19807,14 @@ dÚª
 
 n.
 
+a kind of Lentils, mung bean
+
 muni
 
 dÚlg
 
 postp.
 
-mother [used by upper
-class only]
-a kind of bird from the
-mountains
-a kind of Lentils, mung
-bean
 below, under
 
 muntira
@@ -19929,6 +19901,10 @@ mvain khanu
 
 DjfO vfgÚ
 
+-
+
+to kiss
+
 myaun garnu
 
 dofp ugÚ{
@@ -20007,11 +19983,15 @@ gu/kflnsf
 
 n.
 
+municipality, municipal committee
+
 nai
 
 g}
 
 part.
+
+a particle used after the word to give emphasis
 
 nain
 
@@ -20019,10 +19999,6 @@ gfO{+
 
 interj.
 
-municipality, municipal
-committee
-a particle used after the
-word to give emphasis
 no, negation
 
 naitikta
@@ -20047,14 +20023,9 @@ gh/
 
 n.
 
-eye, vision, sight, look,
-glance
+eye, vision, sight, look, glance
 
-to kiss
-
-85
-
-najarana
+najarana
 
 gh/fgf
 
