@@ -20119,14 +20119,14 @@ gfds
 
 adj.
 
+named, bearing the name of
+
 namasthanik
 
 gfd:yflgs
 
 adj.
 
-named, bearing the name
-of
 independent from a noun
 
 namdar
@@ -20167,14 +20167,14 @@ gfdlgzfg
 
 adj.
 
+name, trace, mark; name and address
+
 namyogi
 
 gfdof]uL
 
 n.
 
-name, trace, mark; name
-and address
 postposition
 
 nanda
@@ -20191,14 +20191,14 @@ gGb]efO
 
 n.
 
+husband's younger sister's husband
+
 nang
 
 gª
 
 n.
 
-husband's younger sister's
-husband
 nail
 
 nangge
@@ -20239,14 +20239,14 @@ gf/f
 
 n.
 
+slogan, striking word, phrase
+
 naram
 
 g/d
 
 adj.
 
-slogan, striking word,
-phrase
 soft, delicate, kind, gentle
 
 naramro
@@ -20289,9 +20289,7 @@ n.
 
 wrist, pulse
 
-86
-
-narival
+narival
 
 gl/jn
 
@@ -20433,11 +20431,15 @@ g]kfnuGh
 
 n.
 
+Nepalganj [a town in the western Tarai]
+
 nera
 
 g]/
 
 adj.
+
+near, near by, close by, not far
 
 neri
 
@@ -20445,18 +20447,14 @@ g]l/
 
 adj.
 
+near, near by, close by, not far
+
 neta
 
 g]tf
 
 n.
 
-Nepalganj [a town in the
-western Tarai]
-near, near by, close by, not
-far
-near, near by, close by, not
-far
 leader, guide, chief
 
 netritva
@@ -20481,11 +20479,15 @@ lgaGw
 
 n.
 
+article, essay, dissertation, thesis, bond, fixation
+
 nibhnu
 
 lgEgÚ
 
 v.i.
+
+to go out, to be extinguished
 
 nibuva
 
@@ -20493,10 +20495,6 @@ lgaÚjf
 
 n.
 
-article, essay, dissertation,
-thesis, bond, fixation
-to go out, to be
-extinguished
 lemon
 
 nico
@@ -20505,11 +20503,15 @@ gLrf]
 
 adj.
 
+low, inferior, mean, worthless
+
 nidaunu
 
 lgbfpgÚ
 
 v.i.
+
+to go to sleep, to become numb
 
 nidhan
 
@@ -20517,10 +20519,6 @@ lgwfg
 
 n./adj.
 
-low, inferior, mean,
-worthless
-to go to sleep, to become
-numb
 destruction, death, poor
 
 nidhar
@@ -20537,18 +20535,14 @@ lgwf]
 
 n.
 
-confirmation, settlement,
-decision, final word,
+confirmation, settlement, decision, final word,resolution 
 
-87
-
-nihsantan
+nihsantan
 
 lgM;Gtfg
 
 adj.
 
-resolution
 childless, without offspring
 
 nihun
@@ -20581,14 +20575,14 @@ lgs^
 
 adj.
 
+near, near by, close by, not sfar
+
 nikaya
 
 lgsfo
 
 n.
 
-near, near by, close by, not
-far
 body, system
 
 niko
@@ -20611,21 +20605,24 @@ nimitta
 
 lgldQ
 
+n./postp. 
+
+for, for the sake of, for the cause of, cause, motive, account, reason
+
 nimnalikhit
 
 lgDglnlvt
+
+adj.
+
+undermentioned, following, mentioned below
 
 nimti
 
 lglDt
 
-n./postp. for, for the sake of, for the
-cause of, cause, motive,
-account, reason
-adj.
-undermentioned, following,
-mentioned below
 postp.
+
 for, for the sake of
 
 ninda
@@ -20634,11 +20631,16 @@ lgGbf
 
 n.
 
+
+reflection, condemnation, slander, calumny, vilification, censure, blame
+
 nindan
 
 lgGbg
 
 n.
+
+vilification
 
 niptara
 
@@ -20646,14 +20648,14 @@ lgk^f/f
 
 n.
 
+disposal, settlement, reconciliation, conclusion
+
 nipun
 
 lgkÚ)f
 
 adj.
 
-disposal, settlement,
-reconciliation, conclusion
 dexterous, skilful, clever
 
 nir
@@ -20670,11 +20672,15 @@ lg/
 
 adj.
 
+near, near by, close by, not far
+
 nirakaran
 
 lg/fs/)f
 
 n.
+
+abrogation, annulment, removal
 
 nirakshar
 
@@ -20682,10 +20688,6 @@ lg/If/
 
 adj.
 
-near, near by, close by, not
-far
-abrogation, annulment,
-removal
 illiterate
 
 nirantar
@@ -20694,14 +20696,14 @@ lg/Gt/
 
 adj.
 
+continuous, constant, incessant, ceaseless
+
 nirantarta
 
 lg/Gt/tf
 
 n.
 
-continuous, constant,
-incessant, ceaseless
 continuity, continuation
 
 niraparadh
@@ -20718,11 +20720,15 @@ lg/y{s
 
 n.
 
+meaningless, vain, useless, fruitless, insignificant, worthless, futile
+
 nirdaya
 
 lgb{o
 
 adj.
+
+cruel, brutal, merciless, unkind
 
 nirdayata
 
@@ -20730,33 +20736,23 @@ lgb{otf
 
 n.
 
+cruelty, unkindness, severity, brutality
+
 nirdesh
 
 lgb]{z
 
 n.
 
-meaningless, vain, useless,
-fruitless, insignificant,
-worthless, futile
-cruel, brutal, merciless,
-unkind
-cruelty, unkindness,
-severity, brutality
 instruction, order, indication
 
-88
-
-reflection, condemnation,
-slander, calumny,
-vilification, censure, blame
-vilification
-
-nirdeshak
+nirdeshak
 
 lgb]{zs
 
 n.
+
+director (of an institute or center)
 
 nirdeshan
 
@@ -20764,11 +20760,15 @@ lgb]{zg
 
 n.
 
+instruction, order, indication
+
 nirman
 
 lgdf{)f
 
 n.
+
+construction, creation, manufacture, formation, framing, act of building or making
 
 nirmata
 
@@ -20776,11 +20776,15 @@ lgdf{tf
 
 n.
 
+maker, producer, manufacturer, builder, creator
+
 nirmit
 
 lgld{t
 
 adj.
+
+made, formed, built, created
 
 nirnaya
 
@@ -20788,11 +20792,15 @@ lg)f{o
 
 n.
 
+decision, resolution, discernment, ascertainment, determination
+
 nirogi
 
 lg/f]uL
 
 adj.
+
+healthy, in good health, not ill
 
 nirvacan
 
@@ -20800,21 +20808,6 @@ lgjf{rg
 
 n.
 
-construction, creation,
-manufacture, formation,
-framing, act of building or
-making
-maker, producer,
-manufacturer, builder,
-creator
-made, formed, built,
-created
-decision, resolution,
-discernment,
-ascertainment,
-determination
-healthy, in good health, not
-ill
 election
 
 nis
@@ -20839,11 +20832,15 @@ lgZrn
 
 adj.
 
+fixed, still, firm, motionless, immovable
+
 nishcaya
 
 lgZro
 
 n.
+
+sure knowledge, resolution, determination, confidence
 
 nishcit
 
@@ -20851,25 +20848,23 @@ lglZrt
 
 adj.
 
-nishcit
-sankhyabodhak
-niskantak
+sure, unfailing, without doubt
+
+nishcit sankhyabodhak
 
 lglZrt ;+Vofaf]ws
 
 n.
 
-fixed, still, firm, motionless,
-immovable
-sure knowledge, resolution,
-determination, confidence
-sure, unfailing, without
-doubt
 definitive numeral
+
+niskantak
 
 lgis)^s
 
 adj.
+
+thornless, free from troubles
 
 niskanu
 
@@ -20877,8 +20872,6 @@ lg:sgÚ
 
 v.i.
 
-thornless, free from
-troubles
 to come out, to appear
 
 nisto
@@ -20919,11 +20912,15 @@ lgjf/)f
 
 n.
 
+prevention, preclusion, redress, deterrence, determent
+
 nivas
 
 lgjf;
 
 n.
+
+home, residence, abode, dwelling
 
 nivasi
 
@@ -20931,29 +20928,15 @@ lgjf;L
 
 n.
 
+inhabitant, resident, inmate, native
+
 niyam
 
 lgod
 
 n.
 
-prevention, preclusion,
-redress, deterrence,
-determent
-home, residence, abode,
-dwelling
-inhabitant, resident, inmate,
-native
-rule, usage, regulation,
-
-89
-
-director (of an institute or
-center)
-instruction, order, indication
-
-practice
-control, restraint
+rule, usage, regulation, practice
 
 niyantran
 
@@ -20961,11 +20944,15 @@ lgoGq)f
 
 n.
 
+control, restraint
+
 niyati
 
 lgolt
 
 n.
+
+fate, luck, fortune, destiny, predestination
 
 niyukta
 
@@ -20973,11 +20960,15 @@ lgoÚQm
 
 adj.
 
+appointed, employed, posted
+
 niyukti
 
 lgoÚlQm
 
 n.
+
+appointment, employment
 
 niyutta
 
@@ -20985,15 +20976,14 @@ lgoÚQ
 
 adj.
 
+appointed, engaged, employed, devoted, nominated, assigned
+
 nokar
 
 gf]s/
 
 n.
 
-appointed, engaged,
-employed, devoted,
-nominated, assigned
 servant
 
 nuhaune kotha
@@ -21062,6 +21052,7 @@ judge, justice
 
 nyayalaya
 
+q	2cxz
 Gofofno
 
 n.
@@ -21090,11 +21081,15 @@ cf]%Øfg
 
 n.
 
+bed, bedding,sleeping-mat, quilt
+
 ochyaunu
 
 cf]%\ØfpgÚ
 
 v.t.
+
+to spread bedding, to spread a rug,to spread a mat
 
 odhan
 
@@ -21102,20 +21097,14 @@ cf]wfg
 
 n.
 
+three-legged iron stand for putting a cooking vessel over a fire
+
 odhaunu
 
 cf](fpgÚ
 
 v.t.
 
-bed, bedding,sleeping-mat,
-quilt
-to spread bedding, to
-spread a rug,to spread a
-mat
-three-legged iron stand for
-putting a cooking vessel
-over a fire
 to cover up sombody else
 
 odhne
@@ -21134,11 +21123,15 @@ cf](g
 
 v.i./v.t.
 
+to cover oneself up; to wrap, to cover
+
 ogatnu
 
 cf]u^\gÚ
 
 v.t.
+
+to occupy, to reserve, to hinder
 
 ohar dohar
 
@@ -21146,10 +21139,6 @@ cf]x/ bf]x/
 
 n.
 
-to cover oneself up; to
-wrap, to cover
-to occupy, to reserve, to
-hinder
 the act of coming and going
 
 ohor dohor
@@ -21176,15 +21165,7 @@ v.i.
 
 to wither, to fade
 
-90
-
-fate, luck, fortune, destiny,
-predestination
-appointed, wmployed,
-posted
-appointment, employment
-
-oilinu
+oilinu
 
 cf]OlngÚ
 
