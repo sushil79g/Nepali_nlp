@@ -4,18 +4,34 @@ import numpy as np
 import string
 class Summerize:
     def __init__(self, *args, **kwargs):
-        # this should not be the stander way of doing.
+        # This should not be the stander way of doing. Standar way will be done in next iteration.
         print('Loading Embedding')
         self.word_vec = Embeddings().load_vector()
         self.vocab = self.word_vec.vocab
         print('Embedding is now loaded')
 
     def preprocess(self,text):
+        """This function remove punctuation and split text in sentences.
+        
+        Arguments:
+            text {String} -- [Nepali text paragraph]
+        
+        Returns:
+            [list] -- [list of sentences]
+        """
         sentences = text.split(u"।")
         sentences = [sentence.translate(str.maketrans('', '', string.punctuation)) for sentence in sentences]
         return sentences
     
     def generate_centroif_tfidf(self,sentence):
+        """This function generates tfidf value for each sentences
+        
+        Arguments:
+            sentence {[list]} -- [list of sentence in paragraph]
+        
+        Returns:
+            [array] -- [mathmatical representation for centroid]
+        """
         tf = TfidfVectorizer()
         tfidf = tf.fit_transform(sentence).toarray().sum(0)
         tfidf = np.divide(tfidf, tfidf.max())
@@ -29,6 +45,15 @@ class Summerize:
         return sum(res)/len(res)
 
     def sentence_vectorizer(self,sentence,size):
+        """This function vectorize the passed sentence for the given size
+        
+        Arguments:
+            sentence {list} -- [list of sentence in Nepali text paragraph]
+            size {int/tuple} -- [size of word embedding vector]
+        
+        Returns:
+            [dictionary] -- [vectorize value for every sentence]
+        """
         dic = {}
         for i in range(len(sentence)):
             sum_vec = np.zeros(size)
@@ -46,6 +71,16 @@ class Summerize:
         return dic
 
     def sentence_selection(self,centroid, sentences_dict, summary_length):
+        """This function helps to select the most important sentece.
+        
+        Arguments:
+            centroid {array} -- [tf/idf values of centroid]
+            sentences_dict {array} -- [Vectorized value of every sentence]
+            summary_length {int/float} -- [Number of summerized sentence desired.]
+        
+        Returns:
+            [list] -- [list of sentence id selected.]
+        """
         from scipy.spatial.distance import cosine
         sentence_retriever = []
         record = []
@@ -88,6 +123,17 @@ class Summerize:
         return sentence_ids
 
     def combine_sentence(self,centroid_tfidf,sent,sent_dict,length):
+        """This function helps to combine summerized sentence.
+        
+        Arguments:
+            centroid_tfidf {array} -- [vectorized value of centroid.]
+            sent {list} -- [list of sentence in text]
+            sent_dict {dictionary} -- [Vectorized value of every sentence.]
+            length {int/float} -- [Number of desired sentence.]
+        
+        Returns:
+            [string] -- [Paragraph of combine summerize sentence.]
+        """
         ids = self.sentence_selection(centroid_tfidf,sent_dict,length)
         whole_summary = []
         for inde in ids:
