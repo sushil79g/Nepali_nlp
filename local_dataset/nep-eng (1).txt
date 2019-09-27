@@ -23516,15 +23516,13 @@ k|b]z
 
 n.
 
+province, region, realm, country, territory, state regional
+
 pradeshik
 
 kf|b]lzs
 
 adj.
-
-province, region, realm,
-country, territory, state
-regional
 
 pradhanmantri
 
@@ -23548,11 +23546,15 @@ k|fWofks
 
 n.
 
+college teacher, lecturer, professor
+
 pradurbhav
 
 k|fb"ef{j
 
 n.
+
+appearance, manifestation; serious or terrible outbreak; birth, prevalence
 
 pradusan
 
@@ -23560,11 +23562,6 @@ kb"if)f
 
 n.
 
-college teacher, lecturer,
-professor
-appearance, manifestation;
-serious or terrible outbreak;
-birth, prevalence
 pollution
 
 pragati
@@ -23597,14 +23594,14 @@ k|hf
 
 n.
 
+subject, tenant, people, progeny
+
 prajatantra
 
 k|hftGq
 
 n.
 
-subject, tenant, people,
-progeny
 democracy
 
 prajatantrik
@@ -23629,14 +23626,14 @@ k|sfz
 
 n.
 
+light, manifestation, publication
+
 prakashak
 
 k|sfzs
 
 n.
 
-light, manifestation,
-publication
 publisher
 
 prakashan
@@ -23669,14 +23666,14 @@ k|Voft
 
 adj.
 
+renowned, famous, celebrated, noted
+
 prakriti
 
 k|fs[lt
 
 n.
 
-renowned, famous,
-celebrated, noted
 nature, talent
 
 prakritik
@@ -23709,11 +23706,15 @@ k|lqmof
 
 n.
 
+process, procedure, manner, method, technique
+
 praman
 
 k|df)f
 
 n.
+
+proof, testimony, evidence, attestation, ascertainment
 
 pramanik
 
@@ -23721,23 +23722,16 @@ k|dfl)fs
 
 adj.
 
+factual, true, genuine, authoritative
+
 pramanik
 
 k|fdfl)fs
 
 adj.
 
-process, procedure,
-manner, method, technique
-proof, testimony, evidence,
-attestation, ascertainment
-factual, true, genuine,
-authoritative
-factual, true, genuine,
+factual, true, genuine, authoritative
 
-101
-
-authoritative
 pramanit
 
 k|dfl)ft
@@ -23752,14 +23746,14 @@ k|df)fkq
 
 n.
 
+certificate, testimonial, permit
+
 pramukh
 
 k|dÚv
 
 n.
 
-certificate, testimonial,
-permit
 principal, chief, head
 
 pranali
@@ -23776,11 +23770,15 @@ k|fGt
 
 n.
 
+border, end, extremity, province
+
 prapta
 
 k|fKt
 
 adj.
+
+obtained, received, acquired
 
 prapti
 
@@ -23788,11 +23786,15 @@ k|flKt
 
 n.
 
+receipt, procuration, acquisition, income, profit
+
 prarambha
 
 k|f/De
 
 n.
+
+beginning, commencement, inception, initiation, starting point
 
 prarthana
 
@@ -23800,15 +23802,6 @@ k|fy{gf
 
 n.
 
-border, end, extremity,
-province
-obtained, received,
-acquired
-receipt, procuration,
-acquisition, income, profit
-beginning, commencement,
-inception, initiation, starting
-point
 prayer, petition, request
 
 prarthana garnu
@@ -23825,11 +23818,15 @@ k|;é
 
 n.
 
+relation, connection, association, discussion, narration, context
+
 prasar
 
 k|;f/
 
 n.
+
+width, expansion, extent, spreading, spread, diffusion
 
 prashangsa
 
@@ -23837,19 +23834,14 @@ k|z+;f
 
 n.
 
+praise, appreciation, applause, laudation, eulogy
+
 prashasan
 
 k|zf;g
 
 n.
 
-relation, connection,
-association, discussion,
-narration, context
-width, expansion, extent,
-spreading, spread, diffusion
-praise, appreciation,
-applause, laudation, eulogy
 administration
 
 prashasta
@@ -23858,25 +23850,26 @@ k|z:t
 
 adj.
 
+abundant, sufficient, enough
+
 prashna
 
 k|Zg
 
 n.
 
-abundant, sufficient,
-enough
 question
 
-prashnarthak
-sarvanam
-prashnavali
+prashnarthak sarvanam
 
 k|Zgfy{s ;j{gfd
 
 n.
 
 interrogative pronoun
+
+prashnavali
+
 
 k|ZgfjnL
 
@@ -23890,11 +23883,15 @@ k|l;$
 
 adj.
 
+famous, renowned, glorious, illustrious, celebrated
+
 prastav
 
 k|:tfj
 
 n.
+
+proposal, suggestion; preface, foreword, preamble
 
 prastavana
 
@@ -23902,20 +23899,14 @@ k|:tfjgf
 
 n.
 
+introduction, prologue, preface, foreword
+
 prastut
 
 k|:tÚt
 
 adj.
 
-famous, renowned,
-glorious, illustrious,
-celebrated
-proposal, suggestion;
-preface, foreword,
-preamble
-introduction, prologue,
-preface, foreword
 presented, submitted
 
 pratam purusvacak
@@ -23932,18 +23923,14 @@ k|yf
 
 n.
 
-usage, practice, custom,
-rule, fashion, method,
+usage, practice, custom, rule, fashion, method,system
 
-102
-
-pratham
+pratham
 
 k|yd
 
 adj.
 
-system
 first, best, primitive
 
 pratham purus
@@ -23968,6 +23955,8 @@ k|lt
 
 postp.
 
+towards, near to, against, in opposition to
+
 pratibaddha
 
 k|lta$
@@ -23980,11 +23969,7 @@ k|lta$tf
 
 n.
 
-towards, near to, against, in
-opposition to
-restricted, banned,
-conditioned, committed
-commitment
+restricted, banned, conditioned, committed commitment
 
 pratibandhit
 
@@ -23992,11 +23977,15 @@ k|ltalGwt
 
 adj.
 
+restricted, banned, conditioned
+
 pratibha
 
 k|ltef
 
 n.
+
+genius, intellect, wit, intelligence, brilliance
 
 pratibimba
 
@@ -24004,10 +23993,6 @@ k|ltlaDa
 
 n.
 
-restricted, banned,
-conditioned
-genius, intellect, wit,
-intelligence, brilliance
 reflection, image, shadow
 
 pratibimbit
@@ -24080,11 +24065,15 @@ k|ltlglwTj
 
 n.
 
+representation, deputation, delegacy
+
 pratipaksha
 
 k|ltkIf
 
 n.
+
+opposition, rival side, hostile camp, contesting party
 
 pratipakshi
 
@@ -24092,19 +24081,14 @@ k|ltkIfL
 
 n.
 
+opponent, rival, contestant, contralateral
+
 pratishat
 
 k|ltzft
 
 n.
 
-representation, deputation,
-delegacy
-opposition, rival side,
-hostile camp, contesting
-party
-opponent, rival, contestant,
-contralateral
 percent percentage
 
 pratishodh
@@ -24113,15 +24097,14 @@ k|ltzf]w
 
 n.
 
+revenge, vengeance, retaliation, vendetta, blood feud
+
 pratisparddha
 
 k|lt:k${
 
 n.
 
-revenge, vengeance,
-retaliation, vendetta, blood
-feud
 rivalry, contest, competition
 
 prativedan
@@ -24154,25 +24137,22 @@ k|jrg
 
 n.
 
+commentary, elucidation, explanation
+
 pravesh
 
 k|j]z
 
 n.
 
-commentary, elucidation,
-explanation
-entry, admission, access,
+entry, admission, access, entrance
 
-103
-
-pravidhi
+pravidhi
 
 k|ljlw
 
 n.
 
-entrance
 technique
 
 pravidhigya
@@ -24197,11 +24177,15 @@ k|j[lQ
 
 n.
 
+inclination of mind, tendency
+
 prayah
 
 k|foM
 
 adv.
+
+almost, nearly, often, generally
 
 prayas
 
@@ -24209,10 +24193,6 @@ k|of;
 
 n.
 
-inclination of mind,
-tendency
-almost, nearly, often,
-generally
 effort, attempt, endeavour
 
 prayatna
@@ -24229,11 +24209,15 @@ k|oF]u
 
 n.
 
+use, application, action, effort, usage, example, performance
+
 pret
 
 k|]t
 
 n.
+
+dead, deceased, spirit of the dead, evil spirit, ghost; a very greedy person
 
 pristhabhumi
 
@@ -24241,12 +24225,6 @@ k[i&e'ld
 
 n.
 
-use, application, action,
-effort, usage, example,
-performance
-dead, deceased, spirit of
-the dead, evil spirit, ghost;
-a very greedy person
 basis
 
 prithvi
@@ -24279,14 +24257,14 @@ kÚUgÚ
 
 v.i.
 
+to arrive at, to reach, to be fulfilled, to be sufficient
+
 puja garnu
 
 k'hf ugÚ{
 
 v.t.
 
-to arrive at, to reach, to be
-fulfilled, to be sufficient
 to worship, to adore
 
 puja kotha
@@ -24295,11 +24273,15 @@ k'hf sf]&f
 
 n.
 
+prayer room, worshipping room
+
 punargathan
 
 kÚgu{&g
 
 n.
+
+reorganization, recasting
 
 punarjivit
 
@@ -24307,12 +24289,14 @@ kÚghL{ljt
 
 adj.
 
+revived, risen from the dead
+
 punarnirman
 
 kÚglg{df{)f
 
-revived, risen from the
-dead
+-
+
 reconstruction
 
 punarvalikan
@@ -24337,14 +24321,14 @@ kÚlgp
 
 n.
 
+a flat spoon used for ladling out rice
+
 punling
 
 kÚ+lné
 
 n.
 
-a flat spoon used for ladling
-out rice
 male [grammar]
 
 pura
@@ -24353,11 +24337,15 @@ k'/f
 
 adj.
 
+full, complete, entire, gross, whole
+
 purano
 
 kÚ/fgf]
 
 adj.
+
+old, ancient
 
 purashcaran
 
@@ -24365,27 +24353,17 @@ kÚ/Zr/)f
 
 n.
 
+repeating the name of adeity
+
 purashcarya
 
 kÚ/Zrof{
 
 n.
 
-104
+repeating the name of adeity
 
-prayer room, worshipping
-room
-reorganization, recasting
-
-full, complete, entire, gross,
-whole
-old, ancient
-repeating the name of a
-deity
-repeating the name of a
-deity
-
-puratatva
+puratatva
 
 kÚ/ftTj
 
@@ -24415,11 +24393,15 @@ k')f{
 
 adj.
 
+perfect, full, complete, whole, accomplished, sufficient, detailed
+
 purnatah
 
 k')f{tM
 
 adv.
+
+completely, fully, perfectly, totally
 
 purnataya
 
@@ -24427,19 +24409,14 @@ k')f{tof
 
 adj.
 
+completely, totally, fully, entirely
+
 purnima
 
 k'l)f{df
 
 n.
 
-perfect, full, complete,
-whole, accomplished,
-sufficient, detailed
-completely, fully, perfectly,
-totally
-completely, totally, fully,
-entirely
 full moon day
 
 purohit
@@ -24456,15 +24433,20 @@ kÚ?iffy{
 
 n.
 
-purusvacak sarvanam kÚ?ijfrs ;j{gfd
-purvadhar
-k'jf{wf/
+manly achievement, energy, vigour, valour
+
+purusvacak sarvanam 
+
+kÚ?ijfrs ;j{gfd
 
 n.
 
-manly achievement,
-energy, vigour, valour
 personal pronoun
+
+purvadhar
+
+k'jf{wf/
+
 
 n.
 
@@ -24516,11 +24498,15 @@ kÚof{pgÚ
 
 v.t.
 
+to exort, to lead, to fulfil a wish
+
 pus
 
 kÚ;
 
 n.
+
+ninth month of the Nepali year (December/January)
 
 pusta
 
@@ -24528,10 +24514,6 @@ kÚ:tf
 
 n.
 
-to exort, to lead, to fulfil a
-wish
-ninth month of the Nepali
-year (December/January)
 generation, succession
 
 pustakalaya
@@ -24580,14 +24562,14 @@ Kof/f]
 
 adj.
 
+loving, dear, beloved, lovely, pleasant
+
 pyau
 
 Kofp
 
 n.
 
-loving, dear, beloved,
-lovely, pleasant
 mushroom
 
 racak
@@ -24604,14 +24586,14 @@ racana
 
 n.
 
+composition, production, creation, formation
+
 racanatmak
 
 /rgfTds
 
 adj.
 
-composition, production,
-creation, formation
 creative, constructive
 
 racayita
@@ -24620,15 +24602,15 @@ racayita
 
 n.
 
-composer, writer, author,
+composer, writer, author, maker
 
-105
-
-racit
+racit
 
 /lrt
 
 adj.
+
+composed, made, formed, manufactured, compiled,constructed, built, invented, fabricated
 
 radhi
 
@@ -24636,11 +24618,6 @@ radhi
 
 n.
 
-maker
-composed, made, formed,
-manufactured, compiled,
-constructed, built, invented,
-fabricated
 coarse wollen rug
 
 ragat
@@ -24655,11 +24632,17 @@ ragat aunu
 
 /ut cfpgÚ
 
+-
+
+to bleed
+
 rahanu
 
 /xgÚ
 
 v.i.
+
+to remain, to dwell, to inhabit
 
 rahar
 
@@ -24667,8 +24650,6 @@ rahar
 
 n.
 
-to remain, to dwell, to
-inhabit
 a kind of lentils
 
 rahasyamaya
@@ -24679,15 +24660,15 @@ adj.
 
 mysterious, secret, hidden
 
-rahasyamaya
-dhangabata
-rahat
+rahasyamaya dhangabata
 
 /x:odo (éaf&
 
 adv.
 
 in a mysterious way
+
+rahat
 
 /fxt
 
@@ -24797,11 +24778,15 @@ raji
 
 adj.
 
+willing, pleased, desirous, content, complacent
+
 rajikhushi
 
 /fhLvÚzL
 
 n.
+
+willingness, acceptance with much pleasure
 
 rajinama
 
@@ -24809,10 +24794,6 @@ rajinama
 
 n.
 
-willing, pleased, desirous,
-content, complacent
-willingness, acceptance
-with much pleasure
 agreement, compromise
 
 rajkaj
@@ -24821,11 +24802,15 @@ rajkaj
 
 n.
 
+government work, administration
+
 rajkaji
 
 /fhsfhL
 
 adj.
+
+relating to government, relating to administration
 
 rajkanya
 
@@ -24833,11 +24818,15 @@ rajkanya
 
 n.
 
+princess
+
 rajkarya
 
 /fhsfo{
 
 n.
+
+public affair, affairs of state, governance
 
 rajkumar
 
@@ -24845,20 +24834,9 @@ rajkumar
 
 n.
 
-to bleed
-
-106
-
-government work,
-administration
-relating to government,
-relating to administration
-princess
-public affair, affairs of state,
-governance
 prince
 
-rajkumari
+rajkumari
 
 /fhsÚdf/L
 
@@ -24877,6 +24855,10 @@ political
 rajnaitik gatividhi
 
 /fhg}lts ultljlw
+
+-
+
+political movement
 
 rajniti
 
@@ -24932,11 +24914,15 @@ rajtantra
 
 n.
 
+monarchy, monarchical system of government
+
 rajvanshi
 
 /fhj+zL
 
 n.
+
+Rajvanshi [a Nepali nationality]
 
 rajya
 
@@ -24944,10 +24930,6 @@ rajya
 
 n.
 
-monarchy, monarchical
-system of government
-Rajvanshi [a Nepali
-nationality]
 kingdom, state, territory
 
 rajyadhikar
@@ -24956,11 +24938,15 @@ rajyadhikar
 
 n.
 
+power of the state, jura regia
+
 rajyavati
 
 /fHojtL
 
 n.
+
+Rajyavati [mother of Licchavi king Manadeva I]
 
 rakhnu
 
@@ -24968,10 +24954,6 @@ rakhnu
 
 v.t.
 
-power of the state, jura
-regia
-Rajyavati [mother of
-Licchavi king Manadeva I]
 to keep, to protect, to hold
 
 raksha
@@ -25020,11 +25002,15 @@ ramaunu
 
 v.i.
 
+to be pleased, to feel happy, to feel delighted, to be glad
+
 ramnu
 
 /DgÚ
 
 v.i.
+
+to be pleased, to feel happy, to feel delighted, to be glad
 
 ramro
 
@@ -25032,12 +25018,6 @@ ramro
 
 adj.
 
-to be pleased, to feel
-happy, to feel delighted, to
-be glad
-to be pleased, to feel
-happy, to feel delighted, to
-be glad
 good, beautiful
 
 rang
@@ -25062,14 +25042,14 @@ rangaunu
 
 v.t.
 
+to colour, to paint, to dye, to tint
+
 rangicangi
 
 /+uLr+uL
 
 adj.
 
-to colour, to paint, to dye,
-to tint
 multi-coloured
 
 rangin
@@ -25090,9 +25070,7 @@ water buffalo [male]
 
 political movement
 
-107
-
-rani
+rani
 
 /fgL
 
@@ -25114,14 +25092,14 @@ rap
 
 n.
 
+heat of the sun, heat of the fire
+
 ras
 
 /;
 
 n.
 
-heat of the sun, heat of the
-fire
 juice, broth
 
 rasiya
@@ -25146,14 +25124,14 @@ rastrabhasa
 
 n.
 
+national language, language of the nation
+
 rastranayak
 
 /fi^«gfos
 
 n.
 
-national language,
-language of the nation
 head of state
 
 rastravad
@@ -25206,20 +25184,23 @@ rat
 
 postp.
 
+engaged in, employed in, devoted to, absorbed in, addicted to
+
 rat
 
 /ft
 
 n.
 
-engaged in, employed in,
-devoted to, absorbed in,
-addicted to
 night
 
 rat parcha
 
 /ft k%{
+
+-
+
+it's getting dark
 
 rati
 
@@ -25291,11 +25272,15 @@ l/xfO{
 
 n.
 
+release, acquittal, deliverance, discharge, setting free
+
 rijha
 
 l/´
 
 n.
+
+gladness, happiness, contentment
 
 rina
 
@@ -25303,11 +25288,6 @@ C)f
 
 n.
 
-release, acquittal,
-deliverance, discharge,
-setting free
-gladness, happiness,
-contentment
 debt, loan, due, obligation
 
 rini
@@ -25334,11 +25314,7 @@ adj.
 
 angry
 
-it's getting dark
-
-108
-
-risaunu
+risaunu
 
 l/;fpgÚ
 
@@ -25392,11 +25368,15 @@ rodh
 
 n.
 
+onbstruction, obstacle, hindrance
+
 rog
 
 /f]u
 
 n.
+
+sickness, disease, illness, ailment
 
 rogi
 
@@ -25404,10 +25384,6 @@ rogi
 
 n.
 
-onbstruction, obstacle,
-hindrance
-sickness, disease, illness,
-ailment
 sick person
 
 rojgar
@@ -25416,11 +25392,15 @@ rojgar
 
 n.
 
+business, trade, employment, profession, occupation
+
 rok
 
 /f]s
 
 n.
+
+prohibition, restriction, interdict
 
 rokinu
 
@@ -25428,11 +25408,15 @@ rokinu
 
 v.i.
 
+to be stopped, to be hindered
+
 roknu
 
 /f]SgÚ
 
 v.t.
+
+to prohibit, to obstruct, to hinder, to prevent, to stop
 
 roti
 
@@ -25440,23 +25424,14 @@ roti
 
 n.
 
+bread [made of flour and water without yeast]
+
 ruci
 
 ¿lr
 
 n.
 
-business, trade,
-employment, profession,
-occupation
-prohibition, restriction,
-interdict
-to be stopped, to be
-hindered
-to prohibit, to obstruct, to
-hinder, to prevent, to stop
-bread [made of flour and
-water without yeast]
 interest, liking, taste
 
 rugha
@@ -25473,12 +25448,12 @@ rugna
 
 adj.
 
+ill, sick, unwell, indisposed, motbid, diseased
+
 runa man lagnu
 
 ?g dg nfUgÚ
 
-ill, sick, unwell, indisposed,
-motbid, diseased
 to feel like to wep
 
 runu
@@ -25495,11 +25470,15 @@ rup
 
 n.
 
+countenance, look, form, shape, aspect, beauty,guise, semblance, appearance
+
 rupantar
 
 ¿kfGt/
 
 n.
+
+transformation, transition, change of form, metamorphosis, translation, conversion
 
 rupi
 
@@ -25507,22 +25486,14 @@ rupi
 
 postp.
 
+having the form of, having the shape of
+
 rupiyan
 
 ?lkof
 
 n.
 
-countenance, look, form,
-shape, aspect, beauty,
-guise, semblance,
-appearance
-transformation, transition,
-change of form,
-metamorphosis, translation,
-conversion
-having the form of, having
-the shape of
 Rupee
 
 ruvanda
@@ -25549,11 +25520,13 @@ adj.
 
 all, everything
 
-109
-
-sabai bhanda
+sabai bhanda
 
 ;a} eGbf
+
+-
+
+of all
 
 sabaijaso
 
@@ -25585,11 +25558,15 @@ sabha
 
 n.
 
+assembly, meeting, gathering
+
 sabhapati
 
 ;efklt
 
 n.
+
+chairman [of a meeting, organization or party]
 
 sabhyata
 
@@ -25597,19 +25574,14 @@ sabhyata
 
 n.
 
+civilization, civility, politeness, courtesy, good manner
+
 sabik
 
 ;flas
 
 adj.
 
-assembly, meeting,
-gathering
-chairman [of a meeting,
-organization or party]
-civilization, civility,
-politeness, courtesy, good
-manner
 former, previous
 
 sabun
@@ -25642,14 +25614,14 @@ sabut
 
 n.
 
+proof, evidence, testimony, demonstration
+
 sacetak
 
 ;r]ts
 
 n.
 
-proof, evidence, testimony,
-demonstration
 whip
 
 saciv
@@ -25658,14 +25630,14 @@ saciv
 
 n.
 
+secretary, advisor, companion
+
 sacivalaya
 
 ;lrjfno
 
 n.
 
-secretary, advisor,
-companion
 secretariat
 
 sadak
@@ -25682,11 +25654,15 @@ sadan
 
 n.
 
+residence, house, assembly hall
+
 sadar
 
 ;b/
 
 n.
+
+acceptance, approval, sanction
 
 sadar upatyaka
 
@@ -25694,10 +25670,6 @@ sadar upatyaka
 
 n.
 
-residence, house,
-assembly hall
-acceptance, approval,
-sanction
 central valley
 
 sadashya
@@ -25708,20 +25680,20 @@ n.
 
 member
 
-sadashyaharuprati
-daman-niti
-sadasya
+sadashyaharuprati daman-niti
 
 ;bZox¿k|lt bdggLlt
 
 n.
 
+politics of oppression towards members
+
+sadasya
+
 ;b:o
 
 n.
 
-politics of oppression
-towards members
 member
 
 sadasyata
@@ -25754,31 +25726,22 @@ sadhan
 
 n.
 
+material, resource, medium, means, equipment
+
 sadhana
 
 ;fwgf
 
 n.
 
-material, resource,
-medium, means,
-equipment
-devotes labour or striving,
-object of devotion;
-controlling spirit or ghost by
-reciting sacred verses;
+devotes labour or striving, object of devotion; controlling spirit or ghost by reciting sacred verses;penance, propitiation
 
-of all
-
-110
-
-sadharan
+sadharan
 
 ;fwf/)f
 
 adj.
 
-penance, propitiation
 common, simple, general
 
 sadharan sabha
