@@ -4,7 +4,7 @@ import numpy as np
 import string
 class Summerize:
     def __init__(self, *args, **kwargs):
-        # This should not be the stander way of doing. Standar way will be done in next iteration.
+        # This should not be the standard way of doing. Standard way will be done in next iteration.
         print('Loading Embedding')
         self.word_vec = Embeddings().load_vector()
         self.vocab = self.word_vec.vocab
