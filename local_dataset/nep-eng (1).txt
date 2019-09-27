@@ -25822,15 +25822,14 @@ sagarmatha
 
 n.
 
+Sagarmatha, Chomolungma, Mount Everest
+
 sagaunu
 
 ;ufpgÚ
 
 v.t.
 
-Sagarmatha,
-Chomolungma, Mount
-Everest
 to help, to assist, to aid
 
 saghaunu
@@ -25887,11 +25886,15 @@ sahamat
 
 n./adv.
 
+agreement, of one and the same mind or opinion
+
 sahamati
 
 ;xdlt
 
 n.
+
+agreement, concurrence, content
 
 sahan
 
@@ -25899,11 +25902,15 @@ sahan
 
 n.
 
+endurance, enduring, bearing
+
 sahanu
 
 ;xgÚ
 
 v.t.
+
+to forbear, to endure, to brook, to sustain, to withstand
 
 sahara
 
@@ -25911,15 +25918,6 @@ sahara
 
 n.
 
-agreement, of one and the
-same mind or opinion
-agreement, concurrence,
-content
-endurance, enduring,
-bearing
-to forbear, to endure, to
-brook, to sustain, to
-withstand
 help, assistance, support
 
 sahasrabdi
@@ -25978,13 +25976,13 @@ n.
 
 cooperative society
 
-111
-
-sahayogi
+sahayogi
 
 ;xof]uL
 
 n.
+
+colleague, supporter, assistant, friend
 
 sahinlo
 
@@ -25992,8 +25990,6 @@ sahinlo
 
 n.
 
-colleague, supporter,
-assistant, friend
 third eldest [of brothers]
 
 sahitya
@@ -26034,11 +26030,15 @@ sahu
 
 n.
 
+merchant, trader, moneylender, banker
+
 sahu
 
 ;fx'
 
 n.
+
+shopkeeper, merchant, trader, businessman, moneylender
 
 sahuni
 
@@ -26046,10 +26046,6 @@ sahuni
 
 n.
 
-merchant, trader, moneylender, banker
-shopkeeper, merchant,
-trader, businessman,
-moneylender
 shopkeeper (female)
 
 saiddhantik
@@ -26058,14 +26054,14 @@ saiddhantik
 
 adj.
 
+according top principle, theoretical
+
 sainik
 
 ;}lgs
 
 adj.
 
-according top principle,
-theoretical
 military
 
 sainik viman
@@ -26090,11 +26086,15 @@ saja
 
 n.
 
+punishment, confinement, penalty
+
 sajaya
 
 ;hfo
 
 n.
+
+punishment, confinement, penalty
 
 sajha
 
@@ -26102,10 +26102,6 @@ sajha
 
 n.
 
-punishment, confinement,
-penalty
-punishment, confinement,
-penalty
 cooperative, joint enterprise
 
 sajilo
@@ -26122,14 +26118,14 @@ sakali
 
 adj.
 
+original, true, pure, good, genuine
+
 sakbhar
 
 ;se/
 
 adv.
 
-original, true, pure, good,
-genuine
 as much as possible
 
 sakesamma cando
@@ -26138,11 +26134,15 @@ sakesamma cando
 
 comp.
 
+as fast as possible, as soon as possible
+
 saknu
 
 ;SgÚ
 
 v.t.
+
+to be able; to finish, to complete
 
 saksham
 
@@ -26150,10 +26150,6 @@ saksham
 
 adj.
 
-as fast as possible, as soon
-as possible
-to be able; to finish, to
-complete
 capable, competent
 
 sakshar
@@ -26220,9 +26216,7 @@ adj.
 
 on the average
 
-112
-
-salana
+salana
 
 ;fnfgf
 
@@ -26268,13 +26262,12 @@ sallaha
 
 n.
 
+consultation, advice, counsel, conference, deliberation
+
 sallahakar
 
 ;Nnfxsf/
 
-consultation, advice,
-counsel, conference,
-deliberation
 advisor, consultant
 
 salo
@@ -26283,7 +26276,7 @@ salo
 
 n.
 
-wif's younger brother
+wife's younger brother
 
 samacar
 
@@ -26299,15 +26292,14 @@ samadhan
 
 n.
 
+solving the problem, cracking the nuts, removal of doubts
+
 samagra
 
 ;du|
 
 adj.
 
-solving the problem,
-cracking the nuts, removel
-of doubts
 whole, all, entire, complete
 
 samaj
@@ -26380,11 +26372,15 @@ saman
 
 n.
 
+things, materials, apparatus, tools, belongings, appliances
+
 saman
 
 ;dfg
 
 adj.
+
+similar, equal, alike, uniform, equivalent, identical, tantamount
 
 samanta
 
@@ -26392,20 +26388,14 @@ samanta
 
 n.
 
+equality, equivalence, parity, similarity, likeness
+
 samanti
 
 ;fdGtL
 
 adj.
 
-things, materials,
-apparatus, tools,
-belongings, appliances
-similar, equal, alike,
-uniform, equivalent,
-identical, tantamount
-equality, equivalence,
-parity, similarity, likeness
 feudal, feudatory
 
 samanvaya
@@ -26414,11 +26404,15 @@ samanvaya
 
 n.
 
+combination, union, uniformity, harmony, natural succession
+
 samanya
 
 ;fdfGo
 
 adj.
+
+ordinary, general, common, usual, trivial, insignificant
 
 samanya ling
 
@@ -26426,11 +26420,6 @@ samanya ling
 
 n.
 
-combination, union,
-uniformity, harmony,
-natural succession
-ordinary, general, common,
-usual, trivial, insignificant
 double gender
 
 samanya nam
@@ -26441,13 +26430,13 @@ n.
 
 generic term
 
-113
-
-samapta
+samapta
 
 ;dfKt
 
 adj.
+
+finished, completed, accomplished
 
 samarpan
 
@@ -26455,11 +26444,15 @@ samarpan
 
 n.
 
+offering, dedication, surrender, deliverynce, disposal, assignment
+
 samartha
 
 ;dy{
 
 adj.
+
+mighty, powerful, strong, able
 
 samarthak
 
@@ -26467,11 +26460,15 @@ samarthak
 
 n./adj.
 
+supporter, vindicator; supporting
+
 samarthan
 
 ;dy{g
 
 n.
+
+support, ratification, corroboration
 
 samarthata
 
@@ -26479,17 +26476,6 @@ samarthata
 
 n.
 
-finished, completed,
-accomplished
-offering, dedication,
-surrender, deliverynce,
-disposal, assignment
-mighty, powerful, strong,
-able
-supporter, vindicator;
-supporting
-support, ratification,
-corroboration
 capability, competence
 
 samasta
@@ -26506,14 +26492,14 @@ samasti
 
 n.
 
+collectiveness, totality, aggregate
+
 samastigat
 
 ;dli^ut
 
 adv.
 
-collectiveness, totality,
-aggregate
 collectively
 
 samasya
@@ -26538,11 +26524,15 @@ samata
 
 n.
 
+equalness, similarity, evenness
+
 samatal
 
 ;dtn
 
 adj.
+
+plain, level, smooth, even, flat; moderate
 
 samay
 
@@ -26550,19 +26540,14 @@ samay
 
 n.
 
+time, period, season, opportunity, leisure, occasion
+
 sambal
 
 ;Dan
 
 n.
 
-equalness, similarity,
-evenness
-plain, level, smooth, even,
-flat; moderate
-time, period, season,
-opportunity, leisure,
-occasion
 support
 
 sambandha
@@ -26571,15 +26556,14 @@ sambandha
 
 n.
 
+relation, relationship, connection, association, affinity
+
 sambandhi
 
 ;DaGwL
 
 suff.
 
-relation, relationship,
-connection, association,
-affinity
 related with, pertaining to
 
 sambandhi sarvanam
@@ -26612,11 +26596,15 @@ sambhranta
 
 adj.
 
+perplexed, confused, bewildered
+
 sambodhan
 
 ;Daf]wg
 
 n.
+
+address, calling aloud; vocative case
 
 samcar
 
@@ -26624,10 +26612,6 @@ samcar
 
 n.
 
-perplexed, confused,
-bewildered
-address, calling aloud;
-vocative case
 news, information
 
 samdhi
@@ -26636,32 +26620,30 @@ samdhi
 
 n.
 
+son's father-in-law, daughter's father-in-law
+
 samdhini
 
 ;lDwgL
 
 n.
 
+son's mother-in-law, daughter's mother-in-law
+
 samet
 
 ;d]t
 
 postp.
-114
 
-son's father-in-law,
-daughter's father-in-law
-son's mother-in-law,
-daughter's mother-in-law
-with, together with,
+with, together with, including, included
 
-saminya
+saminya
 
 ;fdLGo
 
 adj.
 
-including, included
 simple, common
 
 samiti
@@ -26678,14 +26660,14 @@ samjhana
 
 n.
 
+remembrance, reminiscence, memory
+
 samma
 
 ;Dd
 
 postp.
 
-remembrance,
-reminiscence, memory
 upto, as far as
 
 sammat
@@ -26694,11 +26676,15 @@ sammat
 
 adv.
 
+unanimous, agreeing, agreed to, approved, sanctioned, permitted
+
 sammati
 
 ;Ddlt
 
 n.
+
+opinion, consent, approval, permission, acceptance, assent
 
 sammelan
 
@@ -26706,11 +26692,15 @@ sammelan
 
 n.
 
+meating, conference
+
 sammilit
 
 ;DdLlnt
 
 adj.
+
+with eyes shut, with eyes closed, covered
 
 sammyaunu
 
@@ -26718,8 +26708,6 @@ sammyaunu
 
 v.t.
 
-with eyes shut, with eyes
-closed, covered
 to level, to make plain
 
 sampadak
@@ -26738,21 +26726,29 @@ adj.
 
 editorial
 
-sampadakiya sahayak ;DkfbsLo ;xfos
-sampadakiya vibhag
-;DkfbsLo ljefu
-sampanna
-;DkGg
+sampadakiya sahayak 
+
+;DkfbsLo ;xfos
 
 n.
 
 assistant editor
 
+sampadakiya vibhag
+
+;DkfbsLo ljefu
+
 n.
 
 editorial department
 
+sampanna
+
+;DkGg
+
 adj.
+
+rich, well-off, prosperous, wealthy, well-to-do
 
 samparka
 
@@ -26760,11 +26756,15 @@ samparka
 
 n.
 
+company, association, union
+
 sampradaya
 
 ;Dk|bfo
 
 n.
+
+sect, religious society, mode, tradition, usage, custom
 
 sampurna
 
@@ -26772,11 +26772,15 @@ sampurna
 
 adj.
 
+complete, whole, entire, all, total, perfect, finished
+
 samrat
 
 ;d|f^\
 
 n.
+
+emperor, sovereign, king of the kings
 
 samriddha
 
@@ -26784,17 +26788,6 @@ samriddha
 
 adj.
 
-rich, well-off, prosperous,
-wealthy, well-to-do
-company, association,
-union
-sect, religious society,
-mode, tradition, usage,
-custom
-complete, whole, entire, all,
-total, perfect, finished
-emperor, sovereign, king of
-the kings
 important
 
 samu
@@ -26803,11 +26796,15 @@ samu
 
 postp.
 
+before, in front of, opposite, facing
+
 samuccaya
 
 ;dÚRro
 
 n.
+
+assemblage, mass, collection
 
 samudaya
 
@@ -26815,11 +26812,15 @@ samudaya
 
 n.
 
+collection, assemblage, group
+
 samudayavacak nam
 
 ;dÚfojfrs gfd
 
 n.
+
+collective noun, generic term
 
 samudayik
 
@@ -26827,34 +26828,17 @@ samudayik
 
 adj.
 
+collective, pertaining to community
+
 samudra
 
 ;dÚb|
 
 n.
-115
 
-unanimous, agreeing,
-agreed to, approved,
-sanctioned, permitted
-opinion, consent, approval,
-permission, acceptance,
-assent
-meating, conference
-
-before, in front of, opposite,
-facing
-assemblage, mass,
-collection
-collection, assemblage,
-group
-collective noun, generic
-term
-collective, pertaining to
-community
 sea, ocean
 
-samudra sataha
+samudra sataha
 
 ;dÚb–| ;tx
 
