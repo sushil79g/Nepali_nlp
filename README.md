@@ -10,7 +10,7 @@ TODOs:</br>
 - [x] Summerization
 - [x] Nepali news summerization from onlinekhabar, ekantipur
 - [ ] Spell word correction (Currently)
-- [ ] Spell sentence correction (Currently)
+- [ ] Spell sentence correction
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
 - [ ] Named Entity Recognition
