@@ -50,3 +50,38 @@ class Summerize:
             similarity = (1- cosine(centroid, vector))
             record.append((sentence_id, vector, similarity))
 
+        rank = list(reversed(sorted(record, key= lambda tup: tup[2])))
+        sentence_ids = []
+        summary_char_num = 0 
+        stop = False
+        i = 0 
+        text_length = sum( [len(x) for x in sentence_retriever])
+
+        if summary_length <1:
+            limit = int(text_length * float(summary_length))
+
+            while not stop and i < len(rank):
+                sentence_id = rank[i][0]
+                new_vector = sentences_dict[sentence_id]
+                sent_char_num = len(sentence_retriever[sentence_id])
+                redundancy = [sentences_dict[k] for k in sentence_ids
+                             if (1- cosine(new_vector, sentences_dict[k]) > 0.95)]
+                
+                if not redundancy:
+                    summary_char_num += sent_char_num
+                    sentence_ids.append(sentence_id)
+                
+                i = i + 1
+
+                if summary_char_num > limit:
+                    stop = True
+                
+        else:
+            sentences_number = int(summary_length)
+            sentence_ids = rank[:sentences_number]
+            sentence_ids = map(lambda t:t[0], sentence_ids)
+        
+        sentence_ids = sorted(sentence_ids)
+
+        return sentence_ids
+
