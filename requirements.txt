@@ -3,3 +3,4 @@ requests==2.22.0
 wget==3.2
 ast==0.0.2
 PyICU==2.3.1
+news-please==1.4.23
