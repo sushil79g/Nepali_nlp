@@ -39,3 +39,14 @@ class Summerize:
                     sum_vec = np.add(sum_vec, word_vec_)
                 dic[i] = sum_vec/len(sentence)
         return dic
+
+    def sentence_selection(centroid, sentences_dict, summary_length):
+        from scipy.spatial.distance import cosine
+        sentence_retriever = []
+        record = []
+
+        for sentence_id in sentences_dict:
+            vector = sentences_dict[sentence_id]
+            similarity = (1- cosine(centroid, vector))
+            record.append((sentence_id, vector, similarity))
+
