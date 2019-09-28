@@ -9,8 +9,8 @@ TODOs:</br>
 - [x] Roman Nepali to Nepali
 - [x] Summerization
 - [x] Nepali news summerization from onlinekhabar, ekantipur
-- [ ] Spell word correction (Currently)
-- [ ] Spell sentence correction
+- [x] Spell word correction
+- [ ] Spell sentence correction (Currently)
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
 - [ ] Named Entity Recognition
