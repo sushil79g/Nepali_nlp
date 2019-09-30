@@ -26852,14 +26852,14 @@ samuha
 
 n.
 
+collection, assemblage, group
+
 samuhik
 
 ;d'lxs
 
 adj.
 
-collection, assemblage,
-group
 collective
 
 samunnati
@@ -26868,14 +26868,14 @@ samunnati
 
 n.
 
+progress, development, elevation, rise
+
 samyatantra
 
 ;fDotGq
 
 n.
 
-progress, development,
-elevation, rise
 communism
 
 samyavad
@@ -26908,14 +26908,14 @@ sana buva
 
 n.
 
+mother's younger sister's husband
+
 sancalan
 
 ;+rfng
 
 n.
 
-mother's younger sister's
-husband
 managing, directing
 
 sancalan
@@ -26932,14 +26932,15 @@ sancalit
 
 adj.
 
+managed, conducted, directed
+
 sancar
 
 ;~rf/
 
 n.
 
-managed, conducted,
-directed
+
 movement, motion
 
 sancaran
@@ -26954,22 +26955,24 @@ sanco
 
 ;frf]
 
+n./adj. 1. 
+
+key; true, sincere, genuine, real
+
 sandarbha
 
 ;Gbe{
+
+n.
+
+treatise, a collection of anthology, formation, construction; context, appendage, expansion
 
 sandarbha-suci
 
 ;Gbe{;"rL
 
-n./adj. 1. key; true, sincere, genuine,
-real
 n.
-treatise, a collection of
-anthology, formation,
-construction; context,
-appendage, expansion
-n.
+
 bibliography
 
 sandesh
@@ -26978,15 +26981,14 @@ sandesh
 
 n.
 
+information, news, message; command; gift present
+
 sandhe
 
 ;f(]
 
 n.
 
-information, news,
-message; command; gift
-present
 bull
 
 sanga
@@ -27043,11 +27045,15 @@ sanggharsa
 
 n.
 
+struggle, conflict, strife, friction
+
 sangh
 
 ;+#
 
 n.
+
+assembly, association, multitude, monastery
 
 sanghu
 
@@ -27055,18 +27061,7 @@ sanghu
 
 n.
 
-struggle, conflict, strife,
-friction
-assembly, association,
-multitude, monastery
-wooden bridge (of a log or
-planks), small bridge
-
-116
-
-(usually made of bamboos
-or planks of wood)
-collection, compilation
+wooden bridge (of a log or planks), small bridge (usually made of bamboos or planks of wood)
 
 sangkalan
 
@@ -27074,11 +27069,15 @@ sangkalan
 
 n.
 
+collection, compilation
+
 sangkalpa
 
 ;°Nk
 
 n.
+
+solemn promise, resolve, solution, determination
 
 sangkat
 
@@ -27086,11 +27085,15 @@ sangkat
 
 n.
 
+distress, peril, caöamity, agony
+
 sangkat
 
 ;°^
 
 n.
+
+hint, symbol, gesture, sign
 
 sangketik
 
@@ -27098,14 +27101,14 @@ sangketik
 
 adj.
 
+token, nominal, symbolic, indicative
+
 sanglo
 
 ;fª\nf]
 
 n.
 
-token, nominal, symbolic,
-indicative
 roach
 
 sanguro
@@ -27124,17 +27127,18 @@ n.
 
 conjunction
 
-sangyukta rastra
-sangh
-sani ama
+sangyukta rastra sangh
 
 ;+oÚQm /fi^« ;+#
-;fgL cfdf
 
 n.
 
-United Nations
-Organization
+United Nations Organization
+
+sani ama
+
+;fgL cfdf
+
 mother's younger sister
 
 sanishcavar
@@ -27211,14 +27215,14 @@ sanracana
 
 n.
 
+structure, composition, anatomy
+
 sanrakshak
 
 ;+/Ifs
 
 n.
 
-structure, composition,
-anatomy
 keeper, preserver, guardian
 
 sanrakshan
@@ -27227,15 +27231,14 @@ sanrakshan
 
 n.
 
+guardianship, patronage, protection, conservation, tutelage
+
 sansad
 
 ;+;b
 
 n.
 
-guardianship, patronage,
-protection, conservation,
-tutelage
 parliament
 
 sansadiya
@@ -27260,11 +27263,15 @@ sanshodhan
 
 n.
 
+correction, purification, refinement, revision, amendment
+
 sanshodhit
 
 ;+zf]lwt
 
 adj.
+
+corrected, amended, revised
 
 sanskar
 
@@ -27272,28 +27279,15 @@ sanskar
 
 n.
 
-correction, purification,
-refinement, revision,
-amendment
-corrected, amended,
-revised
-reformation, initiation,
+reformation, initiation, purification
 
-solemn promise, resolve,
-solution, determination
-distress, peril, caöamity,
-agony
-hint, symbol, gesture, sign
-
-it became evening
-
-117
-
-sanskaran
+sanskaran
 
 ;+:s/)f
 
 n.
+
+correction, act of refining; edition
 
 sanskrit
 
@@ -27301,9 +27295,6 @@ sanskrit
 
 n.
 
-purification
-correction, act of refining;
-edition
 Sanskrit
 
 sanskriti
@@ -27336,14 +27327,14 @@ sansmaran
 
 n.
 
+recollection, memory, remembrance
+
 sanstha
 
 ;+:yf
 
 n.
 
-recollection, memory,
-remembrance
 institution, establishment
 
 sansthagat
@@ -27366,11 +27357,15 @@ sansthapan
 
 n.
 
+institution, establishment, corporation
+
 santa
 
 ;Gt
 
 n.
+
+establishment, founding, initiation, inauguration, foundation
 
 santa-mahanta
 
@@ -27378,14 +27373,7 @@ santa-mahanta
 
 n.
 
-institution, establishment,
-corporation
-establishment, founding,
-initiation, inauguration,
-foundation
-mendicant, ascetic, pious
-person, devotee
-holy men
+mendicant, ascetic, pious person, devotee holy men
 
 santan
 
@@ -27393,11 +27381,15 @@ santan
 
 n.
 
+family, extended family, lineage, genealogy, offsoring, children, breeding
+
 santanabbe
 
 ;GtfgAa]
 
 num.
+
+ninety-seven, 97
 
 santan-nigraha
 
@@ -27405,11 +27397,15 @@ santan-nigraha
 
 n.
 
+birth control, family planning
+
 santan-nirodh
 
 ;Gtfglg/f]w
 
 n.
+
+birth control, family planning
 
 santaunna
 
@@ -27417,10 +27413,6 @@ santaunna
 
 num.
 
-birth control, family
-planning
-birth control, family
-planning
 fifty-seven, 57
 
 santulan
@@ -27485,27 +27477,17 @@ saph
 
 adj.
 
+clear, fair, pure, unadulterated, obvious, bright
+
 sapha
 
 ;kmf
 
 adj.
 
-clear, fair, pure,
-unadulterated, obvious,
-bright
-clean, clear, pure,
-transparent
+clean, clear, pure, transparent
 
-118
-
-family, extended family,
-lineage, genealogy,
-offsoring, children,
-breeding
-ninety-seven, 97
-
-saphal
+saphal
 
 ;kmn
 
@@ -27535,15 +27517,14 @@ sar
 
 n.
 
+substance, essence, kernel, purport, chief part, vigour, spirit
+
 sara
 
 ;f/f
 
 adj.
 
-substance, essence,
-kernel, purport, chief part,
-vigour, spirit
 all, whole, entire, complete
 
 saraha
@@ -27552,11 +27533,15 @@ saraha
 
 adj.
 
+similar, like, resembling, on equal footing
+
 saral
 
 ;/n
 
 adj.
+
+easy, simple, plain, straightforward, upright, sincere
 
 saranggi
 
@@ -27564,11 +27549,6 @@ saranggi
 
 n.
 
-similar, like, resembling, on
-equal footing
-easy, simple, plain,
-straightforward, upright,
-sincere
 Sarangi, a kind of violin
 
 sarapnu
@@ -27601,14 +27581,14 @@ sarkari
 
 adj.
 
+governmental, public, official, administrative
+
 sarkari bhasa
 
 ;/sf/L efiff
 
 n.
 
-governmental, public,
-official, administrative
 official language
 
 sarnu
@@ -27617,14 +27597,14 @@ sarnu
 
 v.t.
 
+to move, to remove, to shift, to copy, to infect
+
 sarnu
 
 ;gÚ{
 
 v.i.
 
-to move, to remove, to
-shift, to copy, to infect
 to move, to spread
 
 sarp
@@ -27697,15 +27677,14 @@ sarvashrestha
 
 adj.
 
+best of all, preeminent, highest, supreme, paramount
+
 sarvasva
 
 ;j{:j
 
 n.
 
-best of all, preeminent,
-highest, supreme,
-paramount
 entire property, everything
 
 sarvatomukhi
@@ -27730,23 +27709,23 @@ sarvesarva
 
 adj.
 
+all-in-all, supreme, chied of all
+
 sasana
 
 ;f;gf
 
 n.
 
-all-in-all, supreme, chied of
-all
 punishment, suppression
 
-119
-
-sashakta
+sashakta
 
 ;zQm
 
 adj.
+
+potential, powerful, strong, forceful
 
 sashastra
 
@@ -27754,8 +27733,6 @@ sashastra
 
 adj.
 
-potential, powerful, strong,
-forceful
 armed, equipped with arms
 
 sasto
@@ -27796,14 +27773,14 @@ sat
 
 n.
 
+existence, essence, substance, goodness
+
 sat
 
 ;ft
 
 num.
 
-existence, essence,
-substance, goodness
 seven
 
 sata
@@ -27836,14 +27813,14 @@ satani
 
 n.
 
+change, exhange, interchange
+
 satasi
 
 ;tf;L
 
 num.
 
-change, exhange,
-interchange
 eighty-seven, 87
 
 sataun
@@ -27900,14 +27877,14 @@ sati
 
 n.
 
+Sati, virtuous wife, chaste woman, faithful woman
+
 satopuglo
 
 ;ftf]kÚUnf]
 
 n.
 
-Sati, virtuous wife, chaste
-woman, faithful woman
 spirit, presence of mind
 
 satra
@@ -27932,14 +27909,14 @@ satta
 
 n.
 
+change, exhange, interchange
+
 satta
 
 ;§f
 
 n.
 
-change, exhange,
-interchange
 speculation
 
 sattais
@@ -27980,22 +27957,23 @@ satya
 
 adj.
 
+true, real, right, veritable, correct, honest
+
 saun
 
 ;fpg
 
 n.
 
-true, real, right, veritable,
-correct, honest
-fourth month of the Nepali
-year [July-August]
+fourth month of the Nepali year [July-August]
 
-120
-
-saundarya
+saundarya
 
 ;f}Gbo{
+
+-
+
+beauty, charm, pretiness
 
 saunvar
 
@@ -28035,14 +28013,14 @@ saval
 
 n.
 
+question, plumb, a laden weight on a line
+
 saya
 
 ;o
 
 num.
 
-question, plumb, a laden
-weight on a line
 hundred, 100
 
 sekaunu
@@ -28075,14 +28053,14 @@ selroti
 
 n.
 
+Nepalese doughnut made of rice flour
+
 sepilo
 
 ;]lknf]
 
 adj.
 
-Nepalese doughnut made
-of rice flour
 shaded, dark
 
 seto
@@ -28099,11 +28077,15 @@ seva
 
 n.
 
+service, attendance, worship
+
 sevan
 
 ;]jg
 
 n.
+
+service, attendance, worship
 
 shabda
 
@@ -28111,10 +28093,6 @@ zAb
 
 n.
 
-service, attendance,
-worship
-service, attendance,
-worship
 word
 
 shabdakos
@@ -28163,11 +28141,15 @@ zQm
 
 adj.
 
+able, capable, strong, vigorous, energetic, hard, firm
+
 shakti
 
 zlQm
 
 n.
+
+strength, power, prowess, capability, calibre, vigour, energy
 
 shaktihina
 
@@ -28175,11 +28157,15 @@ zlQmxLg
 
 adj.
 
+powerless, impotent, enervated
+
 shaktiman
 
 zlQmdfg
 
 adj.
+
+powerful, capable, mighty, vigorous
 
 shaktiparikshan
 
@@ -28187,16 +28173,6 @@ zlQmk/LIf)f
 
 n.
 
-able, capable, strong,
-vigorous, energetic, hard,
-firm
-strength, power, prowess,
-capability, calibre, vigour,
-energy
-powerless, impotent,
-enervated
-powerful, capable, mighty,
-vigorous
 trial of strength
 
 shaktishali
@@ -28213,25 +28189,23 @@ zfd]n
 
 adj.
 
+assembled, gathered together, united together
+
 shamil
 
 zfldn
 
 adj.
 
-assembled, gathered
-together, united together
-assembled, gathered
+assembled, gathered, together, united together
 
-beauty, charm, pretiness
-
-121
-
-shangka
+shangka
 
 z°f
 
 n.
+
+doubt, suspicion, apprehension
 
 shankalu
 
@@ -28239,11 +28213,15 @@ z+sfnÚ
 
 adj.
 
+suspicious, questionable, prone to suspicion, vague
+
 shankaradeva
 
 z+s/b]j
 
 n.
+
+Shankaradeva [a Licchavi king, grandfather of Manadeva I]
 
 shanta
 
@@ -28251,22 +28229,14 @@ zfGt
 
 adj.
 
+calm, quiet, mild, serene, pacific, grave, silent
+
 sharad
 
 z/b
 
 n.
 
-together, united together
-doubt, suspicion,
-apprehension
-suspicious, questionable,
-prone to suspicion, vague
-Shankaradeva [a Licchavi
-king, grandfather of
-Manadeva I]
-calm, quiet, mild, serene,
-pacific, grave, silent
 early autumn
 
 sharan
@@ -28307,11 +28277,15 @@ zf;s
 
 n.
 
+administrator, ruler, governor
+
 shasakiya
 
 zf;sLo
 
 adj.
+
+governmental, administrative, public
 
 shasan
 
@@ -28319,18 +28293,14 @@ zf;g
 
 n.
 
+command, authority, governance, reign
+
 shasan parivartan
 
 zf;g kl/jt{g
 
 n.
 
-administrator, ruler,
-governor
-governmental,
-administrative, public
-command, authority,
-governance, reign
 coup, putsch
 
 shasana
@@ -28355,11 +28325,15 @@ zf;gstf{
 
 n.
 
+administrator, ruler, sgovernor
+
 shasanpaddhati
 
 zf;gk$lt
 
 n.
+
+polity, system of government
 
 shasan-pranali
 
@@ -28367,10 +28341,6 @@ zf;gk|)ffnL
 
 n.
 
-administrator, ruler,
-governor
-polity, system of
-government
 government, constitution
 
 shasantantra
@@ -28387,11 +28357,15 @@ zfl;t
 
 adj.
 
+ruled, administered, governed; punished
+
 shastra
 
 z:q
 
 n.
+
+weapon, arms, tool, instrument
 
 shatabda
 
@@ -28399,10 +28373,6 @@ ztfAb
 
 n.
 
-ruled, administered,
-governed; punished
-weapon, arms, tool,
-instrument
 century
 
 shatabdi
@@ -28453,9 +28423,7 @@ n.
 
 corpse
 
-122
-
-shayad
+shayad
 
 zfob
 
@@ -28469,14 +28437,14 @@ z]kf{
 
 n.
 
+Sherpa [a Nepali nationality]
+
 shikariko svarg
 
 lzsf/Lsf] :ju{
 
 n.
 
-Sherpa [a Nepali
-nationality]
 hunting paradise
 
 shiksha
@@ -28501,11 +28469,15 @@ lzIf)f
 
 n.
 
+teaching, instruction, education
+
 shir
 
 lz/
 
 n.
+
+head, crest, noddle, summit, top of anything
 
 Shista
 
@@ -28513,19 +28485,14 @@ lzi^
 
 adj.
 
+gentle, polite, mannerly, civil, wellbred, refined, trained
+
 shisya
 
 lzio
 
 n.
 
-teaching, instruction,
-education
-head, crest, noddle,
-summit, top of anything
-gentle, polite, mannerly,
-civil, wellbred, refined,
-trained
 student, pupil, disciple
 
 shithilta
@@ -28534,11 +28501,15 @@ lzlyntf
 
 n.
 
+feebleness, weakness, looseness, laxity
+
 shlok
 
 Zn]]s
 
 n.
+
+verse, stanza, poetry, couplet
 
 shobha
 
@@ -28546,11 +28517,15 @@ zf]ef
 
 n.
 
+beauty, handsomeness, magnificence, elegance, lustre, replendence
+
 shos
 
 zf]if
 
 n.
+
+suction, drying up, withering, dryness, absorption, sucking
 
 shosak
 
@@ -28558,11 +28533,15 @@ zf]ifs
 
 adj.
 
+absorbent, withering
+
 shosan
 
 zf]if)f
 
 n.
+
+suction, drying up, withering, dryness, absorption, sucking, exploitation
 
 shosit
 
@@ -28570,10 +28549,6 @@ zf]lift
 
 adj.
 
-suction, drying up,
-withering, dryness,
-absorption, sucking,
-exploitation
 exploited
 
 shram
@@ -28590,14 +28565,14 @@ shravan
 
 n.
 
+fourth month of the Nepali year [July-August]
+
 shri
 
 >L
 
 n.
 
-fourth month of the Nepali
-year [July-August]
 Mr., Mrs., Ms., Miss
 
 shrilangka
@@ -28630,15 +28605,14 @@ zÚ$
 
 adj.
 
+pure, genuine, chaste, uncontaminated, clear, uncorrupted, unadulterated
+
 shukavar
 
 zÚsjf/
 
 n.
 
-pure, genuine, chaste,
-uncontaminated, clear,
-uncorrupted, unadulterated
 Friday
 
 shukla paksha
@@ -28647,24 +28621,9 @@ zÚSn kIf
 
 comp.
 
-123
+the moonlit half of a lunar month
 
-feebleness, weakness,
-looseness, laxity
-verse, stanza, poetry,
-couplet
-beauty, handsomeness,
-magnificence, elegance,
-lustre, replendence
-suction, drying up,
-withering, dryness,
-absorption, sucking
-absorbent, withering
-
-the moonlit half of a lunar
-month
-
-shukravar
+shukravar
 
 zÚqmjf/
 
@@ -28700,11 +28659,17 @@ shuru garnu
 
 zÚ¿ ugÚ{
 
+-
+
+to start, to begin
+
 shyarpa
 
 Zofkf{
 
 n.
+
+Sherpa [a Nepali nationality]
 
 siddhanta
 
@@ -28712,11 +28677,15 @@ l;$fGt
 
 n.
 
+doctrine, tenet, established truth
+
 siddhi
 
 l;l$
 
 n.
+
+perfection, accomplishment, maturity, fulfilment, victory
 
 siddhyaunu
 
@@ -28724,13 +28693,6 @@ l;$ØfpgÚ
 
 v.t.
 
-Sherpa [a Nepali
-nationality]
-doctrine, tenet, established
-truth
-perfection,
-accomplishment, maturity,
-fulfilment, victory
 to finish, to complete, to kill
 
 sikkim
@@ -28771,11 +28733,15 @@ sima
 
 n.
 
+boundary, border, limit, landmark
+
 simana
 
 l;dfgf
 
 n.
+
+boundary, border, limit, landmark
 
 simi
 
@@ -28783,10 +28749,6 @@ l;dL
 
 n.
 
-boundary, border, limit,
-landmark
-boundary, border, limit,
-landmark
 bean
 
 simit
@@ -28841,6 +28803,10 @@ singgapur
 
 l;+ufkÚ/
 
+-
+
+Singapore
+
 sinha
 
 l;+x
@@ -28863,11 +28829,15 @@ l;GsL
 
 n.
 
+soured raddish, fermented raddish
+
 sip
 
 ;Lk
 
 n.
+
+handicraft, handiwork, art, craft, arts and crafts, skill
 
 sipahi
 
@@ -28875,10 +28845,6 @@ l;kfxL
 
 n.
 
-soured raddish, fermented
-raddish
-handicraft, handiwork, art,
-craft, arts and crafts, skill
 soldier
 
 sipalu
@@ -28887,29 +28853,22 @@ l;kfnÚ
 
 adj.
 
+skilful, experienced, clever, skilled
+
 sipharish
 
 l;kmfl/z
 
 n.
 
-to start, to begin
+recommendation, letter of support; intercession
 
-Singapur
-
-124
-
-skilful, experienced, clever,
-skilled
-recommendation, letter of
-
-sirak
+sirak
 
 l;/s
 
 n.
 
-support; intercession
 quilt
 
 sirani
@@ -28926,14 +28885,14 @@ l;h{gf
 
 n.
 
+creation, formation, construction
+
 sisa
 
 ;L;f
 
 n.
 
-creation, formation,
-construction
 lead
 
 sita
@@ -28990,11 +28949,15 @@ smarika
 
 n.
 
+monument, memorial; commemorative volume
+
 smriti
 
 :d[lt
 
 n.
+
+memory, remembrance, memento
 
 smriti-patra
 
@@ -29002,10 +28965,6 @@ smriti-patra
 
 n.
 
-monument, memorial;
-commemorative volume
-memory, remembrance,
-memento
 reminder, memorandum
 
 snan
@@ -29046,11 +29005,15 @@ socnu
 
 v.t.
 
+to think, to ponder, to consider
+
 sodhakhoj
 
 ;f]wvf]h
 
 n.
+
+research program, research project
 
 sohra
 
@@ -29058,10 +29021,6 @@ sohra
 
 num.
 
-to think, to ponder, to
-consider
-research program,
-research project
 sixteen, 16
 
 sojho
@@ -29070,14 +29029,14 @@ sojho
 
 adj.
 
+straigt, straigtforward, honest
+
 somvar
 
 ;f]djf/
 
 n.
 
-straigt, straigtforward,
-honest
 Monday
 
 sopan
@@ -29094,11 +29053,15 @@ spast
 
 adj.
 
+distinct, clear, intelligible, lucid, apparent, evident
+
 sresta
 
 ;|:tf
 
 n.
+
+book-keeping, account, register book
 
 srot
 
@@ -29106,19 +29069,14 @@ srot
 
 n.
 
+current, stream, channel, water course, source of income
+
 srot ra sadhan
 
 >f]t / ;fwg
 
 n.
 
-distinct, clear, intelligible,
-lucid, apparent, evident
-book-keeping, account,
-register book
-current, stream, channel,
-water course, source of
-income
 resources
 
 stambha
@@ -29137,13 +29095,13 @@ n.
 
 breast
 
-125
-
-stava
+stava
 
 :tj
 
 n.
+
+praise, admiration; prayer, hymn
 
 steshan
 
@@ -29151,8 +29109,6 @@ steshan
 
 n.
 
-praise, admiration; prayer,
-hymn
 station
 
 sthagit
@@ -29169,11 +29125,15 @@ sthan
 
 n.
 
+place, spot, site, position, house
+
 sthaniya
 
 :yfgLo
 
 adj.
+
+local, territorial, regional, topical
 
 sthapan
 
@@ -29181,11 +29141,15 @@ sthapan
 
 n.
 
+establishment, foundation, setting up, creation, planting, placing
+
 sthapana
 
 :yfkgf
 
 n.
+
+establishment, foundation, setting up, creation, planting, placing
 
 sthapit
 
@@ -29193,11 +29157,15 @@ sthapit
 
 adj.
 
+propounded, founded, established, instituted, set up, fixed, placed, erected, installed
+
 sthayi
 
 :yfoL
 
 adj.
+
+permanent, stationary, fast, durable, lasting, stable, steady
 
 sthayitva
 
@@ -29205,11 +29173,15 @@ sthayitva
 
 n.
 
+permanence, durability, sustainment
+
 sthira
 
 l:y/
 
 adj.
+
+stable, firm, fixed, permanent, constant, steadfast, immovable, determined, patient
 
 sthirata
 
@@ -29217,11 +29189,15 @@ l:y/tf
 
 n.
 
+immobility, steadiness, stability, constancy, immutability, patience
+
 sthiratva
 
 l:y/Tjf
 
 n.
+
+immobility, steadiness, stability, constancy, immutability, patience
 
 sthiti
 
@@ -29229,44 +29205,14 @@ l:ylt
 
 n.
 
+place, position, circumstance, condition, phase, equilibrium
+
 striling
 
 :qLlné
 
 n.
 
-place, spot, site, position,
-house
-local, territorial, regional,
-topical
-establishment, foundation,
-setting up, creation,
-planting, placing
-establishment, foundation,
-setting up, creation,
-planting, placing
-propounded, founded,
-established, instituted, set
-up, fixed, placed, erected,
-installed
-pßermanent, stationary,
-fast, durable, lasting,
-stable, steady
-permanence, durability,
-sustainment
-stable, firm, fixed,
-permanent, constant,
-steadfast, immovable,
-determined, patient
-immobility, steadiness,
-stability, constancy,
-immutability, patience
-immobility, steadiness,
-stability, constancy,
-immutability, patience
-place, position,
-circumstance, condition,
-phase, equilibrium
 female [grammar]
 
 stuti
@@ -29275,15 +29221,14 @@ stuti
 
 n.
 
+praise, glorification, eulogy, admiration; hymn of praise, invocation, solemn prayer
+
 subista
 
 ;Úla:tf
 
 n.
 
-praise, glorification, eulogy,
-admiration; hymn of praise,
-invocation, solemn prayer
 easiness, comfort
 
 subistako
@@ -29300,24 +29245,23 @@ sucana
 
 n.
 
+notice, notification, information, advertisement, indication, hint
+
 sucanapatra
 
 ;'rgfkq
 
 n.
 
-notice, notification,
-information, advertisement,
-indication, hint
 advertisement, notice
 
-126
-
-suci
+suci
 
 ;'lr
 
 n.
+
+needle, a pointed piece of iron, goad, prong
 
 suci
 
@@ -29325,11 +29269,15 @@ suci
 
 n.
 
+liste, table, index, catalogue
+
 sudhar
 
 ;Úwf/
 
 n.
+
+improvement, reform, reformation, correction, amendment, renovation
 
 sudharak
 
@@ -29337,11 +29285,15 @@ sudharak
 
 n.
 
+reformer, improver, disciplinarian 
+
 sudharnu
 
 ;ÚwfgÚ{
 
 v.t.
+
+to correct, to reform, to amend, to make better
 
 sudridha
 
@@ -29349,25 +29301,14 @@ sudridha
 
 adv.
 
+very strong, very firm, very rigid
+
 suga
 
 ;'uf
 
 n.
 
-needle, a pointed piece of
-iron, goad, prong
-liste, table, index,
-catalogue
-improvement, reform,
-reformation, correction,
-amendment, renovationr
-reformer, improver,
-disciplinarian
-to correct, to reform, to
-amend, to make better
-very strong, very firm, very
-rigid
 parrot
 
 sujhau
@@ -29400,11 +29341,15 @@ sukhiya
 
 adj.
 
+pleasure loving, pleasant, happy
+
 sukti
 
 ;"lQm
 
 n.
+
+good saying, beautiful sentence
 
 sukul
 
@@ -29412,11 +29357,15 @@ sukul
 
 n.
 
+a kind of straw mat, a person of high or respectable family
+
 sukumvasi
 
 ;ÚsÚdjf;L
 
 n./adj.
+
+a homeless person, homeless
 
 sukuti
 
@@ -29424,15 +29373,6 @@ sukuti
 
 n.
 
-pleasure loving, pleasant,
-happy
-good saying, beautiful
-sentence
-a kind of straw mat, a
-person of high or
-respectable family
-a homeless person,
-homeless
 dried meat, jerk
 
 sun
@@ -29465,14 +29405,14 @@ sundar
 
 adj.
 
+beautiful, nice, pretty, charming
+
 sundha
 
 ;Ú(
 
 n.
 
-beautiful, nice, pretty,
-charming
 trunk (of an elephant) snout
 
 sungur
@@ -29505,32 +29445,33 @@ sunuvar
 
 n.
 
+Sunuwar [a Nepali nationality]
+
 supari
 
 ;Úkf/L
 
 n.
 
-Sunuwar [a Nepali
-nationality]
 areca nut, betel nut
 
 suraksha
 
 ;Ú/Iff
 
+-
+
+protection, security
+
 surakshit
 
 ;Ú/lIft
 
-protection, security
 adj.
-
-127
 
 well protected, in safety
 
-surti
+surti
 
 ;ÚtL{
 
@@ -29566,11 +29507,17 @@ susangat
 
 ;Ú;+ut
 
+-
+
+well associated, well accompanied; reasonable
+
 susangata
 
 ;Ú;+utf
 
 n.
+
+good association, good companionship
 
 susangati
 
@@ -29578,10 +29525,6 @@ susangati
 
 n.
 
-well associated, well
-accompanied; reasonable
-good association, good
-companionship
 good companionship
 
 suselnu
@@ -29598,11 +29541,15 @@ suselo
 
 n.
 
+whistling, sighing; whistling sound made by the wind, sound produced by water while flowing
+
 sushasan
 
 ;Úzf;g
 
 n.
+
+good government, good rule, good administration
 
 sushri
 
@@ -29610,12 +29557,6 @@ sushri
 
 n.
 
-whistling, sighing; whistling
-sound made by the wind,
-sound produced by water
-while flowing
-good government, good
-rule, good administration
 Miss
 
 susta
@@ -29624,11 +29565,15 @@ susta
 
 adj.
 
+lazy, slow, idle, tardy, inactive
+
 sutne kotha
 
 ;ÚTg] sf]&f
 
 n.
+
+bed room
 
 sutnu
 
@@ -29636,14 +29581,14 @@ sutnu
 
 v.i.
 
+to sleep, to go to sleep, to go to bed, to lie down
+
 sutrapat
 
 ;'qkft
 
 n.
 
-to sleep, to go to sleep, to
-go to bed, to lie down
 beginning, commencement
 
 suvidha
@@ -29668,14 +29613,14 @@ svabhav
 
 n.
 
+habit, nature, temperament, character
+
 svabhavatah
 
 :jefjtM
 
 adv.
 
-habit, nature, temperament,
-character
 naturally, by nature
 
 svabhavik
@@ -29692,14 +29637,14 @@ svaccha
 
 adj.
 
+clean, clear, pure, transparent
+
 svad
 
 :jfb
 
 n.
 
-clean, clear, pure,
-transparent
 taste
 
 svadhin
@@ -29708,11 +29653,15 @@ svadhin
 
 adj.
 
+independent, free, self-governing, autonomous
+
 svadhinata
 
 :jfwLgtf
 
 n.
+
+independence, freedom, autonomy
 
 svami
 
@@ -29720,11 +29669,15 @@ svami
 
 n.
 
+master, owner, lord, proprietor, husband
+
 svar
 
 :j/
 
 n.
+
+voice, sound, tune, tone, vowel
 
 svarg
 
@@ -29732,29 +29685,14 @@ svarg
 
 n.
 
-128
+heaven, paradise, sky, heavens; a beautiful place, a pleasant site
 
-lazy, slow, idle, tardy,
-inactive
-bed room
-
-independent, free, selfgoverning, autonomous
-independence, freedom,
-autonomy
-master, owner, lord,
-proprietor, husband
-voice, sound, tune, tone,
-vowel
-heaven, paradise, sky,
-heavens; a beautiful place,
-
-svargavas
+svargavas
 
 :ju{jf;
 
 n.
 
-a pleasant site
 death, passing away
 
 svarup
@@ -29803,14 +29741,14 @@ svatah
 
 adj.
 
+voluntarily, spontaneous, of one's own accord
+
 svatantra
 
 :jtGq
 
 adj.
 
-voluntarily, spontaneous, of
-one's own accord
 free
 
 svatantrata
@@ -29875,14 +29813,14 @@ svayatta
 
 adj.
 
+autonomous, under one's control
+
 svayatta shasan
 
 :jfoQ zf;g
 
 n.
 
-autonomous, under one's
-control
 autonomy, self-government
 
 svayattashasi
@@ -29907,11 +29845,15 @@ svikar
 
 n.
 
+acceptance, confession, assent, agreement
+
 svikrit
 
 :jLs[t
 
 adj.
+
+accepted, agreed, consented, conferred
 
 svikriti
 
@@ -29919,19 +29861,14 @@ svikriti
 
 n.
 
+acceptance, sanction, approbation, acknowledgement, consent
+
 syal
 
 :ofn
 
 n.
 
-acceptance, confession,
-assent, agreement
-accepted, agreed,
-consented, conferred
-acceptance, sanction,
-approbation,
-acknowledgement, consent
 jackal
 
 syau
@@ -29956,11 +29893,15 @@ t*\sgÚ
 
 v.i.
 
+to walk speedily, to shout, to cry
+
 tadkinu
 
 t*\lsgÚ
 
 v.i.
+
+to walk speedily, to shout, to cry
 
 tai
 
@@ -29968,10 +29909,6 @@ tfO{
 
 n.
 
-to walk speedily, to shout,
-to cry
-to walk speedily, to shout,
-to cry
 flat iron pan
 
 taipani
@@ -29988,15 +29925,15 @@ tfhf
 
 adj.
 
-fresh, not stale; green,
+fresh, not stale; green,unfaded; recent
 
-129
-
-tak
+tak
 
 tfs
 
 n.
+
+time, hour, opportunity, chance
 
 tak
 
@@ -30004,18 +29941,14 @@ tak
 
 n.
 
+reflection, light; gazing, staring; looking at the things with closing the eyes
+
 takaliph
 
 tsnLkm
 
 n.
 
-unfaded; recent
-time, hour, opportunity,
-chance
-reflection, light; gazing,
-staring; looking at the
-things with closing the eyes
 trouble, pain, affliction
 
 takiya
@@ -30104,11 +30037,15 @@ talkanu
 
 v.i.
 
+to shine, to glitter, to sparkle
+
 talkinu
 
 ^lNsgÚ
 
 v.i.
+
+to shine, to glitter, to sparkle
 
 talmel
 
@@ -30116,19 +30053,14 @@ tfnd]n
 
 n.
 
+co-ordination, concordance, harmony, agreement
+
 talu
 
 tfnÚ
 
 n.
 
-to shine, to glitter, to
-sparkle
-to shine, to glitter, to
-sparkle
-co-ordination,
-concordance, harmony,
-agreement
 palate
 
 tama
@@ -30153,14 +30085,14 @@ tfdfª
 
 n.
 
+Tamang [a Nepali nationality]
+
 tamsanu
 
 tD;gÚ
 
 v.i.
 
-Tamang [a Nepali
-nationality]
 to be forward, to be active
 
 tamu
@@ -30169,17 +30101,19 @@ tdÚ
 
 n.
 
+Tamu, Gurung [a Nepali nationality]
+
 tanahun
 
 tgxÚ
 
 n.
 
+Tanahun [former mini-state; today district in western Nepal]
+
 tanav
 
-tgfj
-
-n.
+tension, tenseness, strain,tautness
 
 tanba
 
@@ -30187,13 +30121,6 @@ tfaf
 
 n.
 
-Tamu, Gurung [a Nepali
-nationality]
-Tanahun [former mini-state;
-today district in western
-Nepal]
-tension, tenseness, strain,
-tautness
 copper
 
 tanda
@@ -30212,9 +30139,7 @@ v.t.
 
 to draw, to pull, to drag
 
-130
-
-tansnu
+tansnu
 
 ^f:gÚ
 
@@ -30228,11 +30153,15 @@ tk
 
 n.
 
+penance, practice, heat, warmth
+
 tap
 
 tfk
 
 n.
+
+heat, warmth; mental sorrow, anxiety, regret
 
 tapani
 
@@ -30240,10 +30169,6 @@ tfklg
 
 conj.
 
-penance, practice, heat,
-warmth
-heat, warmth; mental
-sorrow, anxiety, regret
 although, nevertheless
 
 tapari
@@ -30252,14 +30177,14 @@ tapari
 
 n.
 
+a plate made of leaves, leaf-plate
+
 tapke
 
 tfKs]
 
 n.
 
-a plate made of leaves,
-leaf-plate
 frying pan
 
 tar
@@ -30292,14 +30217,14 @@ t/é
 
 n.
 
+wave, whim, caprice; emotion, vibration
+
 taraph
 
 t/km
 
 n.
 
-wave, whim, caprice;
-emotion, vibration
 direction, side
 
 taraph
@@ -30332,11 +30257,15 @@ t/Lsf
 
 n.
 
+method, manner, way, means
+
 tarikh
 
 tf/Lv
 
 n.
+
+date [according to the western calendar]
 
 tariko sag
 
@@ -30344,10 +30273,6 @@ tf/Lsf] ;fu
 
 n.
 
-method, manner, way,
-means
-date [according to the
-western calendar]
 mustard greens [small]
 
 tark
@@ -30356,14 +30281,14 @@ ts{
 
 n.
 
+debate, discussion, argument
+
 tarkari
 
 tsf{gL
 
 n.
 
-debate, discussion,
-argument
 vegetable curry
 
 tarnu
@@ -30428,14 +30353,14 @@ t;y{
 
 int.
 
+on account of that, from that reason, therefore
+
 taskar
 
 t:s/
 
 n.
 
-on account of that, from
-that reason, therefore
 smuggler
 
 taskari
@@ -30462,16 +30387,13 @@ adj.
 
 neutral, objective,
 
-131
-
-tataunu
+tataunu
 
 ttfpgÚ
 
 v.t.
 
-indifferent
-to heat, to warm up
+indifferent to heat, to warm up
 
 tatha
 
@@ -30519,16 +30441,14 @@ tQj
 
 n.
 
+truth; true state, essence, substance, the real factor of bringing things into existence
+
 tau
 
 tfp
 
 n.
 
-truth; true state, essence,
-substance, the real factor
-of bringing things into
-existence
 sheet of paper
 
 tauko
@@ -30561,14 +30481,14 @@ tj/
 
 n.
 
+manner, way, mode, method
+
 tayar
 
 tof/
 
 adv.
 
-manner, way, mode,
-method
 ready
 
 tayar garnu
@@ -30601,14 +30521,14 @@ t]Aa/
 
 adj.
 
+thrice, threefold, three times, triplicate
+
 tehra
 
 t]x|
 
 num.
 
-thrice, threefold, three
-times, triplicate
 thirteen, 13
 
 teis
@@ -30657,14 +30577,14 @@ ternu
 
 v.t.
 
+to obey, to respect; to pay attention
+
 tesro
 
 t];|f]
 
 adj.
 
-to obey, to respect; to pay
-attention
 third
 
 tesro dhrava
@@ -30715,13 +30635,13 @@ n.
 
 knowledge, information
 
-132
-
-thakai
+thakai
 
 ysfO
 
 n.
+
+fatigue, weariness, exhaustion
 
 thakali
 
@@ -30729,11 +30649,15 @@ ysfnL
 
 n.
 
+Thakali [a Nepali nationality]
+
 thaknu
 
 yfSgÚ
 
 v.i.
+
+to get tired, to become tired, to be exhausted
 
 thal
 
@@ -30741,12 +30665,6 @@ yfn
 
 n.
 
-fatigue, weariness,
-exhaustion
-Thakali [a Nepali
-nationality]
-to get tired, to become
-tired, to be exhausted
 plate
 
 thali
@@ -30771,11 +30689,15 @@ yfNgÚ
 
 v.t.
 
+to begin, to start, to commence
+
 thalo
 
 ynf]
 
 n.
+
+place, land; levelled high place, table land
 
 thamaunu
 
@@ -30783,10 +30705,6 @@ thamaunu
 
 v.t.
 
-to begin, to start, to
-commence
-place, land; levelled high
-place, table land
 to recognize, to know
 
 thami
@@ -30851,14 +30769,14 @@ yfKgÚ
 
 v.t.
 
+to establish, to erect, to place
+
 thar
 
 y/
 
 n.
 
-to establish, to erect, to
-place
 clan, tribe, subcaste
 
 tharkaunu
@@ -30907,11 +30825,15 @@ theknu
 
 v.t.
 
+to fix, to sum up, to appoint, to post
+
 thicnu
 
 lyRgÚ
 
 v.t.
+
+to press, to crush, to squeeze
 
 thik
 
@@ -30919,10 +30841,6 @@ thik
 
 adj.
 
-to fix, to sum up, to appoint,
-to post
-to press, to crush, to
-squeeze
 right, correct
 
 thiti
@@ -30939,20 +30857,17 @@ lylt
 
 n.
 
+arrangement, order, custom, regulation, usage
+
 thiti-riti
 
 lyltl/lt
 
 n.
 
-arrangement, order,
-custom, regulation, usage
-arrangement, order,
-custom, regulation, usage
+arrangement, order, custom, regulation, usage
 
-133
-
-thito
+thito
 
 l&^f]
 
@@ -30998,14 +30913,14 @@ thuli ama
 
 n.
 
+father's elder brother's wife, mother's elder sister
+
 thulo
 
 &'nf]
 
 adj.
 
-father's elder brother's wife,
-mother's elder sister
 big
 
 thulo ba
@@ -31014,11 +30929,16 @@ thulo ba
 
 n.
 
+father's elder brother, mother's elder sister's husband
+
 thulo buva
 
 &'nf] aÚjf
 
 n.
+
+
+father's elder brother, mother's elder sister's husband
 
 thunse
 
@@ -31026,20 +30946,14 @@ yÚG;]
 
 n.
 
+a large close-meshed basket
+
 thunuva
 
 yÚgÚjf
 
 adj.
 
-father's elder brother,
-mother's elder sister's
-husband
-father's elder brother,
-mother's elder sister's
-husband
-a large close-meshed
-basket
 imprisoned, arrested
 
 thuprai aunu
@@ -31134,11 +31048,17 @@ tinma
 
 ltgdf
 
-tinma adhi bhanda
-kehi badhi
+-
 
-ltgdf cf#L eGbf s]xL
-a(L
+under it, under them, under there
+
+tinma adhi bhanda kehi badhi
+
+ltgdf cf#L eGbf s]xL a(L
+
+postp.
+
+a little bit more than half of them
 
 tippani
 
@@ -31146,15 +31066,14 @@ l^Kk)fL
 
 n.
 
+note, annotation, comment, commentary, observation, critical remark
+
 tippanikar
 
 l^Kk)fLsf/
 
 n.
 
-note, annotation, comment,
-commentary, observation,
-critical remark
 commentator
 
 tira
@@ -31179,18 +31098,7 @@ lt;{gf
 
 n.
 
-desire for drink and food,
-
-134
-
-under it, under them, under
-there
-a little bit more than half of
-them
-
-thirst; desire, wish,
-ambition
-thirty, 30
+desire for drink and food, thirst; desire, wish, ambition
 
 tis
 
@@ -31198,11 +31106,15 @@ tL;
 
 num.
 
+thirty, 30
+
 tithi
 
 ltly
 
 n.
+
+date [according to the astrological calendar]
 
 titri
 
@@ -31210,11 +31122,15 @@ ltqL
 
 n.
 
+a sour fruit [relished for pickle], tamarind
+
 toknu
 
 tf]SgÚ
 
 v.t.
+
+to fix, to determine, to appoint, to decide
 
 toli
 
@@ -31222,11 +31138,15 @@ toli
 
 n.
 
+small group, btch, party, team
+
 topalnu
 
 ^f]kNgÚ
 
 v.t.
+
+to pretend, to make a pretext
 
 tori
 
@@ -31234,9 +31154,15 @@ tf]/L
 
 n.
 
+mustard
+
 torika phul dekhnu
 
 tf]/Lsf kmn b]VgÚ
+
+-
+
+to be astonished
 
 tran
 
@@ -31356,14 +31282,14 @@ tunginu
 
 v.i.
 
+to come to an end, to be finished, to be completed
+
 tupi
 
 ^ÚkL
 
 n.
 
-to come to an end, to be
-finished, to be completed
 pig-tail
 
 turunta
@@ -31404,32 +31330,17 @@ To;}
 
 adv.
 
+in that way, without any reason; free, vain
+
 tyasaile
 
 To;}n]
 
 conj.
 
-in that way, without any
-reason; free, vain
 therefore, so
 
-date [according to the
-astrological calendar]
-a sour fruit [relished for
-pickle], tamarind
-to fix, to determine, to
-appoint, to decide
-small group, btch, party,
-team
-to pretend, to make a
-pretext
-mustard
-to be astonished
-
-135
-
-tyaso hunale
+tyaso hunale
 
 To;f] xÚgfn]
 
@@ -31443,14 +31354,14 @@ To;k|lt
 
 adv.
 
+in this connection, concerning this
+
 tyasto
 
 To:tf]
 
 pron.
 
-in this connection,
-concerning this
 such, that kind of, like that
 
 tyatiko
@@ -31475,11 +31386,15 @@ plegÚ
 
 v.i.
 
+to stand up, to stand, to get up
+
 ubhyaunu
 
 pEofpgÚ
 
 v.t.
+
+to cause to stand, to raise up
 
 ubjani
 
@@ -31487,10 +31402,6 @@ pAhgL
 
 n.
 
-to stand up, to stand, to get
-up
-to cause to stand, to raise
-up
 production, productivity
 
 ubjanu
@@ -31499,11 +31410,15 @@ pAhgÚ
 
 v.i.
 
+to grow, to grow up, to be produced
+
 ubjaunu
 
 pAhfpgÚ
 
 v.t.
+
+to produce, to cause to grow
 
 ubranu
 
@@ -31511,10 +31426,6 @@ pa|gÚ
 
 v.i.
 
-to grow, to grow up, to be
-produced
-to produce, to cause to
-grow
 to be left over
 
 ucalnu
@@ -31547,14 +31458,14 @@ pbfx/)f
 
 n.
 
+instance, example, illustration
+
 udaharaniya
 
 pbfx/)fLo
 
 adj.
 
-instance, example,
-illustration
 exemplary
 
 udan
@@ -31571,11 +31482,15 @@ pbf/
 
 adj.
 
+high minded, munificent, generous, open-hearted, noble-minded
+
 udarashaya
 
 pbf/fzo
 
 adj.
+
+generous, high-minded, magnanimous
 
 udarta
 
@@ -31583,19 +31498,14 @@ pbf/tf
 
 n.
 
+generosity, liberality, magnanimity, nobleness
+
 udarvad
 
 pbf/jfb
 
 n.
 
-high minded, munificent,
-generous, open-hearted,
-noble-minded
-generous, high-minded,
-magnanimous
-generosity, liberality,
-magnanimity, nobleness
 liberalism
 
 udarvadi
@@ -31628,14 +31538,14 @@ p*fpgÚ
 
 v.t.
 
+to cause to fly; to waste, to squander, to gobble
+
 udaunu
 
 pbfpgÚ
 
 v.i.
 
-to cause to fly; to waste, to
-squander, to gobble
 to rise (sun or moon)
 
 udaya
@@ -31652,19 +31562,17 @@ p@]z
 
 n.
 
+desire, wish, intention, purpose
+
 uddeshya
 
 p@]Zo
 
 n.
 
-desire, wish, intention,
-purpose
 aim, objective
 
-136
-
-uddhar
+uddhar
 
 p$f/
 
@@ -31678,14 +31586,14 @@ pb\uf/
 
 n.
 
+exclamation, emotional statement
+
 udharnu
 
 pwfg{
 
 v.t.
 
-exclamation, emotional
-statement
 to rip up
 
 udhinnu
@@ -31694,14 +31602,14 @@ plwÌGgÚ
 
 v.t.
 
+to dig up, to pick out, to find out, to search, to select
+
 udnu
 
 p*\gÚ
 
 v.i.
 
-to dig up, to pick out, to find
-out, to search, to select
 to fly
 
 udus
@@ -31726,11 +31634,15 @@ pBt
 
 adj.
 
+ready, prepared, raised, brought up
+
 udyog
 
 pBf]u
 
 n.
+
+industry, enterprise, effort, diligence
 
 udyogi
 
@@ -31738,10 +31650,7 @@ pBf]uL
 
 adj.
 
-ready, prepared, raised,
-brought up
-industry, enterprise, effort,
-diligence
+
 industrious
 
 ugharnu
@@ -31782,14 +31691,14 @@ plxn]
 
 adv.
 
+then, at that time, many years ago, long ago
+
 ujad
 
 phf*
 
 adj.
 
-then, at that time, many
-years ago, long ago
 deserted, isolated
 
 ujyalo
@@ -31822,14 +31731,14 @@ psfnf]
 
 n./adj.
 
+steepness, upward gradient; steep
+
 ukasnu
 
 psf:gÚ
 
 v.t.
 
-steepness, upward
-gradient; steep
 ro raise, to rouse
 
 ukelnu
@@ -31878,14 +31787,14 @@ plSsgÚ
 
 v.i.
 
+to be selected, to be picked out
+
 uklanu
 
 pSngÚ
 
 v.t.
 
-to be selected, to be picked
-out
 to climb up, to ascend
 
 ukta
@@ -31902,16 +31811,15 @@ plQm
 
 n.
 
-statement, remark, a
-saying
+statement, remark, a saying
 
-137
-
-ukusmukusaunu
+ukusmukusaunu
 
 psÚ;dÚsÚ;fpgÚ
 
 v.t.
+
+to stifle, to cause claustrophobia
 
 ullangghan
 
@@ -31919,8 +31827,6 @@ pNn+#g
 
 n.
 
-to stifle, to cause
-claustrophobia
 violation, contravention
 
 ullas
@@ -31937,11 +31843,15 @@ pNn]v
 
 n.
 
+mention, reference, description
+
 ullekhniya
 
 pNn]vgLo
 
 adj.
+
+remarkable, worthy of being mentioned
 
 ullikhit
 
@@ -31949,10 +31859,6 @@ pNn]lvt
 
 adj.
 
-mention, reference,
-description
-remarkable, worthy of
-being mentioned
 written, mentioned
 
 ulto
@@ -32001,11 +31907,15 @@ pDsgÚ
 
 v.i.
 
+to escape, to get free, to slip out
+
 umlanu
 
 pDngÚ
 
 v.i.
+
+to boil, to bubble up, to simmer
 
 ummedvar
 
@@ -32013,10 +31923,6 @@ pDd]bjf/
 
 n.
 
-to escape, to get free, to
-slip out
-to boil, to bubble up, to
-simmer
 candidate
 
 umranu
@@ -32025,14 +31931,14 @@ pd|gÚ
 
 v.i.
 
+to sprout, to spring up, to grow up
+
 un
 
 pmg
 
 n.
 
-to sprout, to spring up, to
-grow up
 wool
 
 unancas
@@ -32129,14 +32035,14 @@ pGd'ng
 
 n.
 
+uprooting, destruction, eradication
+
 unnais
 
 pGgfO{;
 
 num.
 
-uprooting, destruction,
-eradication
 nineteen, 19
 
 unnat
@@ -32145,26 +32051,22 @@ pGgt
 
 adj.
 
+risen, progressed, improved
+
 unnati
 
 pGglt
 
 n.
-138
 
-risen, progressed,
-improved
-progress, rise,
+progress, rise, advancement, improvement, prosperity, elevation
 
-unnatishil
+unnatishil
 
 pGgltzLn
 
 adj.
 
-advancement,
-improvement, prosperity,
-elevation
 progressive
 
 unnayak
@@ -32189,15 +32091,14 @@ pÌGgÚ
 
 v.t.
 
+to wreath, to thread, to string, to pass a thread through a needle
+
 unsathi
 
 pG;f&L
 
 num.
 
-to wreath, to thread, to
-string, to pass a thread
-through a needle
 fifty-nine, 59
 
 unta
@@ -32238,14 +32139,14 @@ pkrf/
 
 n.
 
+remedy, medical treatment, care
+
 upadesh
 
 pkb]z
 
 n.
 
-remedy, medical treatment,
-care
 instruction, counsel, lesson
 
 upadhi
@@ -32254,14 +32155,14 @@ pkflw
 
 n.
 
+title, attribute, designation, status
+
 upahar
 
 pkxf/
 
 n.
 
-title, attribute, designation,
-status
 present, gift
 
 upaj
@@ -32278,11 +32179,15 @@ pkfVofg
 
 n.
 
+legend, tale, episode (of a narration); proverb, sying
+
 upakram
 
 pkqmd
 
 n.
+
+plan, programme, preparations, beginning, preamble, preface
 
 upalabdha
 
@@ -32290,11 +32195,15 @@ pknAw
 
 adj.
 
+gained, felt, acquired, attained, available
+
 upalabdhi
 
 pknAwL
 
 n.
+
+achievement, accomplishment
 
 upalakshya
 
@@ -32302,11 +32211,15 @@ pknIo
 
 n.
 
+sign, implication, ourpose, occasion
+
 upama
 
 pkdf
 
 n.
+
+comparison, simile, likeness
 
 upanisad
 
@@ -32314,11 +32227,15 @@ pklgifb\
 
 n.
 
+Upanishads (the theological part of the vedas)
+
 upanisadvadi
 
 pklgifb\jfnL
 
 n.
+
+(someone who is following the teachings of the Upanishads)
 
 upansanhar
 
@@ -32326,25 +32243,6 @@ pk;+xf/
 
 n.
 
-legend, tale, episode (of a
-narration); proverb, sying
-plan, programme,
-preparations, beginning,
-preamble, preface
-gained, felt, acquired,
-attained, available
-achievement,
-accomplishment
-sign, implication, ourpose,
-occasion
-comparison, simile,
-likeness
-Upanishads (the
-theological part of the
-vedas)
-(someone who is following
-the teachings of the
-Upanishads)
 conclusion, summary
 
 upanyas
@@ -32355,9 +32253,7 @@ n.
 
 novel
 
-139
-
-upar
+upar
 
 pk/
 
@@ -32387,15 +32283,14 @@ pk;efklt
 
 n.
 
+vice-chairman [of a meeting, organization or party]
+
 upasthiti
 
 pkl:ylt
 
 n.
 
-vice-chairman [of a
-meeting, organization or
-party]
 presence, attendance
 
 upatya
@@ -32436,11 +32331,15 @@ pkoÚQm
 
 adj.
 
+proper, suitable, appropriate
+
 upeksha
 
 pk]Iff
 
 n.
+
+slight, indignity, neglect, disregard, contempt, scorn
 
 upekshit
 
@@ -32448,18 +32347,14 @@ pk]lIft
 
 adj.
 
+neglected, ignored, discarded, disregarded
+
 uphranu
 
 pk|mgÚ
 
 v.i.
 
-proper, suitable,
-appropriate
-slight, indignity, neglect,
-disregard, contempt, scorn
-neglected, ignored,
-discarded, disregarded
 to jump, to leap
 
 upiyan
@@ -32484,15 +32379,14 @@ pn{gÚ
 
 v.i.
 
+to surge up, to rise up, to come in waves; to become angry
+
 usa
 
 piff
 
 n.
 
-to surge up, to rise up, to
-come in waves; to become
-angry
 dawn, daybreak
 
 usinnu
@@ -32525,16 +32419,14 @@ ptfgÚ{
 
 v.t.
 
+to cause to get off, to cause to descend, to help to descend, to take off (clothes)
+
 uthal-puthal
 
 pyn–kÚyn
 
 n.
 
-to cause to get off, to cause
-to descend, to help to
-descend, to take off
-(clothes)
 overturning, change
 
 uthaunu
@@ -32543,11 +32435,15 @@ p&fpgÚ
 
 v.t.
 
+to wake up, to rouse, to cause to rise
+
 uthnu
 
 p&\gÚ
 
 v.i.
+
+to get up, to stand up, to stand
 
 uti
 
@@ -32555,10 +32451,6 @@ plt
 
 adv.
 
-to wake up, to rouse, to
-cause to rise
-to get up, to stand up, to
-stand
 that much
 
 utnikher
@@ -32585,9 +32477,7 @@ n.
 
 origin, production
 
-140
-
-utpidak
+utpidak
 
 pTkL*s
 
@@ -32601,14 +32491,14 @@ pTkLl*t
 
 n.
 
+oppression, persecution, harassment
+
 utpidit varga
 
 pTkLl*t ju{
 
 n.
 
-oppression, persecution,
-harassment
 oppressed class
 
 utranu
@@ -32617,11 +32507,15 @@ pqgÚ
 
 v.i.
 
+to get off, to descend, to float, to rise out of, to rise above
+
 utrinu
 
 plqgÚ
 
 v.i.
+
+to get off, to come down, to descend
 
 utsaha
 
@@ -32629,11 +32523,15 @@ pT;fx
 
 n.
 
+enthusiasm, excitement
+
 utsav
 
 pT;j
 
 n.
+
+entertainment, festival, celebration, festivity
 
 utsukta
 
@@ -32641,8 +32539,6 @@ pT;Ústf
 
 n.
 
-entertainment, festival,
-celebration, festivity
 enthusiasm, excitement
 
 uttam
@@ -32683,14 +32579,14 @@ pQ/bfoL
 
 adj.
 
+responsible, answerable, accountable
+
 uttejit
 
 pQ]lht
 
 adj.
 
-responsible, answerable,
-accountable
 excited, quickened
 
 utthan
@@ -32699,14 +32595,14 @@ pTyfg
 
 n.
 
+upliftment; progress, emancipation
+
 vacan
 
 jrg
 
 n.
 
-upliftment; progress,
-emancipation
 speech, utterance, talk
 
 vad
@@ -32731,11 +32627,15 @@ j}wflgs
 
 adj.
 
+constitutional, according to the constitution
+
 vaishakh
 
 j}zfv
 
 n.
+
+first month of the Nepali year [April-May]
 
 vajracarya
 
@@ -32743,19 +32643,14 @@ jh|frfo{
 
 n.
 
+Vajracharya, Bajracharya, a tantric guru, a Buddhist priest
+
 vaktavya
 
 jQmJo
 
 n.
 
-constitutional, according to
-the constitution
-first month of the Nepali
-year [April-May]
-Vajracharya, Bajracharya,
-a tantric guru, a Buddhist
-priest
 speech, statement, topic
 
 vampanthi
@@ -32774,15 +32669,15 @@ n.
 
 wild cat
 
-van upabhokta
-samuha
-vanbhoja
+van upabhokta samuha
 
 jg pkef]Qmf ;d'x
 
 n.
 
 forest users group
+
+vanbhoja
 
 jfef]h
 
@@ -32806,20 +32701,13 @@ n.
 
 forest resources
 
-141
-
-to get off, to descend, to
-float, to rise out of, to rise
-above
-to get off, to come down, to
-descend
-enthusiasm, excitement
-
-vansha
+vansha
 
 j+z
 
 n.
+
+clan, pedigree, dynasty, lineage, birth, family, tribe, generation
 
 vardan
 
@@ -32827,9 +32715,6 @@ j/bfg
 
 n.
 
-clan, pedigree, dynasty,
-lineage, birth, family, tribe,
-generation
 boon
 
 varga
@@ -32870,11 +32755,15 @@ jl/kl/
 
 adv.
 
+all round, round about, on all sides
+
 varnan
 
 j)f{g
 
 n.
+
+description, narration, encomium
 
 varsa
 
@@ -32882,10 +32771,6 @@ jif{
 
 n.
 
-all round, round about, on
-all sides
-description, narration,
-encomium
 year
 
 varsa
@@ -32894,11 +32779,15 @@ jiff{
 
 n.
 
+rains, rainy season, monsoon
+
 varta
 
 jftf{
 
 n.
+
+discourse, account, conversation, topic, talk, dialogue
 
 vartalap
 
@@ -32906,11 +32795,15 @@ jftf{nfk
 
 n.
 
+dialogue, conversation, talk, discourse
+
 vartaman
 
 jt{dfg
 
 adj.
+
+current, existing, modern, current time, present time
 
 vasanta
 
@@ -32918,15 +32811,6 @@ j;Gt
 
 n.
 
-rains, rainy season,
-monsoon
-discourse, account,
-conversation, topic, talk,
-dialogue
-dialogue, conversation,
-talk, discourse
-current, existing, modern,
-current time, present time
 spring
 
 vasi
@@ -32943,14 +32827,14 @@ jf:tljs
 
 adj.
 
+in reality, essential, genuine, true, virtual
+
 vastavikta
 
 jf:tljstf
 
 n.
 
-in reality, essential,
-genuine, true, virtual
 reality, truth
 
 vastu
@@ -32959,11 +32843,15 @@ j:tÚ
 
 n.
 
+thing, item, substance, article, property; cattle
+
 vastutah
 
 j:tÚtM
 
 adv.
+
+in reality
 
 vatavaran
 
@@ -32971,15 +32859,14 @@ jftfj/)f
 
 n.
 
+condition, surrounding, environment,circumstances, situation
+
 veda
 
 j]b
 
 n.
 
-condition, surrounding,
-environment,
-circumstances, situation
 Veda
 
 vela
@@ -33012,14 +32899,14 @@ ljefuLo
 
 adj.
 
+department, related to department
+
 vibhajan
 
 ljefhg
 
 n.
 
-departmental, related to the
-department
 section, part, department
 
 vibhinna
@@ -33028,20 +32915,15 @@ ljleÌ
 
 adj.
 
-142
+various, diverse, different kinds of
 
-thing, item, substance,
-article, property; cattle
-in reality
-
-various, diverse, different
-kinds of
-
-vicalan
+vicalan
 
 ljrng
 
 n.
+
+departure, deviation, moving about, unsteadiness
 
 vicar
 
@@ -33049,17 +32931,14 @@ ljrf/
 
 n.
 
+consideration, observation, notion, idea, judgement
+
 videsh
 
 ljb]z
 
 n.
 
-departure, deviation,
-moving about,
-unsteadiness
-consideration, observation,
-notion, idea, judgement
 foreign country
 
 videshi
@@ -33084,14 +32963,14 @@ ljwfg
 
 n.
 
+legislation, act, law, ordinance, regulation, rule
+
 vidheyak
 
 ljw]os
 
 n.
 
-legislation, act, law,
-ordinance, regulation, rule
 bill [in a legislature]
 
 vidhi
@@ -33100,11 +32979,15 @@ ljlw
 
 n.
 
+method, procedure, law, rule, prescript
+
 vidhipurvak
 
 ljlwk'j{s
 
 adv.
+
+duly, methodically, systematically 
 
 vidhivat
 
@@ -33112,11 +32995,15 @@ ljlwjt
 
 adv.
 
+duly, methodically,systematically, inconformity with rules, as prescribed by law
+
 vidit
 
 ljlbt
 
 adj.
+
+known, understood, acquainted
 
 vidroha
 
@@ -33124,11 +33011,15 @@ ljb|f]x
 
 n.
 
+revolt, rebellion, mutiny, treason
+
 vidvan
 
 ljåfg
 
 n./adj.
+
+scholar; learned, wise
 
 vidya
 
@@ -33136,11 +33027,15 @@ ljBf
 
 n.
 
+knowledge, learning, attainment
+
 vidyabhyas
 
 ljBfEof;
 
 n.
+
+study, habit of study, practice of learning
 
 vidyalaya
 
@@ -33148,11 +33043,15 @@ ljBfno
 
 n.
 
+school, college, academy, seminary
+
 vidyarambha
 
 ljBf/De
 
 n.
+
+initiation into one's studies with religious solemnities, the beginning of reading an writing
 
 vidyarthi
 
@@ -33160,16 +33059,6 @@ ljBfyL{
 
 n.
 
-knowledge, learning,
-attainment
-study, habit of study,
-practice of learning
-school, college, academy,
-seminary
-initiation into one's studies
-with religious solemnities,
-the beginning of reading an
-writing
 student
 
 vidyarthi gatividhi
@@ -33210,39 +33099,23 @@ lj#^g
 
 n.
 
+break up, dissolution, destruction
+
 vigyan
 
 lj!fg
 
 n.
 
-break up, dissolution,
-destruction
-acquired knowledge,
-conscience, wisdom,
-understanding, science
+acquired knowledge, conscience, wisdom, understanding, science
 
-143
-
-method, procedure, law,
-rule, prescript
-duly, methodically,
-systematically
-duly, methodically,
-systematically, in
-conformity with rules, as
-prescribed by law
-known, understood,
-acquainted
-revolt, rebellion, mutiny,
-treason
-scholar; learned, wise
-
-vihina
+vihina
 
 ljxLg
 
 postp.
+
+devoid of, deprived of, destitute of
 
 vihinata
 
@@ -33250,8 +33123,6 @@ ljxLgtf
 
 n.
 
-devoid of, deprived of,
-destitute of
 missing, non-existence
 
 vijaya
@@ -33268,11 +33139,15 @@ ljhof
 
 n.
 
+the goddess Durga, the Durga Puja festival
+
 vijaya dashami
 
 ljhof bzdL
 
 n.
+
+the Dashara festival, the Dasain festival
 
 vijayi
 
@@ -33280,11 +33155,15 @@ ljhoL
 
 n./adj.
 
+victor, conqueror, vanquisher; victorious, triumphant
+
 vijeta
 
 ljh]tf
 
 n.
+
+conqueror, victor, one who has achieved victory
 
 vikas
 
@@ -33292,23 +33171,14 @@ ljsf;
 
 n.
 
+development, expansion, evolution
+
 vikasit
 
 ljsfl;t
 
 adj.
 
-the goddess Durga, the
-Durga Puja festival
-the Dashara festival, the
-Dasain festival
-victor, conqueror,
-vanquisher; victorious,
-triumphant
-conqueror, victor, one who
-has achieved victory
-development, expansion,
-evolution
 developed
 
 vikasit
@@ -33341,11 +33211,15 @@ ljv)*g
 
 n.
 
+fission, breaking up, splitting up, fragmentation
+
 vikhandit
 
 ljvl)*t
 
 adj.
+
+divided, separated, split up, cut off, broken
 
 vikriti
 
@@ -33353,11 +33227,15 @@ ljs[lt
 
 n.
 
+deformation, defilement, mutilation, defect
+
 vilas
 
 ljnf;
 
 n.
+
+luxury, enjoyment, luxurious life, sensuous pleasure, pleasure with the opposite sex
 
 vilayat
 
@@ -33365,24 +33243,14 @@ ljnfot
 
 n.
 
+foreign land, foreign country, Europe, England
+
 viman
 
 ljdfg
 
 n.
 
-fission, breaking up,
-splitting up, fragmentation
-divided, separated, split up,
-cut off, broken
-deformation, defilement,
-mutilation, defect
-luxury, enjoyment,
-luxurious life, sensuous
-pleasure, pleasure with the
-opposite sex
-foreign land, foreign
-country, Europe, England
 airplane, airship
 
 vimansthal
@@ -33399,11 +33267,15 @@ ljgfz
 
 n.
 
+destruction, ruin, disaster, loss
+
 vipanna
 
 ljkÌ
 
 adj.
+
+distressed, afflicted, fallen into calamity, in a critical state
 
 viparit
 
@@ -33411,37 +33283,31 @@ ljk/Lt
 
 adj.
 
+opposit, contrary, reverse, adverse, hostile
+
 viphal
 
 ljkmn
 
 adj.
 
+fruitless, useless, unsuccessful
+
 vir
 
 jL/
 
 adj.
+brave, courageous, heroic, gallant
 
-destruction, ruin, disaster,
-loss
-distressed, afflicted, fallen
-into calamity, in a critical
-state
-opposit, contrary, reverse,
-adverse, hostile
-fruitless, useless,
-unsuccessful
-brave, courageous, heroic,
-gallant
 
-144
-
-viraha
+viraha
 
 lj/x
 
 n.
+
+separation, parting, estrangement; loss
 
 virodh
 
@@ -33449,11 +33315,15 @@ lj/f]w
 
 n.
 
+dissension, discrepancy, hostility, discord, objection, antagonism
+
 viruddha
 
 lj?$
 
 postp.
+
+against, opposed, opposite, contrary, adverse, hostile
 
 visakta
 
@@ -33461,11 +33331,15 @@ ljiffQm
 
 adj.
 
+toxic, poisonous, venomous, vituperative
+
 visalu
 
 ljiffnÚ
 
 adj.
+
+toxic, poisonous, venomous, vituperative
 
 visaya
 
@@ -33473,17 +33347,6 @@ ljifo
 
 n.
 
-separation, parting,
-estrangement; loss
-dissension, discrepancy,
-hostility, discord, objection,
-antagonism
-against, opposed, opposite,
-contrary, adverse, hostile
-toxic, poisonous,
-venomous, vituperative
-toxic, poisonous,
-venomous, vituperative
 subject, topic, article
 
 visaya-kram
@@ -33500,11 +33363,15 @@ ljifofGt/
 
 n.
 
+an outside subject, another topic
+
 visayapravesh
 
 ljifok|j]z
 
 n.
+
+introduction, preface, foreword, preliminary
 
 visaya-pravesh
 
@@ -33512,10 +33379,6 @@ ljifo–k|j]z
 
 n.
 
-an outside subject, another
-topic
-introduction, preface,
-foreword, preliminary
 introduction
 
 visayavastu
@@ -33524,11 +33387,15 @@ ljifoj:tÚ
 
 n.
 
+subject matter, something discussed
+
 vishal
 
 ljzfn
 
 adj.
+
+big, very big, gigantic, extensive, large, palatiol, huge, great
 
 vishes
 
@@ -33536,20 +33403,14 @@ ljz]if
 
 adv.
 
+extraordinary, unusual, special, distinguished, famous
+
 vishes adalat
 
 ljz]if cbfnt
 
 n.
 
-subject matter, something
-discussed
-big, very big, gigantic,
-extensive, large, palatiol,
-huge, great
-extraordinary, unusual,
-special, distinguished,
-famous
 special court
 
 vishes nam
@@ -33581,6 +33442,7 @@ vishesya
 ljz]io
 
 n.
+substantive; a noun with an adjective qualifying it
 
 vishista
 
@@ -33588,17 +33450,14 @@ ljlzi^
 
 adj.
 
+conspicuous, remarkable, important, distinguished, extraordinary
+
 vishva
 
 ljZj
 
 n.
 
-substantive; a noun with an
-adjective qualifying it
-conspicuous, remarkable,
-important, distinguished,
-extraordinary
 universe, the whole world
 
 vishvas
@@ -33607,11 +33466,15 @@ ljZjf;
 
 n.
 
+belief, trust, faith, reliance, confidence, assurance
+
 vishvasniya
 
 ljZj;gLo
 
 adj.
+
+trustworthy, reliable, creditable
 
 vishvasniyata
 
@@ -33619,18 +33482,14 @@ ljZj;gLotf
 
 n.
 
+trustworthiness, reliability, creditability
+
 vishvaspatra
 
 ljZjf;kfq
 
 n.
 
-belief, trust, faith, reliance,
-confidence, assurance
-trustworthy, reliable,
-creditable
-trustworthiness, reliability,
-creditability
 reliable person, confidant
 
 vishvavidyalaya
@@ -33641,9 +33500,7 @@ n.
 
 university
 
-145
-
-vishvayuddha
+vishvayuddha
 
 ljZjo'$
 
@@ -33673,14 +33530,14 @@ lj:kmf]^
 
 n.
 
+outburst, explosion, eruption; smallpox
+
 visphotak
 
 lj:kmf]^s
 
 adj.
 
-outburst, explosion,
-eruption; smallpox
 explosive
 
 vistar
@@ -33689,11 +33546,15 @@ lj:tf/
 
 n.
 
+extension, expansion, extent; spread
+
 vistarit
 
 lj:tfl/t
 
 adj.
+
+expanded, enlarged
 
 vivad
 
@@ -33701,11 +33562,15 @@ ljjfb
 
 n.
 
+discussion, debate, dispute, altercation, quarrel, controvercy
+
 vivaha
 
 ljjfx
 
 n.
+
+marriage, wedding, matrimony
 
 vivaran
 
@@ -33713,11 +33578,15 @@ ljj/)f
 
 n.
 
+description, account, statement
+
 vivash
 
 ljjz
 
 adj.
+
+dependent, helpless, subjected
 
 vividh
 
@@ -33725,11 +33594,15 @@ ljljw
 
 adj.
 
+different, diverse, various, miscellaneous
+
 vividhta
 
 ljljwtf
 
 n.
+
+diversity, variety, variation
 
 vriddha
 
@@ -33737,11 +33610,15 @@ j[$
 
 adj.
 
+old, aged, advanced in years, mature; ancient
+
 vriddhavastha
 
 j[$fj:yf
 
 n.
+
+old age
 
 vriddhi
 
@@ -33749,15 +33626,14 @@ j[l$
 
 n.
 
+progress, increase, increment, rise, growth, enlargement
+
 vrihaspativar
 
 j[x:kltjf/
 
 n.
 
-progress, increase,
-increment, rise, growth,
-enlargement
 Thursday
 
 vriksha
@@ -33782,14 +33658,14 @@ j[ifb]j
 
 n.
 
+Vrishadeva [name of a Licchavi king, greatgrandfather of Manadeva I]
+
 vyakhya
 
 JofVof
 
 n.
 
-Vrishadeva [name of a
-Licchavi king, greatgrandfather of Manadeva I]
 explanation
 
 vyakhyan
@@ -33798,11 +33674,15 @@ JofVofg
 
 n.
 
+speech, lecture, explanation, exposition
+
 vyakta
 
 JoQm
 
 adj.
+
+clear, discernible, expressed, stated, mentioned
 
 vyakti
 
@@ -33810,19 +33690,14 @@ JolQm
 
 n.
 
+person, individual, manifestation
+
 vyaktigat
 
 JolQmut
 
 adj.
 
-speech, lecture,
-explanation, exposition
-clear, discernible,
-expressed, stated,
-mentioned
-person, individual,
-manifestation
 personal, individual
 
 vyaktitva
@@ -33831,30 +33706,8 @@ JolQmTj
 
 n.
 
-personality, individuality,
+personality, individuality, self
 
-146
-
-extension, expansion,
-extent; spread
-expanded, enlarged
-discussion, debate,
-dispute, altercation,
-quarrel, controvercy
-marriage, wedding,
-matrimony
-description, account,
-statement
-dependent, helpless,
-subjected
-different, diverse, various,
-miscellaneous
-diversity, variety, variation
-old, aged, advanced in
-years, mature; ancient
-old age
-
-self
 vyaktivacak nam
 
 JolQmjfrs gfd
@@ -33885,11 +33738,15 @@ Jofkf/
 
 n.
 
+business, trade, profession, occupation, industry
+
 vyapta
 
 JofKt
 
 adj.
+
+diffused, pervaded, occupied, overcast, scattered, flush
 
 vyatha
 
@@ -33897,11 +33754,15 @@ Joyf
 
 n.
 
+pain, suffering, misery, distress, injury, ache
+
 vyavahar
 
 Jojxf/
 
 n.
+
+behaviour, conduct, manner, treatement
 
 vyavasay
 
@@ -33909,11 +33770,15 @@ Joj;fo
 
 n.
 
+undertaking, occupation, employment; engagement, business
+
 vyavastha
 
 Joj:yf
 
 n.
+
+system, method, regulation, management, settlement, systematization, form
 
 vyavasthapan
 
@@ -33921,21 +33786,6 @@ Joj:yfkg
 
 n.
 
-business, trade, profession,
-occupation, industry
-diffused, pervaded,
-occupied, overcast,
-scattered, flush
-pain, suffering, misery,
-distress, injury, ache
-behaviour, conduct,
-manner, treatement
-undertaking, occupation,
-employment; engagement,
-business
-system, method, regulation,
-management, settlement,
-systematization, form
 organizing, systematizing
 
 vyavasthapika
@@ -33952,11 +33802,15 @@ Joj:yflkt
 
 adj.
 
+established, systematized, managed
+
 vyavasthit
 
 Jojl:yt
 
 adj.
+
+systematic, methodical, in order
 
 yadyapi
 
@@ -33964,18 +33818,14 @@ oBlk
 
 conj.
 
+although, though, even, if, showever, notwithstanding
+
 yagya
 
 o!
 
 n.
 
-established, systematized,
-managed
-systematic, methodical, in
-order
-although, though, even, if,
-however, notwithstanding
 religious sacrifice, oblation
 
 yahan
@@ -34028,14 +33878,14 @@ oz:jL
 
 adj.
 
+renowned, reputed, glorious
+
 yashogan
 
 ozf]ufg
 
 n.
 
-renowned, reputed,
-glorious
 eulogy, singing of praises
 
 yasmadhye
@@ -34070,9 +33920,7 @@ pron.
 
 like this, of the same kind
 
-147
-
-yasto andhyaroma
+yasto andhyaroma
 
 o:tf] cWo/f]df
 
@@ -34094,14 +33942,14 @@ otfptf
 
 adv.
 
+hither an thither, here and there, in all directions
+
 yatayat
 
 oftfoft
 
 n.
 
-hither an thither, here and
-there, in all directions
 transportation, traffic
 
 yathavat
@@ -34118,14 +33966,14 @@ olt
 
 adv.
 
+this much, thus much, so much
+
 yatiko
 
 oltsf]
 
 adv.
 
-this much, thus much, so
-much
 so much
 
 yatra
@@ -34158,14 +34006,14 @@ of}jg
 
 n.
 
+youth, adolescence, manhood, puberty
+
 yayavar
 
 ofofj/
 
 n.
 
-youth, adolescence,
-manhood, puberty
 nomad, wanderer
 
 yog
@@ -34174,11 +34022,15 @@ of]u
 
 n.
 
+joining, junction, combination, union, coupling; relationship, connection
+
 yogadan
 
 of]ubfg
 
 n.
+
+cooperation, help, assistance, contribution
 
 yogaphal
 
@@ -34186,12 +34038,6 @@ of]ukmn
 
 n.
 
-joining, junction,
-combination, union,
-coupling; relationship,
-connection
-cooperation, help,
-assistance, contribution
 the sum total
 
 yogyata
@@ -34256,9 +34102,4 @@ oÚjtL
 
 n.
 
-young woman, youthful
-woman
-
-148
-
-
+young woman, youthful woman
