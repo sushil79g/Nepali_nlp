@@ -16,3 +16,13 @@ class Avg_vector_similar:
 
 # model = Embeddings().load_vector()
 # sim = compute_sentence_similarity(sent_1, sent_2, model)
+
+# steps:
+# 1)Jaccard Similarity
+# 2) embedding + kmean
+# 3) word2vec + smooth inverse freq + cosine
+# 4) Embedding + LDA + Jensen shannon distance
+# 5) Embedding + Word MOver distance 
+# 6) Knowledge based measure
+
+
