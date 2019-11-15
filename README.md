@@ -7,11 +7,9 @@ TODOs:</br>
 - [x] Nepali Words Collection 
 - [x] Nepali Word synonym
 - [x] Roman Nepali to Nepali
-- [x] Summerization
-- [x] Nepali news summerization from onlinekhabar, ekantipur
-- [x] Spell word correction
-- [ ] Spell sentence correction (Currently)
+- [ ] Spell correction (Currently)
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
+- [ ] Summerization 
 - [ ] Named Entity Recognition
 - [ ] Nepali OCR
