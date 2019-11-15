@@ -22,7 +22,8 @@ class NgramGenerator(Tokenizer):
         return n_gram_wordlist
 
 
-#Test Case
+#--------------------------------Test Case------------------------------------------------
+
 # data = "तिमीले सुन्या यो कुरा हो, मैले सुन्या को कुरा हो ,तिम्रो हाम्रो सम्बन्ध को हल्ला चल्या को कुरा हो ,झ्याम्म झ्याम्म।"
 # one_gram = NgramGenerator(1)
 # two_gram = NgramGenerator(2)
