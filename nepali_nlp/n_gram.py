@@ -1,22 +1,22 @@
 from tokenize import Tokenizer
 
-token = Tokenizer()
+class NgramGenerator(Tokenizer):
 
-def generate_n_gram(text, n_gram):
-    """This function generate ngram token list
-        
-        Arguments:
-            sentence {string} -- sentence from which N-gram should be generated
-            n_gram {int} -- value of n-gram
-        
-        Returns:
-            list -- list of n-gram words
-        """
-    token =  Tokenizer()
-    word_token  = token.word_tokenize(text)
-    print(word_token)
-    n_gram_wordlist=[]
-    for idx in range(len(word_token)-n_gram+1):
-        n_gram_wordlist.append(word_token[idx:idx+n_gram])
-    return n_gram_wordlist
+    def __init__(self,n_gram):
+        self.n_gram = n_gram
 
+    def generate_n_gram(self,token_text):
+        """This function generate ngram token list
+        
+            Arguments:
+                sentence {list} -- list of tokenized text
+                n_gram {int} -- value of n-gram
+        
+            Returns:
+                list --  multi array list of n-gram tokenized words
+            """
+
+        n_gram_wordlist=[]
+        for idx in range(len(token_text)-self.n_gram+1):
+            n_gram_wordlist.append(token_text[idx:idx+self.n_gram])
+        return n_gram_wordlist
