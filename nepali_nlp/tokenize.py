@@ -29,7 +29,7 @@ class Tokenizer:
         Returns:
             list -- tokenized words
         """
-        punctuations = ['।',',',';','?','!','—','-']
+        punctuations = ['।',',',';','?','!','—','-','.']
         if new_punctuation:
             punctuations = set(punctuations + new_punctuation)
 
