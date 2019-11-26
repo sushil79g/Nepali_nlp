@@ -10,6 +10,6 @@ TODOs:</br>
 - [ ] Spell correction (Currently)
 - [ ] Word and sentence similarity score
 - [ ] Pos_tag
-- [ ] Summerization 
+- [x] Summerization 
 - [ ] Named Entity Recognition
-- [ ] Nepali OCR
+- [x] Nepali OCR
