@@ -11,6 +11,7 @@ class Update_news:
         summar_ = Summerize()
         for link_ in extract_news:
             title,text = extract_news(link)
+            print(link_)
             print(title)
             summary_news = summar_.show_summary(text,7)
             print(summary_news)
