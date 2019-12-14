@@ -1,8 +1,9 @@
 from utils import top_news_link
 from news_scrap import extract_news
+from summerization import Summerize
 
 class Update_news:
-    def __init__:
+    def __init__(self):
         pass
 
     def show_latest(self, portal='onlinekhabar', number_of_news=5):
