@@ -67,3 +67,4 @@ def extract_news(link):
     title = article.title
 
     return (title, sample_text)
+
