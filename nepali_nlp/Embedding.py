@@ -15,7 +15,7 @@ class Embeddings:
         """
         download = Download()
         download.download_file_from_google_drive('1ik38vahOmzhiU2DBi78VOqDt7YFPsk5w','word_vector.sg')
-        word_vector = KeyedVectors.load('word_vector.sg')
+        word_vector = KeyedVectors.load_word2vec_format('word_vector.sg',binary=False)
         
         return word_vector
 
