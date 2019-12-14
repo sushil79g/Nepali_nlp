@@ -35,6 +35,15 @@ def load_multiple_link_dataset(file_loc = 'nep-eng.txt'):
 
 
 def top_news_link(portal='onlinekhabar',top_n =5):
+    """This function fetch the top_n trending news
+    
+    Keyword Arguments:
+        portal {str} -- [news portal that you want to see trending of] (default: {'onlinekhabar'})
+        top_n {int} -- [number of top trending news] (default: {5})
+    
+    Returns:
+        [list] -- [links of trending news]
+    """
     assert portal in ['onlinekhabar','ekantipur'], "Currently we support 'onlinekhabar' and 'ekantipur' only"
     links = []
     req = Request('https://www.' + portal +'.com/', headers={'User-Agent':'Mozilla/5.0'})
