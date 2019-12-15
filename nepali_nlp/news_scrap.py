@@ -3,7 +3,7 @@ import urllib
 
 from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
-from newsplease import Newsplease
+from newsplease import NewsPlease
 
 def get_content_onlinekhabar(link):
     """This function extract the contants from onlinakhabar.com
@@ -67,3 +67,4 @@ def extract_news(link):
     title = article.title
 
     return (title, sample_text)
+
