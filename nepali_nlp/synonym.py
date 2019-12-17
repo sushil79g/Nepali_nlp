@@ -1,25 +1,11 @@
-from nepali_nlp.Embedding import Embeddings
+from Embedding import Embeddings
 
 class Synonym:
     
-    def load_embedding(self, load_large=False):
-        """This function load the embeddings. 
-        
-        Keyword Arguments:
-            load_large {bool} -- IF True it will load the large Nepali embedding else it will load comparitibly small Nepali embedding.(default: {False})
-        
-        Returns:
-            keyedVector -- Returns the embedding in keyedvector format.
-        """
-        embedding = Embeddings()
-        if load_large:
-            word_vec = embedding.load_large_vector()
-        else:
-            word_vec = embedding.load_vector()
-        
-        return word_vec
+    def __init__(self):
+        pass
 
-    def raw_synonym(self,word, load_large=False):
+    def raw_synonym(self,word_vec):
         """show the similar words according to embedding
         
         Arguments:
@@ -29,13 +15,12 @@ class Synonym:
             [tuple]: synonym word with similarity score
         """
         
-        word_vec = self.load_embedding(load_large)
         synonyms = word_vec.most_similar(word)
 
         return synonyms
 
 
-    def filter_synonym(self,word,load_large=False):
+    def filter_synonym(self,word_vec):
         """Funtion to filter the similarity words from embedding
         
         Arguments:
@@ -44,7 +29,6 @@ class Synonym:
         Returns:
             [list] -- [similar words]
         """
-        word_vec = self.load_embedding(load_large)
         syno = []
         synonyms = word_vec.most_similar(word)
         for words in synonyms:
