@@ -9,6 +9,7 @@ class Summerize:
         # self.word_vec = Embeddings().load_vector()
         # self.vocab = self.word_vec.vocab
         # print('Embedding is now loaded')
+        pass
 
     def preprocess(self,text):
         """This function remove punctuation and split text in sentences.

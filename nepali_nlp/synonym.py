@@ -5,7 +5,7 @@ class Synonym:
     def __init__(self):
         pass
 
-    def raw_synonym(self,word_vec):
+    def raw_synonym(self,word, word_vec):
         """show the similar words according to embedding
         
         Arguments:
@@ -20,7 +20,7 @@ class Synonym:
         return synonyms
 
 
-    def filter_synonym(self,word_vec):
+    def filter_synonym(self,word, word_vec):
         """Funtion to filter the similarity words from embedding
         
         Arguments:

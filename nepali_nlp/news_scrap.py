@@ -63,7 +63,7 @@ def extract_news(link):
     else:
         raise ValueError('Currently we work with onlinekhabar and ekantipur only. Other sites will be addedd soon.')
 
-    article = Newsplease.from_url(link)
+    article = NewsPlease.from_url(link)
     title = article.title
 
     return (title, sample_text)
