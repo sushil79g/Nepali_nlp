@@ -77,7 +77,10 @@ class Unicode:
       #Summing up everything.
       word = ''
       for item in split:
-         word = word + str(latter_dict[item])
+         try:
+            word = word + str(latter_dict[item])
+         except:
+            word = word + ' '
       
       return word
 

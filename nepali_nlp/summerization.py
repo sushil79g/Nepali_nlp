@@ -5,10 +5,11 @@ import string
 class Summerize:
     def __init__(self, *args, **kwargs):
         # This should not be the standard way of doing. Standard way will be done in next iteration.
-        print('Loading Embedding')
-        self.word_vec = Embeddings().load_vector()
-        self.vocab = self.word_vec.vocab
-        print('Embedding is now loaded')
+        # print('Loading Embedding')
+        # self.word_vec = Embeddings().load_vector()
+        # self.vocab = self.word_vec.vocab
+        # print('Embedding is now loaded')
+        pass
 
     def preprocess(self,text):
         """This function remove punctuation and split text in sentences.
@@ -23,7 +24,7 @@ class Summerize:
         sentences = [sentence.translate(str.maketrans('', '', string.punctuation)) for sentence in sentences]
         return sentences
     
-    def generate_centroif_tfidf(self,sentence):
+    def generate_centroif_tfidf(self,word_vec,sentence):
         """This function generates tfidf value for each sentences
         
         Arguments:
@@ -38,13 +39,13 @@ class Summerize:
         words = tf.get_feature_names()
         similar_term = []
         for i in range(len(tfidf)):
-            if words[i] in self.vocab:
+            if words[i] in word_vec.vocab:
                 if tfidf[i] >= 0.2:
                     similar_term.append(words[i])
-        res = [self.word_vec[term] for term in similar_term]
+        res = [word_vec[term] for term in similar_term]
         return sum(res)/len(res)
 
-    def sentence_vectorizer(self,sentence,size):
+    def sentence_vectorizer(self,word_vec,sentence,size):
         """This function vectorize the passed sentence for the given size
         
         Arguments:
@@ -61,10 +62,10 @@ class Summerize:
                 sentence_word = sentence[i].split()
             except:
                 pass
-            sentence = [word for word in sentence_word if word in self.vocab]
+            sentence = [word for word in sentence_word if word in word_vec.vocab]
             if sentence:
                 for word in sentence:
-                    word_vec_ = self.word_vec[word]
+                    word_vec_ = word_vec[word]
                     sum_vec = np.add(sum_vec, word_vec_)
                     
                 dic[i] = sum_vec/len(sentence)
@@ -141,9 +142,9 @@ class Summerize:
         return '।'.join(whole_summary)
 
 
-    def show_summary(self,sample_text,length_sentence_predict):
+    def show_summary(self, word_vec,sample_text,length_sentence_predict):
         sent = self.preprocess(sample_text)
-        centroid_tfidf = self.generate_centroif_tfidf(sent)
-        size = self.word_vec.vector_size
-        sent_dict = self.sentence_vectorizer(sent,size)
+        centroid_tfidf = self.generate_centroif_tfidf(word_vec,sent)
+        size = word_vec.vector_size
+        sent_dict = self.sentence_vectorizer(word_vec,sent,size)
         return self.combine_sentence(centroid_tfidf,sent,sent_dict,length_sentence_predict)

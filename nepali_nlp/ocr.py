@@ -4,7 +4,7 @@ import cv2
 import os
 
 
-def tesseract_ocr(image,lang='nep'):
+def OCR(image,lang='nep'):
     """This function helps to generate text from image
     
     Arguments:

@@ -6,7 +6,7 @@ class Update_news:
     def __init__(self):
         pass
 
-    def show_latest(self, portal='onlinekhabar', number_of_news=5):
+    def show_latest(self,word_vec, portal='onlinekhabar', number_of_news=5):
         """his function returns tile of latest news, link for latest news and summerize news 
         
         Keyword Arguments:
@@ -25,7 +25,7 @@ class Update_news:
         for link in extracted_link:
             
             title,text = extract_news(link)
-            summary_news = summar_.show_summary(text,7)
+            summary_news = summar_.show_summary(word_vec,text,length_sentence_predict=7)
             links.append(link)
             titles.append(title)
             news_summerises.append(summary_news)
