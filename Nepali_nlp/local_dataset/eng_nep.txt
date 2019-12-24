@@ -1,0 +1,1859 @@
+canal,कुलो, नहर खोल्सो
+chat,बातचित, कुराकानी
+cleaning,सफाई
+compile,संयोजन गर्नु, संग्रह गर्नु 
+courtesy,शिष्टाचार
+damp,आद्र्र, वाष्प, ओसिएको
+deprive,वंचित गर्नु, खोस्नु, अपहरण गर्नु
+divert,बाटो बदल्नु, फेर्नु
+earl,बेलायतमा सरदारको एक पदवी
+entitled,हकदार
+farming,खेती
+follower,अनुयायी
+further,अगाडिको
+gothic,असभ्य, अज्ञानी
+handicap,अपंगता
+honour,आदर,संमान
+indulge,खुशी पार्नु, छाडिदिनु
+jam,भीड, रोकिनु, अडकिनु 
+layout,साजसज्जा
+listing,सूचीकरण
+maid,सुसारे, सेविका
+medieval,मध्ययुगीन
+mistress,गृहिणी, प्रेयसी, रखैल
+mps,सांसदहरू
+node,गाँठो, डल्लो, ठेला
+on board,जहाजमा
+passive,निष्क्रिय
+planned,योजनाबद्ध
+presume,मान्नु, अनुमान गर्नु
+puzzled,अलमलिएको, भ्रमित
+receipt,रसीद
+renewal,नवीकरण
+rubbish,बकवास, निरर्थक
+sediment,निथार, मल
+situate,अबस्थित
+spoil,लूट, लुट्नु
+striker,हड्ताल गर्ने
+tariff,शुल्क दर
+thorough,संपूर्ण, विस्तृत
+tribunal,अदालत, इजलास
+upwards,माथितिर
+verse,श्लोक, पद्य, हरफ
+weep,रुनु, आँसु झार्नु
+worthy,योग्य, गुणवान्
+abuse,दूर्वचन गर्नु, दुरूपयोग गर्नु
+action,कार्वाही , कार्य
+admire,प्रशंसा गर्नु
+African,अफ्रिकी, अफ्रिकाको मान्छे
+air,हावा
+alliance,सन्धि
+amid,बीचमा
+announce,घोषणा गर्नु
+apology,क्षमा माग्नु
+arise,उत्पन्न हुनु
+artistic,कलात्मक
+assist,सहायता गर्नु
+aunt,काकी
+bacteria,जीवाणु , ब्याक्टेरिया
+banking,बैंक सम्बन्धी
+bathroom,नुहाउने कोठा
+bedroom,सुत्ने कोठा
+belly,पेट, भुँडी
+bias,भेदभाव गर्नु
+bite,तोक्नु
+blood,रगत
+bonus,लाभांश
+bounce,ठोकिँदै उफ्रिनु
+breathe,श्वास वा सास फेर्नु
+brown,खैरो
+bullet,गोली ( बन्दुकको )
+button,टाँक
+campus,क्याम्पस , कलेज
+carbon,कोइला , कार्बन
+cash,नगद
+cell,कोश, कोशिका
+changing,बदल्नु
+cheese,चिज , दुधबाट बन्ने एक खाने कुरा
+chronic,एकदम पुरानो, दीर्घ कालको
+clay,माटो
+close,बन्द
+coast,समुद्रको किनार, खाडी
+colorful,रंगिन
+company,संस्था
+concern,सरोकार, चिन्ता
+consist,मिल्नु, गाभिएको हुनु
+convert,परिबर्तन
+correct,सहि
+couple,जोडी
+creation,निर्माण
+crucial,महत्वोपुर्ण
+curtain,पर्दा
+dancing,नाच
+dealer,ब्यापारी
+decrease,घट्नु
+delight,आनन्द
+deputy,कायम मुकायम
+detect,पत्ता लगाउनु
+digital,अंक सम्बन्धी
+disaster,बिपत्ति,दुर्भाग्य
+distant,टाढा
+dog,कुकुर
+dough,माडेको पिठो
+drift,प्राकृतिक उन्नति
+due,उधारो, बाँकी
+earn,कमाउनु
+edition,संस्करण
+election,चुनाब
+emphasis,दबाब दिनु
+enforce,लागु गर्नु
+entity,सत्ता, अस्तीत्व
+escape,हराउनु
+every,प्रत्येक
+excited,उत्तेजित
+expense,खर्च
+extra,अतिरिक्त
+fair,मेला
+fashion,शैली, चालढाल
+fee,शुल्क
+field,क्षेत्र
+finance,वित्तीय संस्था
+fitness,ठिक हुनु
+float,तैरिनु
+fool,मुर्ख
+format,नमुना
+fragile,नाजुक
+from,बाट
+fur,भुवा
+gather,जम्मा हुनु
+German,जर्मन
+caravan,यात्री समूह, लस्कर
+cheerful,प्रफुल्ल, प्रसन्न, खुसी
+clergy,पादरी समूह, पुरोहित वर्ग
+composer,संगीतकार
+covenant,वचन, प्रण, प्रतिज्ञा–पत्र
+darling,प्रिय
+descent,कुल, घराना, अवरोह
+dividend,लाभांश
+earlier,पूर्व, पहिले
+envisage,सामना गर्नु, विचार गर्नु
+favour,निगाह, पक्ष, अनुकूल हुन
+folly,मूर्खता
+fury,क्रोध,रिस
+gown,गाउन, फ्रक, फरिया
+handling,चलाउनु
+humour,हास्य
+inflict,आरोपित गर्नु, लगाउनु
+jointly,संयुक्त रुपले
+leaflet,पर्चा
+lively,जीउँदो, प्राकृतिक, फुर्तिलो
+mainland,मुख्य भूमि, महाद्वीप
+membrane,झिल्ली
+mobility,गतिशीलता
+mucosa,श्लेष्म झिल्ली
+noisy,कोलाहलमय, हल्लापूर्ण
+onwards,अगाडि, प्रगतिशिल
+passport,राहदानी
+plc,पब्लिक लिमिटेड कम्पनी
+prey,शिकार, लुट्नु
+pylorus,पेटको भाग
+reckon,मान्नु, गणना गर्नु
+renewed,नवीकृत
+rude,असभ्य
+selling,खरिद बिक्री
+sketch,रेखाचित्र
+sporting,खेलकुदका लागि उपयुक्त
+strive,प्रयत्न गर्नु, कोशिश गर्नु
+taxation,कर प्रणाली
+throne,सिंहासन, राजगद्दी
+tribute,उपहार, चन्दा, दान
+urgent,अत्यावश्यक, जरुरी
+villa,शहरबाहिरको आरामदायी घर
+welsh,वेल्सको भाषा वा वासिन्दा
+yacht,नाउ, डुंगा, डुंगामा सयर गर्नु
+academic,शैक्षिक , प्राज्ञिक
+active,सकृय
+admit,स्वीकार्नु, भर्ना गर्नु
+after,पछि
+aircraft,विमान
+allow,अनुमति दिनु
+among,बीचमा
+annual,वार्षिकोत्सब
+apparent,स्पष्ट
+arm,अस्त्र (हतियार) , पाखुरा
+ash,खरानी
+assume,मानी लिनु
+author,लेखक
+bad,खराब
+bar,रोकावट, घेरा, बार
+battery,बेटरी, ब्याट्री
+bee,माहुरी , मौरी
+belong,अधीन, स्वामित्वमा हुनु
+Bible,बाइबल
+bitter,तितो
+bloody,रक्ताम्मे, रगताम्य
+book,किताब
+boundary,सीमा, घेरा
+breeze,मन्द हावा चल्नु
+brush,बुरुस, कुचो, झाडी, सफा गर्नु
+bunch,गुच्छा, झुप्पा
+buy,किन्नु
+can,गर्न सक्नु, बट्टा
+card,तास, डफ्टीको टुक्रा , पत्र
+casino,जूवा घर, तास/जूवा वा बाजी खेल्ने ठाउँ
+cemetery,मसानघाट , चिहान घारी
+channel,श्रोत, मूल, नहर
+chef,खाना पकाउन दक्ष भान्से
+chunk,टुक्रा, डल्लो
+clean,सफा ,स्वच्छ
+closed,बन्द
+coastal,तटीय
+column,स्तम्भ
+compare,तुलना
+concert,सांगेतिक कार्यक्रम
+constant,स्थिर
+convey,दिनु
+corridor,बरन्डा
+courage,साहस
+creative,रचनात्मक
+cruel,तुच्छ
+curve,बक्र
+danger,खतरा
+dear,प्यारो
+dedicate,समर्पण
+deliver,पुर्याउनु
+derive,उत्पन्न गर्नु
+develop,बिकाश गर्नु
+dignity,गरिमा
+disc,डिस्क
+distinct,अलग
+doll,गुडिया
+down,तल
+drill,प्वाल
+dumb,लाटो
+earnings,कमाई
+editor,सम्पादक
+electric,बिजुलि, बत्ति
+empire,साम्राज्य
+engage,काममा लाग्नु
+entrance,प्रवेश द्वार
+essay,निबन्ध
+everyday,हरेक दिन
+exciting,उत्तेजना उत्पन्न गर्ने
+expert,बिशेषज्ञ
+extreme,चरम
+fairly,शुद्धसंग
+fast,चाडै
+feed,खुवाउनु
+fierce,भयानक, ठुलो
+find,खोज्नु
+five,पाँच
+flood,बाढी
+foot,पैताला
+former,पूर्व
+fragment,टुक्रा
+front,अगाडी
+future,भविस्य
+gay,समलिंगी
+gesture,इशारा
+carer,हेरचाह गर्ने
+chemist,रसायनशास्त्री, रसायनविद्
+clever,चलाख, चतुरो
+conceal,लुकाउनु, छिपाउनु
+creditor,साहू, ऋणदाता
+daylight,दिनको उज्यालो
+desktop,कम्प्युटरको डिस्प्ले स्क्रिन
+dollar,अमरिकालगायतका मुलुकको मुद्रा
+easier,सजिलो
+enzyme,स्राव
+fax,संचार आदानप्रदान गर्ने मेसिन
+fond,अनुरक्त, आसक्त प्रेमी
+fusion,विलय, संमिश्रण
+gradual,क्रमिक
+harbour,बन्दरगाह, आश्रय, शरण दिनु
+hut,झुपडी
+inhibit,निषेध गर्नु, वाधा दिनु
+junction,संयोजन, डबली, रेल्वे स्टेशन
+learner,सिकारु
+locality,स्थान, इलाका, प्रदेश
+majesty,सम्राट, राजा
+memorial,स्मारक
+module,मापांक
+mug,पिउने भाँडो
+nominate,तोक्नु, मनोनीत गर्नु
+organise,संगठित गर्नु
+pavement,पेटी, पैदलमार्ग
+pledge,प्रतिज्ञा,संकल्प
+prince,राजकुमार
+quarry,शिकार, खन्नु
+recorder,अभिलेख राख्ने, रेकर्ड गर्ने
+repay,फिर्ता गर्नु, तिर्नु
+rug,कम्बल
+semantic,अर्थ-संबंधी
+slim,दुब्लो, पातलो
+spur,घोडा चढ्दा खुट्टा राख्ने ठाउँ
+stuck,टासिंएको
+taxi,भाडाको गाडी
+thrust,धकेल्नु, घचेटनु
+trophy,पुरस्कार, विजयको निशानी
+usage,प्रयोग, चलन, थिति
+virgin,कन्या, कुमारी
+whereby,जसका कारणले
+yarn,धागो, बर्णन गर्नु
+accent,लवज
+actively,सकृयता साथ
+adopt,अपनाउनु
+again,फेरि
+airline,हवाइ सेवा
+ally,साथी, मित्र
+amount,राशी, मात्रा
+annually,वार्षिक रूपमा, वर्षेनी
+appeal,अपिल , विन्ति
+armed,सशस्त्र
+Asian,एसियन, एशियाली
+assure,आश्वासन दिनु
+auto,स्वतः
+badly,नराम्रो सँग
+bare,नाङ्गो
+battle,लडाइँ
+beef,गाईको मासु
+below,तल, तल पट्टि
+bicycle,साइकल
+black,कालो , अँध्यारो
+blow,फुक्नु, हावा भर्नु
+boom,एक्कसी उन्नति हुनु
+bow,धनु, झुक्नु, निहुरिनु
+brick,इट्टा
+brutal,क्रूर, निर्दयी
+burden,बोझ, भार
+buyer,खरिदकर्ता
+Canadian,क्यानडा देशको
+care,चिन्ता, रक्षा, ध्यान वा हेरविचार
+cast,जात, फ्याँक्नु, हाल्नु
+center,केन्द्र
+chaos,अराजकता
+chemical,रासायनिक
+church,इसाईको मन्दिर, चर्च
+clear,सफा, सुग्घर
+closely,नजिकै बाट
+coat,बाहिर लगाउने लुगा , कोट
+combat,लड्नु
+compel,जबर्जस्ती कुनै कम गर्न लगाउनु
+conclude,निस्कर्श निकल्नु
+consult,परामर्श
+convict,अपराध सबित भैसकेको अपरधि
+cost,लागत
+course,पाठ्यक्रम
+creature,प्राणी
+cruise,पर्यटन
+custody,हिरासत
+dare,हिम्मत
+death,मृत्यू
+deem,विश्वास गर्नु, पत्याउनु
+delivery,वितरण
+descend,उत्तराधिकारी
+device,उपाय, प्रयोग बिधि
+dilemma,दुबिधा
+disclose,खुलासा
+distract,बिचलित
+domain,राष्ट्र, क्षेत्र
+downtown,शहर
+drink,पिउनु
+dump,छोड्नु, फाल्नु
+earth,पृथ्वी
+educate,शिक्षीत बनाउनु
+elegant,राम्रो रुचि संगत
+employ,रोजगार
+engine,यन्त्र, कल
+entry,प्रवेश
+essence,नभई नहुने गुण वा तत्व
+everyone,सबैजना
+exclude,निकल्नु,हटाउनु
+explain,बयान
+eye,आँखा
+faith,बिश्वाश
+faster,चाडै
+feedback,प्रतिक्रिया
+fifteen,पन्ध्र
+finding,खोज्नु
+fix,तय
+floor,तला
+football,भकुण्डो
+formerly,पुरानो जमानामा
+frame,ढांचा
+frontier,सिमा प्रदेश
+gain,नाफा
+gaze,ट्वाल्ल  परेर हेरिरहनु
+get,पाउनु ,पुग्नु,सिक्नु
+carriage,गाडी, वाहन, भाडा
+cheque,बैंकले नगद भुक्तानी दिन प्रयोग गर्ने रसिद
+closure,समापन
+confer,प्रदान गर्नु, दिनु 
+creep,वामे सर्नु, घस्रेर हिंड्नु
+deaf,बहिरो
+despair,निराशा
+dolphin,सोंस, एक प्रकारको माछा
+easter,क्रिस्चियनको चाड
+erect,ठाडो, सोझो, ठड्याउनु
+ferry,डुङ्गा, नाउ
+foolish,मूर्ख
+gall,पित्त
+grammar,व्याकरण
+hatred,द्वेष, घृणा
+hydrogen,एक प्रकारको ग्यांस
+inject,सुइ लगाउनु
+keen,उत्साही, इच्छुक
+lease, ठेक्का, कबुलियत
+locally,स्थानीय स्तरमा
+make-up,श्रृङ्गार
+mercy,दया, करुणा
+monarch,सम्राट, राजा
+multiply,गुणा गर्नु
+nonsense,नचाहिने कुरा, अर्थनबर्थको
+orthodox,शास्त्रीय, परंरागत
+payable,भुक्तानीयोग्य
+poison,विष
+princess,राजकुमारी
+query,प्रश्न, सोधपुछ गर्नु
+reduced,घटाइएको 
+residue,अवशेष
+rugby,एक प्रकारको खेल
+sensible,बुद्धिमान, समझदार
+smash,तोडनु, ध्वस्त पार्नु
+squadron,गुल्म, दस्ता
+sufferer,पीडित
+tel,टेलिफोनको छोटकरी रूप
+tiger,बाघ
+trousers,सुरुवाल, पाइजामा
+useless,अनुपयोगी, प्रयोगबिहीन
+visiting,भेटघाट, आवतजावत
+whisky,मदिराको एक प्रकार
+abandon,त्याग गर्नु
+accept,स्वीकार
+activist,सकृयताबादी,कार्यकर्ता
+adoption,ग्रहण गर्नु
+against,विरुद्ध
+airplane,हवाइ जहाज
+almost,लगभग
+analysis,विश्लेषण
+another,अन्य, अर्को
+appear,देखिनु
+army,सेना
+aside,अलग, छेउमा
+athlete,खेलाडी
+autonomy,स्वायत्तता
+bag,झोला
+barely,मुस्किलले
+bay,खाडी
+beer,बियर
+belt,पेटी
+bid,बोली लगाउनु , मबोल गर्नु
+blade,धार
+blue,निलो
+boost,बढाउनु, बढोत्तरी गर्नु
+bowl,कचौरा , क्रिकेट खेलमा बल फ्याँक्नु
+bride,दुलही
+bubble,फोका ( पानी वा हावाको फोका)
+bureau,सरकारी कार्यालय , ब्यूरो
+cab,भाडावाला कार
+cancel,रद्ध गर्नु
+career,जीवनको गति
+casual,आकस्मिक, मौका अनुसार, अस्थिर
+central,केन्द्रिय
+chapter,अध्याय
+chest,छाती, सन्दूक
+circle,वृत्त
+clearly,स्पष्ट
+closer,नजिकै
+cocaine,एक प्रकारको लागू औषध, ड्रग्स
+combine,संगै, गठबन्धन
+compete,प्रतिस्पर्धा
+concrete,भौतिक रुपमा रहेको
+consume,उपभोग
+convince,सम्झाउनु
+costly,महँगो
+court,अदालत
+credit,उधारो
+crush,कुल्चिनु, भस्म पार्नु
+custom,रिति रिवाज,भन्सार
+dark,अँध्यारो
+debate,बहस
+deep,गहिरो
+demand,माग
+describe,बर्णन
+devil,राक्षस
+diminish,घटाउनु
+discount,छुट
+district,जिल्ला
+domestic,घरेलु
+dozen,दर्जन
+drinking,पिउनु
+during,जबसम्म,भरि
+ease,सजिलो
+educator,शिक्षक
+element,तत्व
+employee,कर्मचारी
+engineer,इन्जिनियर
+envelope,खाम
+estate,सम्पति
+evidence,प्रमाण
+excuse,बहाना
+explicit,स्पस्ट
+eyebrow,आँखी भौं
+fall,खस्नु
+fat,मोटो
+feel,महसुस
+fifth,पाँचौ
+fine,उत्तम, जरिवाना
+fixed,निश्चित
+flour,पिठो
+for,को लागि
+formula,शुत्र
+frankly,स्पस्ट रुपमा
+frown,क्रोधले, आँखा तर्नु
+galaxy,आकाशगंगा
+gear,चलाउनु, ज्यवल
+ghost,भूत
+cassette,आबाज/दृष्य रेकर्ड गर्ने चक्का 
+choir,गायक मंडली
+clutch,बलले च्याप्नु, समात्नु, अँठ्याउनु
+confine,थुन्नु, जाक्नु, सीमा,
+cricket,एक प्रकारको खेल
+dealing,ब्यवहार, लेनदेन, कारोबार
+devise,सोच्नु, परिकल्पना गर्नु
+doubtful,संदिग्ध
+eldest,ज्येष्ठ, सबैभन्दा जेठो
+erosion,भूक्षय
+fetch,ल्याउनु, तान्नु्
+forecast,पूर्वानुमान, भविष्यबाणी गर्नु
+gardener,माली
+graph,रेखा-चित्र, लेखा-चित्र
+heading,शीर्षक
+ideally,आदर्श रुपमा
+injured,घाइते
+keeper,रक्षक
+lecturer,अध्यापक
+lodge,आवास
+making,निर्माण
+merge,विलीन हुनु, गाभ्नु, मिसिनु
+monarchy,राजतन्त्र
+mum,आमा
+notable,विलक्षण, प्रख्यात
+outbreak,प्रादुर्भाव, विस्फोट
+peculiar,विशिष्ट,असामान्य, अनौठो
+polish,चमक, चम्काउनु
+printed,मुद्रित, छापिएको
+queue,लाम, लाइन लगाउनु
+ref,चलानी
+rev,घुम्नु 
+ruler,शासक
+sergeant,हवलदार
+smoking,धूम्रपान
+stab,छुरा हान्नु, धारिलो हतियारले घोच्नु 
+summon,बोलाउनु, पुकारनु
+temper,स्वभाव, रिस
+tin,एक प्रकारको धातुको पाताले बनेको भाँडा
+trustee,गुठियार, संरक्षक, संचालक
+utterly,पूर्ण रूपले, बिलकुलै
+vivid,उज्ज्वल, ओजस्वी
+wholly,पूर्णत
+abase,अपमानित गर्नु
+access,प्रवेश
+activity,क्रियाकलाप
+adult,वयस्क
+age,उमेर, युग
+airport,विमानस्थल
+alone,एक्लो
+analyst,विश्लेषक
+answer,जवाफ, उत्तर
+apple,स्याऊ
+around,वरिपरि, चारैतर्फ
+ask,सोध्नु
+athletic,हृष्ट-पुष्ट, कसरती शरीर भएको
+average,औसत
+bake,फुलाउनु , केक वा रोटी बनाउनु
+barn,अन्नको भण्डार
+beach,समुन्द्र तट , समुद्र किनार
+before,पहिले, अघि, पहिले नै
+bench,किनार, तट , बस्ने बेञ्च, न्याय पीठ
+big,ठूलो
+blame,दोष, दोष लगाउनु
+board,बोर्ड
+boot,जुत्ता
+box,बाकस, डब्बा
+bridge,पुल
+buck,अमेरिकी डलर , नगद
+burn,जल्नु
+cabin,रेल वा जहाजको कोठा , सानो आरामदायी कोठा
+cancer,अर्वूद रोग, क्यानसर
+career,पेशा, आजीविका
+casualty,लडाईमा मरेको र घाइतेको सूची
+century,शताब्दी
+charge,व्यय, अभियोग
+chew,चपाउनु
+circuit,चक्कर , परिपथ
+clerk,लेखन्दास, बैदार
+closest,सबभन्दा नजिकको
+code,संकेत, धर्मसंहिता
+combined,संयुक्त
+complain,असन्तोस प्रकट गर्नु
+condemn,भत्सर्ना
+consumer,उपभोक्ता
+cook,फकाउने मान्छे
+costume,पोशक, लुगा
+cousin,आमा, बुवाका भाई, बहिनिको छोरा छोरी
+crew,कार्यदल
+cry,रुनु
+customer,ग्राहक
+darkness,अध्यरोपना
+debris,घर भत्किएको टुक्रा टुक्री
+deeply,गहिराई
+Democrat,प्रजातन्त्रबादी
+desert,मरुभूमि
+devote,समर्पित हुनु
+dining,बेलुकाको खाना
+discover,खोज
+disturb,बिचलित पर्नु, तक्लिफ़ दिनु
+dominant,प्रधान ,प्रमुख
+draft,मसौदा
+drive,गुडाउनु
+dust,धुलो
+easily,सजिलो
+effect,प्रभाव
+elephant,हात्ती
+employer,नियोक्त्ता
+English,अंग्रेजी
+envision,कल्पन गर्नु
+estimate,अनुमान
+evident,प्रमाण
+execute,सम्पादन गर्नु
+explode,बिस्फोट
+fabric,कपडा
+false,गलत
+fatal,घटक
+feeling,भावाना
+fifty,पचास
+finger,औला
+flag,झन्डा
+flow,प्रबाह
+forbid,इङ्कार गर्नु,निशेध गर्नु
+forth,सामुन्ने, खुल्लामा
+fraud,धोका
+frozen,जमेको
+gallery,बरन्डा
+gender,लिङ्ग
+giant,बिशाल
+castle,किल्ला, गढ
+chord,तार
+coffin,कफन, शवबाकस
+conform,मान्नु, स्वीकार गर्नु 
+crossing,कटान, दोबाटो
+debtor,ऋणी
+devoted,समर्पित
+dragon,अजिङ्गर
+electron, विद्युतकण
+eventual,अंतिम
+fibre,रेशा
+formally,औपचारिक रुपले
+garment,परिधान, कपड़ा
+graphics,रेखाचित्रहरु
+heap,राशि, थुप्रो
+immense, बडेमान, अजङ्गको, बृहत
+inland,अन्तर्देशीय
+keyboard,वाद्ययन्त्र, कम्प्युटरमा टाइप गर्ने बोर्ड
+leisure,फुर्सत, छुट्टी
+longer,लामो समयसम्म
+mammal,स्तनपायी प्रा‍णी
+merger,विलयन
+monetary,मौद्रिक
+mummy,आमा
+notably,विशेषगरी
+outlook,दृष्टिकोण
+pence,बेलायती  सिक्काको बहुबचन रूप
+polite,विनम्र, शिष्ट
+printer,मुद्रक, छाप्ने यन्त्र
+quid,खैनी, सुर्ती
+referee,खेल खेलाउने ब्यक्ति
+revenge,प्रतिशोध, बदला
+rumour,अफवाह, हल्ला
+serum,जीव रस
+snatch,खोस्नु, थुत्नु, लुछ्नु
+stairs,तल्लाहरू, सिंढीहरू
+sunshine,प्रकाश, गर्मी
+tempt,फकाउनु, लोभ्याउनु, उक्साउनु
+toast,सेकाइएको पाउरोटी
+tumour,शरीरमा पलाएको मासुको डल्लो, ऐंजेरु
+vague,अस्पष्ट
+vol,आयतन, स्वयंसेवक
+wicked,दुष्ट, पापी
+ability,क्षमता
+accident,दुर्घटना
+actor,अभिनेता
+advance,अगाडि बढ्नु
+agency,अभिकरण, माध्यम संस्था
+aisle,घर भित्रको गल्लि, करिडोर
+along,सरासर
+analyze,विश्लेषण गर्नु
+anxiety,चिन्ता, व्याकुलता
+apply,लागु गर्नु, दर्खास्त  दिनु
+arrange,व्यवस्था गर्नु , मिलाउनु
+asleep,सुतेको
+atop,माथि
+avoid,वास्ता नगर्नु , तर्काउनु
+balance,सन्तुलन
+barrel,ठुलो ट्यांकी
+beam,किरण
+beg,भिख माग्नु याचना गर्नु
+bend,मोड्नु
+bike,मोटर साइकल , दुई पाङ्ग्रे, साइकल
+blank,खाली
+boast,घमण्ड गर्नु , धक्कु लगाउनु
+booth,अस्थाई छाप्रो , केन्द्र
+boy,केटा
+brief,संक्षिप्त्त, छोटो अथवा बयान गर्नु
+bucket,बाल्टी, बाल्टिन
+burning,जल्दै
+cabinet,मन्त्री मण्डल, सानो दराज
+candle,मैनबत्ती
+careful,सावधान
+cat,बिरालो
+CEO,मुख्य कार्यकारी अधिकृत
+charity,परोपकार, कृपा
+chicken,कुखुराको मासु, चल्ला
+cite,अदालतमा उल्लेख गर्नु, उद्धृत गर्नु
+click,औँला बजाउनु, औँलाले थिच्नु
+closet,सानो गुप्त कोठा , कपडा राख्ने ठाउँ
+coffee,कफी
+come,आउ
+complete,पूर्ण, पुरा
+conduct,निर्बाह, व्यवहार
+contact,सम्पर्क
+cookie,बिस्कुट
+cottage,झुपडी
+cover,ढाक्नु, छोप्नु
+crime,अपराध
+crystal,फटिक
+cut,काट्नु
+data,स्वीकृत तत्व
+debt,हरिन
+deer,मृग
+denial,अस्विकार
+deserve,लायक
+diabetes,मधुमेह
+dinner,रातीको खाना
+discuss,छलफल
+diverse,बिबिध
+dominate,दाब्नु
+drag,तान्नु
+driver,चालक
+Dutch,नेदरल्याण्डको भाषा
+east,पूर्व
+effort,प्रयास
+elevator,लिफ्ट
+empty,खाली
+enhance,बढाउनु
+epidemic,फ़ैलिने रोग,संक्रमक  रोग
+etc,आदि
+evil,खराब, सैतान
+exercise,ब्यायाम
+exploit,शोषण
+face,अनुहार
+fame,प्रसिद्धि
+fate,भाग्य
+fellow,साथी
+fight,लडाई
+finish,समाप्त
+flame,ज्वाला
+flower,फूल
+force,दबाब, बल
+fortune,भाग्य
+free,स्वतन्त्र
+fruit,फलफुल
+game,खेल
+gene,कोषको अंश
+gift,उपहार
+cater,खुवाउनु, पियाउनु
+chorus,समूह गायन
+coherent,युक्तिसंगत, सुसंगत, खँदिलो
+confused,अलमलिएको
+crown,ताज, श्रीपेच
+decisive,निर्णायक
+diagram,रेखाचित्र, आकृति
+dreadful,भयानक
+embark,जहाज चढनु, आरोहण गर्नु
+evoke,पुकार्नु, बोलाउनु
+fig,अञ्जीर, खुर्पानी, लुगा
+forwards,अगाडि
+gasp,अतालिनु, धम्कनु, दम लिनु
+gravel,रोडा विछ्याइएको
+heating,तातिरहेको
+imperial,शाही
+inn,पौवा, धर्मशाला
+knight,योद्धा, वीर
+lengthy,लामो, बिस्तृत
+lord,मालिक, प्रभु, ईश्वर
+manor,जागीर
+metre,नापको इकाइ, मिटर
+monk,भिक्षु, साधु
+murderer,हत्यारा
+nowadays,आजभोलि
+overseas,समुद्र पार
+penny,अंग्रेज़ी सिक्का
+polymer,एक प्रकारको यौगिक
+printing,मुद्रण, छपाई
+quota,हिस्सा, भाग
+referral,परामर्श
+revise,संशोधन, संशोधन गर्नु
+sadly,उदासीले
+server,सेवक, थाली
+sniff,सुँघ्नु, नाकले सास तान्नु
+stall,पसल थाप्ने स्थान
+superb,शानदार, उत्तम
+tenant,मोही, ठेक्कामा जग्गा कामाउने ब्यक्ति
+ton,वजन, तौल नाप्ने ठूलो इकाइ
+turkish,टर्कीको, टर्कीका बासिन्दा
+valve,द्वार
+voltage,विद्युतीय शक्ति
+wicket,सानो ढोका, क्रिकेट खेल्दा गाडिने लठ्ठी
+able,सामर्थ्य
+account,लेखा, ( बैँक) खाता
+actress,अभिनेत्री
+advanced,अग्रिम
+agenda,कार्यसूचि
+alarm,चेतावनी, भय सूचना
+already,पहिले नै
+ancestor,पू्र्खा
+anxious,चिन्तित, व्याकुल
+appoint,नियुक्त्ति
+array,क्रम, पंक्ति, व्यूह
+aspect,पक्ष
+attach,जोड्नु, नत्थी गर्नु
+await,कुर्नु
+balanced,सन्तुलित
+barrier,अबरोध
+bean,सिमी, गेडागुडी
+begin,शुरूवात गर्नु, शुरू गर्नु
+beneath,तल, मुनि पट्टि
+bill,रसिद, बिल, चराको चुच्चो , ठूँड
+blanket,कम्बल
+boat,डुंगा
+border,सीमा, सीमाना
+brain,मस्तिष्क
+briefly,संक्षिप्त
+buddy,साथी, दौँतरी
+burst,फुट्नु, पट्कनु
+cable,केवल लाइन, तार
+candy,मिस्री, मिठाइँ
+cargo,विमानमा ल्याएको महसुललाग्ने समान
+catalog,सूची
+ceremony,समारोह, उत्सव
+charm,आकर्षण, मोह
+chief,प्रमुख
+citizen,नागरिक
+client,ग्राहक
+cloth,कपडा
+coin,सिक्का
+comedy,सुखान्त नाटक
+complex,गारो, जटिल
+confess,स्विकार्नु
+contain,राखनू,बेर्नु,थाम्नु
+cooking,खाना पकाउने
+cotton,कपास,सुति
+coverage,ढाक्नु, रक्षा गर्नु
+criminal,अपराधी
+Cuban,चुबा
+cute,मायालु
+database,डाटाबेस
+debut,प्रथम प्रवेश
+defeat,हार्नु
+dense,घन, ठुलो
+design,ढांचा, आकर
+diagnose,पत्ता लगाउने
+dip,डुब्नु, डुबुल्की मार्नु
+disease,रोग
+divide,भाग लगाउनु
+donate,दान गर्नु
+drain,नाली
+driveway,सडक
+duty,काम
+eastern,पुर्बी
+egg,अन्डा
+eleven,एघार
+enable,सक्षम
+enjoy,आनन्द
+episode,भाग
+ethical,निति शास्त्र  सम्बन्धि
+evolve,उत्पन्न गर्नु,जगाउनु
+exhaust,निकाश
+explore,पत्ता लगाउनु
+facility,सुबिधा
+familiar,परिचीत
+father,बुवा
+female,महिला,स्त्री, नारी
+fighter,योद्धा
+fire,आगो
+flash,चम्किनु,आदम्बर
+fluid,तरल पदर्थ
+forehead,निधार
+forty,चालीस
+freedom,स्वतन्त्रता
+fuel,इन्धन
+gang,गिरोह
+general,सामान्य
+gifted,प्रतिभासाली
+causal,कारण संबंधी
+chosen,छानिएको, नियुक्त
+coincide,ढाक्नु
+contempt,हेलाँ, अवज्ञा, उपेक्षा
+crude,कच्चा
+decree,आदेश,आज्ञा
+diameter,व्यास
+dressing,घाउको पट्टी
+embassy,दूतावास
+excess,अतिरिक्त
+firstly,प्रथमतः
+fossil,जीवाश्म
+gastric,पेटको रोग
+grey,खैरो
+hedge,बार, टाटी, घेरा
+implicit,अंतर्निहित
+insider,सदस्य, भित्रिया
+knit,जोड्नु, बुन्नु
+lesser,अरुभन्दा थोरै
+lordship,आधिपत्य
+marginal,किनाराको
+mid,मध्य
+monopoly,एकाधिकार
+murmur,गुनगुनाहट
+nuisance,पीर, मर्का, बाधा
+owl,उल्लू
+per cent,प्रतिशत
+pony,टट्टू, सानो घोडा
+probable,संभावित
+raid,छापा, छापा मार्नु
+refusal,अस्वीकार
+revision,संशोधन
+sailor,नाविक
+shaft,भाला, बाण
+solo,एकल, एक्लो
+stamp,टिकट, छाप
+supper,रात्रि भोजन
+terminal,अन्तिम, अन्त्य विन्दु, बिसौनी
+tonne,वजन, तौल नाप्ने ठूलो इकाइ
+turnover,कारोबार
+variant,प्रकार, भिन्न
+waiter,प्रतीक्षा गर्ने ब्यक्ति, सेवक
+widen,फराकिलो पार्नु, चौडा पार्नु
+abortion,गर्भपतन
+accuracy,शुद्धता
+actual,वास्तविक
+advice,सल्लाह
+agent,दलाल, काम गर्ने मान्छे , प्रतिनिधि
+album,गीत वा फोटो संकलन
+also,पनि
+ancient,प्राचीन
+any,केही, कुनै
+approach,पहुँच, दृष्टिकोण
+arrest,गिरफ्तारी वा गिरफ्तार गर्नु
+ass,गधा
+attack,आक्रमण, आक्रमण गर्नु
+awake,जागा, बिउँझेको
+ball,भकुण्डो
+base,आधार
+bear,भालु, सहनु
+behalf,मातहत, तर्फबाट
+benefit,लाभ
+billion,अर्ब, अरब
+blast,विष्फोट
+body,शरीर
+boring,अल्छि लाग्दो , झ्याउ लाग्दो
+brake,ब्रेक लगाउनु, रोक्नु
+bright,उज्ज्वल, उज्यालो
+budget,बजेट , कोष
+bury,गाड्नु, लुकाउनु
+cage,पिंजडा
+canvas,तस्बिर बनाउने टाट, खद्दर वा बोरा जस्तो कपडा
+carpet,गलैँचा
+catch,समाउनु, पक्रिनु
+certain,निश्चित,अचूक
+chart,नक्शा , रेखा चित्र
+child,बच्चा
+city,शहर
+cliff,चट्टान
+clothes,लुगा,पोशाक
+cold,चिसो
+comely,सुदर्शन , सुरूप, मनोहर
+comply,मन्जुर गर्नु,प्रार्थन गर्नु
+confirm,निश्चित
+contend,बिरोध गर्नु, झगडा गर्नु
+cool,शीतल
+couch,सोफा
+cow,गाइ
+crisis,संकट
+cue,सूचना, सांकेतिक सब्द
+cycle,चक्र
+date,मिती
+decade,दसक
+defend,रक्षा
+density,घनत्वो
+designer,बनाउने मान्छे
+dialogue,कुराकानी
+diplomat,कुसल राजनीतिज्ञ
+dish,खानेकुरा
+divine,दिब्य
+donation,दान
+drama,नाटक
+driving,चलन
+dying,मर्न लगेको
+easy,सजिलो
+ego,अहंकार
+eligible,रोजिन लायक
+enact,अभिनय गर्नु
+enormous,धेरै
+equal,बराबर
+ethics,आचशास्त्र, नीतिशास्त्र
+exact,ठिक
+exhibit,प्रकट गर्नु, देखाउनु
+export,निर्यात
+fact,सत्य
+family,परिवार
+fatigue,थकान
+feminist,महिलावादी
+fighting,लादै
+firm,कार्यालय
+flat,एक खण्डको तला
+fly,उड्नु
+foreign,बिदेशी
+forum,अड्डा, अदालत, बजार
+freely,स्वतन्त्र रुपले
+full,पूर्ण
+gap,खाली
+generate,उत्पन्न
+girl,केटि
+abstract,सार
+account,लेखा
+active,सक्रिय
+administrative,प्रसासनिक
+aesthetic,सौन्दर्य
+agricultural,क्रिशि सम्बन्धि
+although,भएतापनि
+ancient,प्राचिन
+anymore,अब पुग्यो
+appointment,नियुक्त्ति
+arrival,आगमन
+assessment,परिक्षा, जांच 
+atmosphere,बयुमंडल
+author,लेखक
+balanced,सन्तुलन
+battery,बत्तेरी
+believe,विश्वास
+bishop,गिर्ज घर्को धर्म गुरु
+branch,शाखा
+broker,दलाल
+butter,नौनी
+canvas,तस्बिर बनाउने टाट 
+cartoon,कार्टून
+century,सताब्दी
+characteristic,बिशेषता
+Christmas,क्रिसमास 
+clearly,स्पस्ट
+cocaine,एक प्रकारको लागु औषद 
+columnist,स्तम्भकार
+commit,जिम्मा दिनु, अपरध गर्नु
+compelling,जबर्जस्ति कुनै काम गर्नु
+component,साधक
+concerned,चिन्तित
+conflict,द्वोंदा
+consequence,परिणाम, प्रभव
+constitutional,संबैधानिक
+content,सामग्री
+controversial,बिबादास्पद
+cooperate,सहयोगी
+costume,पोशक, लुगा 
+coverage,ढाक्नु, रक्षा गर्नु 
+crowded,भिड
+customer,ग्राहक
+decent,सभ्य
+deficit,घत
+demonstrate,प्रमनित गर्नु
+derive,उत्पन्न गर्नु
+destruction,बिनाश
+diabetes,मधुमेह
+dimension,परिमन, मत्र
+disappointment,निरासा
+display,प्रदर्शन
+diverse,बिबिध
+donation,दाङ
+e-mail,इमेल
+email,इमेल
+educate,सिक्शित बनौनु
+election,चुनाब
+embarrassed,बध दिनु, अल्मल पर्नु
+employment,रोजगार
+essence,नभै नहुने गुन व तत्व
+eventually,अन्त्यमा
+excellent,उत्क्रिस्ता
+exhaust,निकाश
+experimental,प्रयोगात्मक
+extension,विस्तार
+fairly,सुध्हसंगा
+feature,आक्रित, लक्श्यन
+finally,अन्त्यमा
+fourth,चौथो
+friendly,मैत्रीपुर्ण
+galaxy,आकाशगंगा
+genetic,उत्त्पति सम्बन्धि
+limited,सिमित
+lovely,मयलु, प्यरो
+managing,प्रबन्धक
+marriage,बिबाह
+mechanical,यन्त्र सम्बन्धि
+merely,केवल
+national,राष्ट्रिय
+neighbor,छिमेकी
+occupation,ब्यबसाय
+online,इन्तेर्नेत म हुनु
+option,विकल्प
+ultimate,अन्त्यमा, अती आवस्यक 
+unexpected,प्रत्याशित
+unprecedented,अभूत्पुर्ब
+variable,धेरै थरि
+victim,सिकार
+vitamin,भिटामिन 
+wealthy,धनि
+whereas,जबकि
+worldwide,बिश्वब्यापी, विश्वभरी 
+academic,सैक्षिक
+accountability,जिम्मेवारी
+actively,सक्रिय
+administrator,ब्यबस्थापक
+affair,कर्य,कम्कज
+agriculture,कृषि
+altogether,सबै मिलयर
+and/or,र/य
+anyone,जो पनि
+appreciate,प्रोत्साहन
+arrive,आउनु
+assign,काम को अन्स अरुलै दिनु
+attach,जोडिएको
+authority,अधिकार
+balloon,गुबरा
+battle,लादै
+belong,सम्बन्धित
+bitter,तितो
+breakdown,पतन,प्रबिधिक रुपमा असफ़ल हुने काम
+bronze,पित्तल
+butterfly,पुतली
+capability,क्षमता 
+casino,तास खेल्ने ठाउँ 
+ceremony,समारोह
+characterize,चरितार्थ
+chronic,एक्दुम पुरनो
+client,ग्राहक
+cognitive,संग्यात्मक
+combat,लड्नु
+commitment,प्रतिबद्धता
+compensation,क्षतिपूर्ति
+compose,रचना गर्नु 
+concerning,बिषयमा
+confront,सामना गर्नु 
+consequently,फलस्वरूप 
+constraint,बाध्यता
+contest,प्रतियोगिता
+controversy,विवाद
+cooperation,सहयोग
+cottage,झुपडी
+create,बनाउनु
+crucial,महत्वोपुर्ण 
+damage,क्षति
+decide,निर्णय
+define,परिभाषित
+demonstration,प्रदर्शन,प्रमन सिद्धि
+descend,उत्तराधिकारी
+detail,पुरै
+diagnose,पत्त लगौने
+diminish,घटाउनु
+disaster,बिपत्ति,दुर्भग्य
+dispute,विवाद
+diversity,बिबिधता
+doorway,द्वारा
+earnings,कमै
+education,सिक्षा
+electric,बिजुलि, बत्ति
+embrace,अङ्गलो हल्नु
+enable,सक्षम
+essential,आवस्यक
+everybody,सबै जन
+except,बाहेक
+exhibit,प्रकत गर्नु,देखौनु
+expert,बिश्शाग्य
+extensive,व्यापक
+familiar,परिचीत
+federal,संघिय
+forget,भूल्नु
+fraction,अन्सा
+friendship,साथि
+gallery,बरण्ड
+genius,अपुर्ब बुद्धि
+liquid,तरल
+loyalty,निष्ठा
+mandate,आदेश
+married,बिबाहित
+mechanism,यन्त्र सम्बन्धि
+message,संदेश
+nationwide,रस्रब्यपी
+neighborhood,छिमेकी
+occupy,कब्जा
+opening,उद्घाटन
+orange,सुन्तला
+ultimately,अन्त्यमा
+unfair,अनुचित
+unusual,असामान्य
+variation,परिबर्तन
+victory,जीत
+volume,खण्ड
+weapon,हतियार
+wherever,जहाँपनि 
+worried,चिन्तित
+census,जनगणना
+clarify,स्पष्ट गर्नु
+colour,रंग
+coral,सिपी, मुगा
+curl,घुम्रिनु,लर्कनु
+defect,दोष
+dislike,घृणा
+dull,सुस्त
+enclose,बन्द गर्नु, घेर्नु
+exile,देशनिकाला गर्नु
+flick,झटका, धक्का, आघात
+frighten,तर्साउनु, अत्याउनु, थर्काउनु
+glorious,तेजस्वी,प्रसिद्ध,यशस्वी
+grouping,वर्ग विभाजन, गुटबन्दी
+hitherto,अहिलेसम्म
+inch,नाप्ने इकाइ
+intake,प्रवेश
+labour,श्रम,श्रमिक
+liable,जिम्मेदार, उत्तरदायी
+lounge,आराम गर्ने स्थान
+matrix,गर्भाशय
+min,न्युनतम, मिनट
+morality,नैतिकता
+neatly,स्वच्छतापूर्वक
+obey,आज्ञा पालन गर्नु
+pact,गठबंधन
+petrol,इन्धन तेल
+postpone,स्थगित गर्नु
+pub,मधुशाला, भट्टी
+ram,भेडा
+relaxed,आरामको अबस्थामा
+rightly,ठीक तरिकाले
+scot,कर, तिरो
+shiver,काम्नु, थरथराहट हुनु
+spatial,स्थान संबंधी
+steward,जहाजको परिचारक
+surveyor,सर्वेक्षक
+that is,अर्को शब्दमा, उदाहरणका लागि
+trader,व्यापारी
+ulcer,शरीरको भित्री भागको घाउ
+vat,टंकी, टब
+wardrobe,कपडा राख्ने दराज, कलाकारका परिधान
+woodland,रुखले भरिएको ठाउँ, जंगल
+abroad,बिदेश
+achieve,प्राप्त गर्नु
+add,जोड्नु , थप्नु
+advocate,अधिवक्ता
+ahead,अगाडि
+alike,समान, उस्तै
+aluminum,आल्मुनियम , सिल्पट, सिलोट
+anger,रिस, क्रोध
+anyone,जो पनि
+Arab,अरब
+arrow,तीर, वाण
+assembly,विधानसभा, सभा
+attitude,रबैया
+away,टाढा, पर
+ban,प्रतिबन्ध
+basic,आधारभूत, पहिलो
+beat,हराउनु, हान्नु, हिर्काउनु
+behind,पछाडि, पछाडि पट्टि
+best,सर्वश्रेष्ठ
+bird,चरा
+blessing,आशीर्वाद
+bolt,पेच,आग्लो
+boss,मालिक, सीनियर
+brave,बहादुर, बीर
+broad,फराकिलो
+builder,निर्माता
+business,व्यापार
+call,बोलाउनु,ठूलो  आवाजले बोल्नु
+capacity,क्षमता
+carry,लैजानु
+cattle,गाइ वस्तु, वस्तु भाउ
+chairman,अध्यक्ष
+cheap,सस्तो
+Chinese,चीनिया
+civilian,नागरिक संग सम्बन्धित, गैर सैनिक
+cling,टासिनु , लपेटिनु
+club,गदा ( पौराणिक हतियार) ,सभा
+collect,जम्मा गर्नु
+command,आदेश
+comprise,समाबेश गर्नु
+confuse,भ्रम
+context,प्रसङ्ग
+copy,नक्कल
+counsel,सल्लाह
+crash,ठक्कर
+critical,आलोचनात्मक
+cup,चुप
+dam,बाँध
+day,दिन
+decision,निर्णय
+deficit,घात
+depend,निर्भर
+despite,बिरोध
+dictate,नियुक्त गर्नु, लेखाउनु
+director,निर्देशक
+disorder,गोलमाल ,खल्बलि
+DNA,डि एन ए
+doorway,द्वार
+drawer,झिक्ने मान्छे
+drug,औषधी, लागु पदार्थ
+e-mail,इमेल
+echo,गुन्ज
+either,कुनै न कुनै
+embrace,अङ्गलो हाल्नु
+endless,कहिले नसिद्धिने
+ensure,सुनिस्चित
+equation,समीकरण
+evaluate,मुल्यांकन गर्नु
+examine,जाच्नु
+exit,निकाश
+express,व्यक्त
+faculty,संकाय
+fantasy,कल्पना, अनुमान
+favorite,मन परेको
+fever,ज्वोरो
+fill,भर्नु
+fiscal,आर्थिक
+fleet,छिटो छिटो हिड्नु फ़ुर्तिलो,चनचल
+fog,कुइरो
+forget,भूल्नु
+found,पाउनु भेट्टाउनू
+frequent,बारम्बार
+function,समारोह
+garden,बगैचा
+genius,अपुर्ब बुद्धि
+glad,खुसि
+centre,केंद्र
+clarity,स्पष्टता
+coloured,रंग लगाइएको, रंगदार
+corp,निगमको छोटकरी रुप
+cutting,कटाई
+defence,रक्षा
+disposal,टुंगो, वितरण, विसर्जन
+duration,अवधि
+ending,अन्त्य
+extract,उद्धरण
+fling,फ्याँक्नु, हिर्काउनु
+fringe,छेउ, किनारा
+going,चालु, गइरहेको 
+guardian,अभिभावक
+holder,धारक, राख्नेवाला
+inclined,झुकेको 
+integral,अविभाज्य
+lace,फित्ता, तुना
+liaison, सम्पर्क, संसर्ग
+ltd,लिमिटेड
+mature,परिपक्व
+miner,खानीमा काम गर्ने
+mosaic,सुन्दर चित्र
+neglect,उपेक्षा, अवज्ञा
+obliged,आभारी
+para,अतिरिक्त, उपसर्ग
+pier,घाट, बाँध
+practise,अभ्यास, गर्नु
+publish,प्रकाशन गर्नु
+ranger,वनपाले
+relieved,पीडाबाट मुक्ति दिनु
+rigid,कठोर
+scottish,स्कटल्याण्डका बासिन्दा
+shocked,डर देखाउनु, धक्का दिनु
+specimen,नमूना
+stitch,टांका, सिलाउनु
+swiftly,तीब्र गतिले, छिटोछिटो
+theatre,नाटकघर
+trainee,प्रशिक्षार्थी
+unaware, बेखवर, जानकारी नभएको
+vein,शिरा, नशा
+warrant,पक्राउ पुर्जी, भुक्तानी पुर्जा
+wool,ऊन
+absence,अभाव
+acid,अम्ल
+addition,जोड
+affair,कार्य, कामकाज , मामिला
+aid,सहायता
+alive,जीउँदै, जीवित
+always,सधैँ
+angle,कोण
+anything,जेपनि
+area,क्षेत्र
+art,कला
+assert,निस्चय गर्नु, जोड दिएर भन्नु
+attorney,अधिकार
+awful,भयंकर
+banana,केरा
+basis,आधार
+beauty,सुन्दरता
+being,अस्तित्व, जीव
+bet,बाजी, बाजी थाप्नु
+birth,जन्म
+blind,अन्धो
+bomb,बम
+both,दुबै
+bread,रोटी
+broken,फुटेको, भाँचिएको
+building,भवन
+busy,व्यस्त
+calm,शान्त
+capital,राजधानी , पूँजी
+cart,गाडा, गाडी
+cause,कारण
+chamber,बैठक कोठा
+cheat,धोका, ठग्नु
+chip,टुक्रा
+claim,दावा
+clinic,उपचार गर्न जाने ठाउँ , क्लिनिक
+clue,सुराक, संकेत
+college,क्याम्पस
+comment,टिप्पणी
+computer,सुशाङ्ख्य
+Congress,समाज, राजनैतिक सस्था
+continue,जारी राख्नु
+cord,रक्सि
+count,गणना
+crawl,बामे सर्नु
+crop,अन्न
+cure,जचाउनु
+damage,क्षति
+dead,मरेको
+deck,सजाउनु, जहाजको छत
+define,परिभाषित
+depict,बर्णन गर्नु
+dessert,मिठाई
+die,मर्नु
+dirt,फोहोर
+display,प्रदर्शन
+dock,डुंगा बाँधे ठाउँ
+dose,मात्रा
+drawing,चित्र बनाउनु
+drum,ढोल
+each,प्रत्येक
+economic,आर्थिक
+elbow,कुहिनो
+emerge,प्रकट  हुनु
+endorse,समर्थन गर्नु
+enter,प्रवेश
+equip,सजाउनु
+even,समथर,अहिले
+example,उदाहरण
+exotic,बिदेशी
+extend,बढाउनु
+fade,हराउदै जानु
+far,टाढा
+fear,डर
+few,केहि
+film,चलचित्र
+fish,माछा
+flesh,मासु
+fold,पट्याउनु
+forgive,क्षमा
+founder,संस्थापक
+fresh,ताजा
+fund,धन, भण्डार
+garlic,लसुन
+genre,शैली
+glance,झलक, चाडैं देखिनु
+chap,मानिस, ज्यान, फुट्नु
+clash,टक्कर, लडाइँ, विवाद
+commence,शुरु गर्नु, थाल्नु
+corps,सेनाको टुकडी
+cylinder,नली, ढुंग्रो, ढवाङ्ग
+definite,निश्चित
+dispose,उठाउनु, फ्याँक्नु, मिल्काउनु
+dwelling,आवास
+enquire,जाँच
+faction,गुट
+flock,राश, समूह
+fulfil,पूरा गर्नु, तामेल गर्नु
+goodness,उत्तमता, उदारता, राम्रोपना
+guild,समाज
+holding,स्वामित्व
+incur,उठाउनु, बेहोर्नु
+interim,अंतरिम
+lad,ठिटो, तन्नेरी, युवक
+licence,अनुज्ञा पत्र
+lump,डल्लो, गान्टो
+maturity,परिपक्वता
+mining,खनिजशास्त्र
+motif,स्वरूप
+newcomer,नवागंतुक
+obscure,अस्पष्ट, अँध्यारो
+parallel,समानांतर
+pillar,स्तंभ,खाँबो
+precede,अघि जानु
+pudding,खिर
+reactor,प्रतिघातक, विद्युत उत्पादन गर्ने यन्त्र
+remains,अवशेष
+rising,उदाउँदो
+scrap,रद्दी माल, कबाडी
+should,हुनसक्छ, सहायक क्रिया
+spelling,हिज्जे, शब्द विन्यास
+stool,मल, बस्ने त्रिपाइ
+swiss,swiss
+theft,चोरी
+treasury,ढुकुटी,भंडार
+unionist,संघवादी, संघको सदस्य
+velocity,गति, वेग
+wartime,युद्ध-काल
+worm,कीरा, जुका
+absolute,पूरै, पूर्ण
+acquire,प्राप्त गर्नु, हासिल गर्नु
+address,ठेगाना, सम्बोधन गर्नु
+affect,प्रभाव पार्नु
+aide,सहयोगी
+all,सबै
+amazing,अदभूत
+angry,रिसाएको
+anyway,यसैपनि , जसरी पनि
+arena,अखाडा
+artefact,कलाकृति
+assess,आँकलन गर्नु
+attract,आकर्षित गर्नु
+baby,बच्चा, फुच्चे
+band,वादक मण्डली ( बाजा ), गिरोह
+basket,टोकरी
+because,किनकि, किनभने
+belief,विश्वास
+better,झन राम्रो, अझै राम्रो
+birthday,जन्म दिन
+blink,झिम्काउनु
+bombing,बम विष्फोट हुनु
+bother,दुख दिनु,बिरक्त पार्नु
+break,तोड्नु
+broker,दलाल
+bulb,चिम
+but,तर
+camera,क्यामेरा
+captain,कप्तान
+cartoon,कार्टून, डफ्टीको बाकस
+cave,गुफा
+champion,सिपालु, सबैलाई जित्ने
+check,जाँच्नु , जाँच, परीक्षा
+choice,रोजी, छान्ने काम
+class,वर्ग, कक्ष
+clinical,लक्षणसंग सम्बन्धित, निदानात्मक
+cluster,समूह
+colonial,उपनिवेश
+commit,जिम्मा दिनु, अपराध
+concede,स्विकार्नु
+connect,जोड्नु
+contract,करार
+core,मूल
+counter,पैसा गन्ने टेबल, उल्टाउनु
+crazy,संकी
+cross,पार
+curious,जिज्ञाशु
+damn,वास्ता नगर्नु
+deadline,अन्तिम मिति
+declare,घोषणा
+degree,दर्जा, अवस्था
+deploy,लाम लगाउनु, फैलाउनु
+destroy,नस्ट
+diet,आहार
+dirty,फ़ोहोर,गन्ध
+dispute,विवाद
+doctor,चिकित्सक
+dot,बिन्दु, थोपा
+dream,सपना
+drunk,जड्याहा
+eager,उत्सुक
+economy,अर्थब्यबस्था
+elder,जेठो
+emerging,उत्पति हुनु
+endure,भोग्नु, सहनु
+entire,सम्पूर्ण
+equity,न्याय, पक्षपात सुन्यता
+evening,साँझ
+exceed,धेरै
+expand,तन्किनु
+extended,बिस्तृत
+fail,असफल
+fare,भाडा
+feather,प्वाँख
+fewer,थोरै
+filter,छान्नु
+fishing,माछा मार्ने काम
+flexible,लचिलो
+folk,लोक
+fork,काँटा चम्चा
+four,चार
+freshman,नया
+funding,लागत लगाउनु
+gas,ग्यास
+gentle,सज्जन
+chapel,पूजाकोठा
+clause,वाक्य, धारा, दफा
+commerce,व्यापार, वाणिज्य
+corpse,शव, मुर्दा, सिनु 
+daddy,पिता, बाबु
+delegate,प्रतिनिधि
+distress,कष्ट, अभाव, पीडा
+e.g.,उदाहरणका लागि
+enquiry,सोधपुछ
+faithful,साँचो, ईमान्दार
+flourish,फुल्नु फल्नु, मौलाउनु
+furious,उग्र, अति क्रुद्ध
+goods,माल, सामान
+halt,वास, बिसौनी, अड्नु
+holly,एक प्रकारको रुख
+indirect,अप्रत्यक्ष
+invoke,आव्हान गर्नु, स्तुति गर्नु
+lamb,भेडाको पाठो
+lifespan,उमेर
+luxury,सौख,आराम, विलास
+may,महीना, सक्नु
+misery,दुःख, कष्ट
+motorway,मोटरमार्ग
+no doubt,कुनै शंका छैन
+offence,अपराध
+parcel,कुटुरो, पोको, कुम्लो
+pint,तरल नाप्ने इकाइ
+premier,अब्बल, पहिलो
+pupil,विद्यार्थी
+realise,महसुस गर्नु
+remedy,औषधि, उपाय
+roar,गर्जन
+scrutiny,सूक्ष्म निरीक्षण
+sickness,रुग्णता, बिरामीपना
+spider,माकुरो
+strand,तट, किनारा, डोरी
+tablet,औषधिको गोली, सानो कम्प्युटर
+thesis,शोधपत्र
+tremble,काम्नु, डगमगाउनु, कम्पन
+unix,कम्प्युटरको अपरेटिङ सिस्टम
+venue,स्थान,स्थल
+washing,धुलाई
+worrying,चिन्तित भइरहनु
+absorb,सोस्नु
+across,पारी पट्टि
+adequate,पर्याप्त
+afford,खर्च गर्न सक्नु
+AIDS,एड्स रोग
+alleged,आरोपित, आरोप लागेको
+ambition,महत्वाकांक्षा
+animal,पशु, जनावर
+anywhere,कहीँ पनि
+argue,तर्बक गर्नु, बहस गर्नु
+article,लेख , वस्तु
+asset,सम्पत्ति
+auction,लिलाम
+back,पछाडि, पिठ्युँ
+bank,बैंक
+bat,चमेरो
+become,बन्नु, हुनु
+believe,विश्वास गर्नु
+between,बीचमा
+bishop,गिर्जाघरको धर्म गुरू
+block,बन्द, खण्ड
+bond,बन्धन
+bottle,शिसी, बोत्तल
+breast,स्तन
+bronze,पित्तल
+bulk,धेरै,थोक
+butt,निशान,पत्र, बन्दूकको कुन्दा
+camp,शिबिर
+capture,कब्जा, कब्जा गर्नु
+carve,कुँदेर मूर्ति बनाउनु , कुँद्नु
+cease,रोकिनु, थाम्नु
+chance,मौका
+cheek,गाला
+choose,चुन्नु, छान्नु
+classic,पुरानो
+clip,काँटा
+coach,प्रशिक्षक
+colony,उपनिवेश
+common,सामान्य
+conceive,गर्बधारण
+consent,सहमति
+contrast,बिपरित
+corn,मकै
+country,देश
+cream,क्रिम
+crowd,भिड, जमात
+currency,मुद्रा
+dance,नृत्य, नाच्नु
+deadly,घटक
+decline,गिरावट
+delay,ढिला
+deposit,जम्मा
+detail,पुरै
+differ,अलग
+disabled,अपाङ्ग, केहि गर्न नस्सक्ने
+dissolve,भंग
+doctrine,सिद्धांत
+double,दुइगुना
+dress,लुगा ,पोशक
+dry,सुख्खा
+ear,कान
+edge,धार
+elderly,अधबैसे
+emission,प्रबाह, बाहिर  निकाल्ने
+enemy,दुश्मन
+entirely,पुरै
+era,युग
+event,घटना
+except,बाहेक
+expect,आशा
+extent,बिस्तार,प्रमाण
+failure,असफलता
+farm,खेत
+feature,आक्रित, लक्षण
+fiber,चोक्कर
+final,अन्तिम
+fist,मुठ्ठी
+flight,उडान
+follow,पछि लग्नु, आश्रय लिनु
+form,रुप, नमुना, व्यवहार
+fourth,चौथो
+friend,साथी
+funeral,अन्तिम संस्कार
+gasoline,पेट्रोल
+gently,बिस्तारै
+charming,सुन्दर, मनोहर, रमाइलो
+cleaner,सफाइ गर्ने
+compact,सघन, खंदिलो
+county,प्रदेश
+dairy,दुग्धशाला
+demolish,भत्काउनु, ध्वस्त पार्नु, तोडनु
+dive,डुबुल्की मार्नु, गोता लाउनु
+eagle,चील
+entail,उत्तराधिकारीलाई सम्पत्ति बेच्न नसक्ने गरी दिनु 
+fancy,आलंकारिक, मन पराउनु
+flush,विजयोल्लास, चुरिफुरी, फुर्ति
+furnish,उपलब्ध गराउनु, सुम्पनु
+gospel,सुसमाचार
+hammer,हथौड़ा
+hon,माननीय
+induce,मनाउनु, फकाउनु
+isle,टापू
+landlord,भूमिपति, जमिनदार
+linear,रेखात्मक
+madame,श्रीमती, महाशया
+means,माध्यम
+mist,कुइरो, तुवाँलो, हुस्सु
+mould,साँचोमा ढाल्नु
+noble,कुलीन, श्रेष्ठ, उच्च
+offset,आँकुरा, हाँगा
+pardon,क्षमा, माफी माग्नु
+pity,दया, माया, करुणा
+prepared,तयार
+purely,शुद्ध रूपले
+reassure,फेरि आस्वस्त गराउनु 
+renew,नवीकरण गर्नु
+rob,लुट्नु
+secondly,द्वितीयत, दोस्रो
+silently,चुपचापले, मौन रहेर
+splendid,शानदार, भव्य
+stride,छलाङ हान्नु, लम्केर हिँड्नु
+takeover,अधिग्रहण, कब्जा
+thief,चोर
+triangle,त्रिकोण
+up to,पर्यन्त, सम्म
+verb,क्रिया
+wee,अति सानो
+worship,पूजा, आराधना
+abstract,सार, भाव
+act,कार्य, क्रिया
+adjust,समायोजन गर्नु
+afraid,डराएको, भयभित
+aim,उद्देश्य, लक्ष्य
+alley,गल्लि
+American,अमेरिकी
+ankle,गोलीगाँठो
+apart,अलग
+argument,तर्क
+artist,कलाकार
+assign,कामको अंश अरुलाई दिनु , काम बाँड्नु
+audience,स्रोता , दर्शक
+backyard,पछाडी, करेसा बारी
+banker,बैंकमा काम गर्ने , साहू
+bath,नुहाउने काम
+bed,खाट,ओछ्यान, बिछ्यौना
+bell,घण्टी
+beyond,परको, पर
+bit,अंश
+blond,कैलो कपाल भएको गोरो मान्छे
+bone,हाड,हड्डी
+bottom,पीँध
+breath,श्वास
+brother,दाइ , भाइ
+bull,साँढे, गोरू
+butter,नौनी
+campaign,अभियान
+car,मोटर , कार, सानो गाडी
+case,अवस्था
+ceiling,भित्री छत
+change,परिवर्तन
+cheer,खुशी मनाउनु, वाहवाही गर्नु
+chop,काट्नु, टुक्रा पार्नु
+classify,विभाजन
+clock,घडी
+coal,कोइला
+color,रंग
+commonly,सामान्यतया
+concept,विचार
+consider,बिचर गर्नु
+control,नियेंत्रण
+corner,कुना
+coup,चोत,अचुक, प्रकार
+create,बनाउनु
+crowded,भिड
+current,वर्तमान
+dancer,नाच्ने मान्छे
+deal,परिणाम
+decorate,सजाउनु
+delicate,नाजुक
+depth,गहिराई
+detailed,बिस्तृत
+dig,खन्नु
+disagree,असमत
+distance,दूरी
+document,दस्ताबेज
+doubt,शंका
+dried,सुख्खा
+duck,हाँस
+early,चाडै
+edit,सम्पादन
+elect,चुनाब
+emotion,भावना
+energy,शक्ति, उर्जा
+entitle,पदवी वा अख्तियर दिनु
+error,त्रुटी
+ever,सदा, सदैब
+exchange,साट्नु ,बिनिमय
+expected,आश गर्नु
+external,बाहिरी
+faint,बेहोश
+farmer,किसान
+federal,संघिय
+fiction,काल्पनिक
+finally,अन्त्यमा
+fit,ठिक
+flip,झड्का दिनु
+food,खाना
+formal,औपचारिक
+fraction,अंस
+friendly,मैत्रीपुर्ण
+funny,रमाइलो
+gate,धोका
+genuine,वास्तविक
