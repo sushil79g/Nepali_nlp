@@ -15,6 +15,15 @@ class PositionalEncoding:
         
         Returns:
             2Darray {numpy.ndarray} -- 2D embedding for the tokens based on postions
+
+
+        -----------------------Test Case-------------------------------------- 
+        test_data = "सहकारी भन्नासाथ नगदको कारोबार अर्थात वचत संकलन र ऋण लगानी गर्ने संस्था भन्ने आम धारणा छ"
+        token = Tokenizer()
+        token_text = token.word_tokenize(test_data)
+        posencode = PositionalEncoding(10)
+        print(posencode.encode(token_text))
+     
         """
         
         encoding_vector = np.zeros((len(token),self.vector_dim),dtype=float)
@@ -30,9 +39,4 @@ class PositionalEncoding:
         return encoding_vector
 
 
-#-----------------------Test Case--------------------------------------
-# test_data = "सहकारी भन्नासाथ नगदको कारोबार अर्थात वचत संकलन र ऋण लगानी गर्ने संस्था भन्ने आम धारणा छ"
-# token = Tokenizer()
-# token_text = token.word_tokenize(test_data)
-# posencode = PositionalEncoding(10)
-# print(posencode.encode(token_text))
+
