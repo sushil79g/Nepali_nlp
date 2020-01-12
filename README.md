@@ -37,7 +37,7 @@ Corrector().corrector(word='सुशल') #In a very raw stage for now.
 
 ```python
 from summerization import Summerize
-Summerize().show_summary(word_vec,news, length_sentence_predict=5)
+Summerize().show_summary(word_vec,text, length_sentence_predict=5)
 ```
 <h3>Nepali unicode to Devnagiri Font</h3>
 
