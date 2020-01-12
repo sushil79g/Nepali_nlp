@@ -49,3 +49,15 @@ from unicode_nepali import Unicode
 text = 'ma ghara jaanchhu'
 Unicode().unicode_word(text) #output-> 'म घर जान्छु'
 ```
+Preeti-font character to Devnagiri Font
+```python
+from preeti_unicode import preeti
+unicode_word = 'g]kfnL'
+print(preeti(unicode_word)) #output->'नेपाल'ी
+```
+OCR(optical character reader)
+```python
+from ocr import OCR
+text = OCR(image_location)
+```
+
