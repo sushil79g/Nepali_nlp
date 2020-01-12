@@ -51,7 +51,7 @@ Unicode().unicode_word(text) #output-> 'म घर जान्छु'
 ```python
 from preeti_unicode import preeti
 unicode_word = 'g]kfnL'
-print(preeti(unicode_word)) #output->'नेपाल'ी
+print(preeti(unicode_word)) #output-> नेपाली
 ```
 <h3>OCR(optical character reader)</h3>
 
