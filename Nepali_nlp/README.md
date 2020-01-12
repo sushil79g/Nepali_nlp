@@ -1,20 +1,5 @@
 This projects aims to build a library for all the NLP processes for Nepali Language.
 
-TODOs:</br>
-- [x] Nepali Embeddings 
-- [x] Tokenizers (sentence, word, character) 
-- [x] Stop Words
-- [x] Nepali Words Collection 
-- [x] Nepali Word synonym
-- [x] Roman Nepali to Nepali
-- [ ] Spell correction (Currently)
-- [ ] Word and sentence similarity score
-- [ ] Pos_tag
-- [x] Summerization 
-- [ ] Named Entity Recognition
-- [x] Nepali OCR
-
-
 Loading Embedding
 ```python
 from Embedding import Embeddings
@@ -60,4 +45,28 @@ OCR(optical character reader)
 from ocr import OCR
 text = OCR(image_location)
 ```
+Nepali new-portal Scrapper (onlinekhabar and ekantipur for now)
+```python
+from news_scrap import extract_news
+news_link = 'https://www.onlinekhabar.com/2019/12/821094'
+title, news = extract_news(news_link) #onlinekhabar and ekantipur is supported at the moment.
+```
+show latest news summary
+```python
+from news_latest import Update_news
+title, links, summerized_news = Update_news().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
+```
 
+TODOs:</br>
+- [x] Nepali Embeddings 
+- [x] Tokenizers (sentence, word, character) 
+- [x] Stop Words
+- [x] Nepali Words Collection 
+- [x] Nepali Word synonym
+- [x] Roman Nepali to Nepali
+- [x] Nepali OCR
+- [x] Summerization 
+- [ ] Spell correction (Currently)
+- [ ] Word and sentence similarity score
+- [ ] Pos_tag
+- [ ] Named Entity Recognition
