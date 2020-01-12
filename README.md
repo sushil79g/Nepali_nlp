@@ -59,6 +59,15 @@ print(preeti(unicode_word)) #output->'नेपाल'ी
 from ocr import OCR
 text = OCR(image_location)
 ```
+<h3>Nepali Tokenizer</h3>
+
+```python
+from tokenize import Tokenizer
+Tokenizer().sentence_tokenize(text) #To tokenize sentence
+Tokenizer().word_tokenize(text) #To tokenize word
+Tokenizer().character_tokenize(text) #To tokenize character
+```
+
 <h3>Nepali new-portal Scrapper (onlinekhabar and ekantipur for now)</h3>
 
 ```python
