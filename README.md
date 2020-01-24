@@ -91,7 +91,8 @@ TODOs:</br>
 - [x] Roman Nepali to Nepali
 - [x] Nepali OCR
 - [x] Summerization 
+- [x] Pos_tag
+- [] Translation(Nepali<->English)(Currently)
 - [ ] Spell correction (Currently)
 - [ ] Word and sentence similarity score
-- [ ] Pos_tag
 - [ ] Named Entity Recognition
