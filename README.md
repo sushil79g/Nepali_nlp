@@ -92,7 +92,7 @@ TODOs:</br>
 - [x] Nepali OCR
 - [x] Summerization 
 - [x] Pos_tag
-- [] Translation(Nepali<->English)(Currently)
+- [ ] Translation(Nepali<->English)(Currently)
 - [ ] Spell correction (Currently)
 - [ ] Word and sentence similarity score
 - [ ] Named Entity Recognition
