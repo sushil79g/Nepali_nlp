@@ -1,4 +1,4 @@
-from Embedding import Embeddings
+from Nepali_nlp.Embedding import Embeddings
 
 class Synonym:
     

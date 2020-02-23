@@ -1,6 +1,6 @@
 
 import ast
-from Nepali_tokenizer import Tokenizer
+from Nepali_nlp.Nepali_tokenizer import Tokenizer
 
 
 class Stopwords:

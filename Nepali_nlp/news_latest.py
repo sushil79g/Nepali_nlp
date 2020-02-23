@@ -1,6 +1,6 @@
 from utils import top_news_link
-from news_scrap import extract_news
-from summerization import Summerize
+from Nepali_nlp.news_scrap import extract_news
+from Nepali_nlp.summerization import Summerize
 
 
 class UpdateNews:

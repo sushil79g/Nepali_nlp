@@ -1,5 +1,4 @@
-from Nepali_tokenizer import Tokenizer
-
+from Nepali_nlp.Nepali_tokenizer import Tokenizer
 
 class NgramGenerator(Tokenizer):
 

@@ -5,7 +5,7 @@ import collections
 from collections import OrderedDict
 from pprint import pprint
 
-from local_dataset.unicode import nepali, halanta, sabda_banot, exception
+from Nepali_nlp.local_dataset.unicode import nepali, halanta, sabda_banot, exception
 
 class Unicode:
    """This class converts Roman written Nepali word to actual Nepali word."""
