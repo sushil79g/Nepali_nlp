@@ -19,14 +19,14 @@ def OCR(image,lang='nep', colab=False):
     assert lang in ['eng','nep'], 'specified language is not available at the moment'
 
     if not colab:
-        image_ = cv2.imread(image)
-        image_ = cv2.cvtColor(image_, cv2.COLOR_BRG2GRAY)
+        image = cv2.imread(image)
+        image = cv2.cvtColor(image, cv2.COLOR_BRG2GRAY)
 
     if lang=='nep':
         tessdata_dir_config = r'--tessdata-dir "../local_dataset"'
-        text = pytesseract.image_to_string(image_, lang=lang, config=tessdata_dir_config)
+        text = pytesseract.image_to_string(image, lang=lang, config=tessdata_dir_config)
         
         return text
     
-    text = pytesseract.image_to_string(image_)#if 'eng' is the choice
+    text = pytesseract.image_to_string(image)#if 'eng' is the choice
     return text
