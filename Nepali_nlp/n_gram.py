@@ -1,11 +1,12 @@
-from tokenize import Tokenizer
+from Nepali_tokenizer import Tokenizer
+
 
 class NgramGenerator(Tokenizer):
 
-    def __init__(self,n_gram):
+    def __init__(self, n_gram):
         self.n_gram = n_gram
 
-    def generate_n_gram(self,token_text):
+    def generate_n_gram(self, token_text):
         """This function generate ngram token list
         
             Arguments:
@@ -16,13 +17,12 @@ class NgramGenerator(Tokenizer):
                 list --  multi array list of n-gram tokenized words
             """
 
-        n_gram_wordlist=[]
-        for idx in range(len(token_text)-self.n_gram+1):
-            n_gram_wordlist.append(token_text[idx:idx+self.n_gram])
+        n_gram_wordlist = []
+        for idx in range(len(token_text) - self.n_gram + 1):
+            n_gram_wordlist.append(token_text[idx:idx + self.n_gram])
         return n_gram_wordlist
 
-
-#--------------------------------Test Case------------------------------------------------
+# --------------------------------Test Case------------------------------------------------
 
 # data = "तिमीले सुन्या यो कुरा हो, मैले सुन्या को कुरा हो ,तिम्रो हाम्रो सम्बन्ध को हल्ला चल्या को कुरा हो ,झ्याम्म झ्याम्म।"
 # one_gram = NgramGenerator(1)
