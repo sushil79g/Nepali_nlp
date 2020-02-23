@@ -1,3 +1,6 @@
+import sys
+sys.path.append('..')
+
 from Nepali_nlp.Nepali_tokenizer import Tokenizer
 
 class NgramGenerator(Tokenizer):

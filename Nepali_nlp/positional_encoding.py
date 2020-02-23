@@ -1,3 +1,6 @@
+import sys
+sys.path.append('..')
+
 import numpy as np
 from Nepali_nlp.Nepali_tokenizer import Tokenizer
 
