@@ -1,4 +1,7 @@
-from Embedding import Embeddings
+import sys
+sys.path.append('..')
+
+from Nepali_nlp.Embedding import Embeddings
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import string

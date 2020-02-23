@@ -1,10 +1,13 @@
+import sys
+sys.path.append('..')
+
 from PIL import Image
 import pytesseract
 import cv2
 import os
 
 
-def OCR(image,lang='nep'):
+def OCR(image,lang='nep', colab=False):
     """This function helps to generate text from image
     
     Arguments:
@@ -18,14 +21,15 @@ def OCR(image,lang='nep'):
     """
     assert lang in ['eng','nep'], 'specified language is not available at the moment'
 
-    image_ = cv2.imread(image)
-    gray_ = cv2.cvtColor(image_, cv2.COLOR_BRG2GRAY)
-    
+    if not colab:
+        image = cv2.imread(image)
+        image = cv2.cvtColor(image, cv2.COLOR_BRG2GRAY)
+
     if lang=='nep':
-        tessdata_dir_config = r'--tessdata-dir "../local_dataset"'
-        text = pytesseract.image_to_string(gray_, lang=lang, config=tessdata_dir_config)
+        tessdata_dir_config = r'--tessdata-dir "local_dataset"'
+        text = pytesseract.image_to_string(image, lang=lang, config=tessdata_dir_config)
         
         return text
     
-    text = pytesseract.image_to_string(gray_)#if 'eng' is the choice
+    text = pytesseract.image_to_string(image)#if 'eng' is the choice
     return text
