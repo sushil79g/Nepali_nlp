@@ -30,7 +30,7 @@ class PositionalEncoding:
         """
         
         encoding_vector = np.zeros((len(token),self.vector_dim),dtype=float)
-        for row in range(len(token_text)):
+        for row in range(len(token)):
             i=1
             for column in range(0,int(self.vector_dim),2):
                 w = 1/(pow(1000,2*i/self.vector_dim))

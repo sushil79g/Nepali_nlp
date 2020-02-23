@@ -26,7 +26,7 @@ def OCR(image,lang='nep', colab=False):
         image = cv2.cvtColor(image, cv2.COLOR_BRG2GRAY)
 
     if lang=='nep':
-        tessdata_dir_config = r'--tessdata-dir "../local_dataset"'
+        tessdata_dir_config = r'--tessdata-dir "local_dataset"'
         text = pytesseract.image_to_string(image, lang=lang, config=tessdata_dir_config)
         
         return text
