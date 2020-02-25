@@ -1,19 +1,15 @@
-#!/usr/bin/env python
-
+""" Package setup """
 import os
 from setuptools import setup, find_packages
-from structure import __version__
 
 
-def read(fname):
-    return open(os.path.join(os.path.dirname(__file__), fname)).read()
+with open("README.md", "r") as f:
+    long_description = f.read()
 
-# the setup
 setup(
     name='Nepali nlp',
-    version=__version__,
     description='Natural language processing library for Nepali langauge',
-    # long_description=read('README'),
+    long_description=long_description,
     url='https://github.com/sushil79g/Nepali_nlp',
     author=['Anish Pandey','Sushil Ghimire'],
     author_email=['sharmaanix@gmail.com','sushil79g@gmail.com'],
@@ -21,12 +17,20 @@ setup(
     keywords='NLP ml ai nepali',
     packages=find_packages(exclude=('docs', 'tests', 'env', 'index.py')),
     include_package_data=True,
-    install_requires=[
-    ],
+    install_requires=[],
     extras_require={
     'dev': [],
     'docs': [],
     'testing': [],
     },
-    classifiers=[],
-    )
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Operating System :: OS Independent",
+        "Development Status :: 1 - Planning",
+        "License :: OSI Approved :: MIT License"
+    ],
+    project_urls={
+    "Bug Reports": "https://github.com/sushil79g/Nepali_nlp/issues",
+    "Source": "https://github.com/sushil79g/Nepali_nlp",
+    }
+)
