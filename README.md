@@ -62,7 +62,7 @@ text = OCR(image_location)
 <h3>Nepali Tokenizer</h3>
 
 ```python
-from tokenize import Tokenizer
+from Nepali_tokenizer import Tokenizer
 Tokenizer().sentence_tokenize(text) #To tokenize sentence
 Tokenizer().word_tokenize(text) #To tokenize word
 Tokenizer().character_tokenize(text) #To tokenize character
