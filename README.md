@@ -11,8 +11,8 @@ cd Nepali_nlp/nepali_nlp
 
 ```python
 from Embedding import Embeddings
-word_vec = Embeddings().load_vector()
-#word_vec = Embeddings().load_large_vector() #For large Embedding
+word_vec = Embeddings().load_large_vector()
+#word_vec = Embeddings().load_vector() #For small Embedding
 #from fasttext_embedding import Fasttext
 #word_vec = Fasttext().load()
 ```
