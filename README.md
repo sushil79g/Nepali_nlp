@@ -68,6 +68,14 @@ Tokenizer().word_tokenize(text) #To tokenize word
 Tokenizer().character_tokenize(text) #To tokenize character
 ```
 
+<h3>Nepali sentence similarity</h3>
+
+```python
+from sentence_similar import  Avg_vector_similar
+sentences = ["कुपोषणकै कारण शारीरिक र मानसिक रुपमा कमजोर मात्र होइन, अकालमै ज्यान पनि गुमाउनुको परेको समाचार बग्रेल्ती सुन्न सकिन्छ","कर्णाली प्रदेश सामाजिक विकास मन्त्रालयले उपलब्ध गराएको तथ्यांकले कर्णालीमा प्रत्येक वर्ष जन्मिएका ५ वर्षमुनीका बालबालिका १ हजार जनामध्ये ५८ जनाले ज्यान गुमाउँदै आएको देखाएको छ"]
+Avg_vector_similar().pair_similarity(word_vec, sentences) #output-> 0.6817289590835571
+```
+
 <h3>Nepali new-portal Scrapper (onlinekhabar and ekantipur for now)</h3>
 
 ```python
