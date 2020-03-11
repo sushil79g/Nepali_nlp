@@ -1,5 +1,9 @@
-from Embedding import Embeddings
+import numpy as np
+from scipy import spatial
 from gensim.utils import simple_preprocess
+
+from Embedding import Embeddings
+from Nepali_tokenizer import Tokenizer
 
 
 class Avg_vector_similar:
@@ -7,7 +11,7 @@ class Avg_vector_similar:
         pass
 
     def tidy_sentence(self, sentence, vocabulary):
-        return [word for word in simple_preprocess(sentence) is word in vocabulary]
+        return [word for word in simple_preprocess(sentence) if word in vocabulary]
 
     def compute_sentence_similarity(self, model, sent_1, sent_2):
         """ Compute the average vector similarity 
@@ -40,3 +44,29 @@ class Avg_vector_similar:
         intersection = set(sent1).intersection(set(sent2))
         union = set(sent1).union(set(sent2))
         return len(intersection) / len(union)
+
+    def pair_similarity(self, word_vec, sentences):
+        """compute similarity of two sentence using the mean of word's embedding
+        
+        Args:
+            word_vec (Embedding): Word to vec embedding
+            sentences (string): sentences in Nepali
+           
+        Returns:
+            int: similarity score between two sentences.
+        """
+        embeddings = []
+        for sentence in sentences:
+            words = Tokenizer().word_tokenize(sentence)
+            word_embeddings = []
+            for word in words:
+                try:
+                    a = word_vec[word]
+                    word_embeddings.append(a)
+                except:
+                    pass
+            mean_embedding = np.array(word_embeddings).mean(axis=0)
+            embeddings.append(mean_embedding)
+        result = 1 - spatial.distance.cosine(embeddings[0], embeddings[1])
+
+        return result
