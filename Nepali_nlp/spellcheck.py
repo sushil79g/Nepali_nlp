@@ -10,8 +10,7 @@ class Corrector:
     
     """
     def __init__(self):
-        sp = SpellCorrectionModel(language='hi')
-        sp.load('local_dataset/spell_model.pkl')
+        self.sp = SpellCorrectionModel(language='hi').load('local_dataset/spell_model.pkl')
 
     def __load_words(self,location):
         """This function load all the Nepali words in given location.
