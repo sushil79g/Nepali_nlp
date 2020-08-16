@@ -1,6 +1,7 @@
 # coding: utf-8
 import sys 
 sys.path.append('..')
+from spello.model import SpellCorrectionModel
 
 from difflib import get_close_matches
 
@@ -9,7 +10,8 @@ class Corrector:
     
     """
     def __init__(self):
-        pass
+        sp = SpellCorrectionModel(language='hi')
+        sp.load('local_dataset/spell_model.pkl')
 
     def __load_words(self,location):
         """This function load all the Nepali words in given location.
@@ -44,4 +46,16 @@ class Corrector:
         matches = get_close_matches(word, word_list, n=2, cutoff=0.3)
 
         return matches
+
+    def spell_correct(self, text):
+        """
+        Returns the spell corrected string based on context, phoneme
+
+        Arguments:
+            text {str} -- Text in Nepali
+
+        Returns:
+            Dict -- dictionary with correct word, input text and correction text.
+        """
+        return self.sp.spell_correct(text)
 
