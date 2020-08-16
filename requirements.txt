@@ -6,4 +6,4 @@ PyICU==2.3.1
 beautifulsoup4
 news-please
 pytesseract
-git+git@github.com:sushil79g/spello_memory.git
+git+https://github.com/sushil79g/spello_memory.git
