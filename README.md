@@ -10,7 +10,7 @@ cd Nepali_nlp/nepali_nlp
 <h3>Loading Embedding</h3>
 
 ```python
-from Embedding import Embeddings
+from Nepali_nlp import Embeddings
 word_vec = Embeddings().load_large_vector()
 #word_vec = Embeddings().load_vector() #For small Embedding
 #from fasttext_embedding import Fasttext
@@ -20,7 +20,7 @@ word_vec = Embeddings().load_large_vector()
 <h3>For Nepali Synonym</h3>
 
 ```python
-from synonym import Synonym
+from Nepali_nlp import Synonym
 Synonym().raw_synonym(word = 'माया',word_vec=word_vec) #method: 1
 #output -> स्नेह','प्रेम','आदर','मायाँ','दया','मायालु','श्रद्धा','आत्मियता','स्पर्श','तिमी
 Synonym().filter_synonym(word = 'साथी',word_vec=word_vec) #method: 2
@@ -29,40 +29,40 @@ Synonym().filter_synonym(word = 'साथी',word_vec=word_vec) #method: 2
 <h3>Word-spell corrector</h3>
 
 ```python
-from spellcheck import Corrector
+from Nepali_nlp import Corrector
 Corrector().corrector(word='सुशल') #In a very raw stage for now.
 #output-> ['सुशील', 'सुशील']
 ```
 <h3>Nepali text summerizer</h3>
 
 ```python
-from summerization import Summerize
+from Nepali_nlp import Summerize
 Summerize().show_summary(word_vec,text, length_sentence_predict=5)
 ```
 <h3>Nepali unicode to Devnagiri Font</h3>
 
 ```python
-from unicode_nepali import Unicode
+from Nepali_nlp import Unicode
 text = 'ma ghara jaanchhu'
 Unicode().unicode_word(text) #output-> 'म घर जान्छु'
 ```
 <h3>Preeti-font character to Devnagiri Font</h3>
 
 ```python
-from preeti_unicode import preeti
+from Nepali_nlp import preeti
 unicode_word = 'g]kfnL'
 print(preeti(unicode_word)) #output-> नेपाली
 ```
 <h3>OCR(optical character reader)</h3>
 
 ```python
-from ocr import OCR
+from Nepali_nlp import OCR
 text = OCR(image_location)
 ```
 <h3>Nepali Tokenizer</h3>
 
 ```python
-from Nepali_tokenizer import Tokenizer
+from Nepali_nlp import Tokenizer
 Tokenizer().sentence_tokenize(text) #To tokenize sentence
 Tokenizer().word_tokenize(text) #To tokenize word
 Tokenizer().character_tokenize(text) #To tokenize character
@@ -71,7 +71,7 @@ Tokenizer().character_tokenize(text) #To tokenize character
 <h3>Nepali sentence similarity</h3>
 
 ```python
-from sentence_similar import  Avg_vector_similar
+from Nepali_nlp import  Avg_vector_similar
 sentences = ["कुपोषणकै कारण शारीरिक र मानसिक रुपमा कमजोर मात्र होइन, अकालमै ज्यान पनि गुमाउनुको परेको समाचार बग्रेल्ती सुन्न सकिन्छ","कर्णाली प्रदेश सामाजिक विकास मन्त्रालयले उपलब्ध गराएको तथ्यांकले कर्णालीमा प्रत्येक वर्ष जन्मिएका ५ वर्षमुनीका बालबालिका १ हजार जनामध्ये ५८ जनाले ज्यान गुमाउँदै आएको देखाएको छ"]
 Avg_vector_similar().pair_similarity(word_vec, sentences) #output-> 0.6817289590835571
 ```
@@ -79,14 +79,14 @@ Avg_vector_similar().pair_similarity(word_vec, sentences) #output-> 0.6817289590
 <h3>Nepali new-portal Scrapper (onlinekhabar and ekantipur for now)</h3>
 
 ```python
-from news_scrap import extract_news
+from Nepali_nlp import extract_news
 news_link = 'https://www.onlinekhabar.com/2019/12/821094'
 title, news = extract_news(news_link) #onlinekhabar and ekantipur is supported at the moment.
 ```
 <h3>Show latest news summary</h3>
 
 ```python
-from news_latest import Update_news
+from Nepali_nlp import Update_news
 title, links, summerized_news = Update_news().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
 ```
 
