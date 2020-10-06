@@ -2,8 +2,8 @@ import numpy as np
 from scipy import spatial
 from gensim.utils import simple_preprocess
 
-from Embedding import Embeddings
-from Nepali_tokenizer import Tokenizer
+from .Embedding import Embeddings
+from .Nepali_tokenizer import Tokenizer
 
 
 class Avg_vector_similar:

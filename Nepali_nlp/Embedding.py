@@ -4,7 +4,7 @@ sys.path.append('..')
 
 import gensim
 from gensim.models.keyedvectors import KeyedVectors
-from Nepali_nlp.Download_embedding import Download
+from .Download_embedding import Download
 
 class Embeddings:
     """This class helps to load embedding in keyedvector format."""

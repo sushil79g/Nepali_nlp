@@ -1,7 +1,7 @@
 import sys
 sys.path.append('..')
 
-from Nepali_nlp.Embedding import Embeddings
+from .Embedding import Embeddings
 
 class Synonym:
     
