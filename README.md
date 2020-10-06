@@ -32,6 +32,8 @@ Synonym().filter_synonym(word = 'साथी',word_vec=word_vec) #method: 2
 from Nepali_nlp import Corrector
 Corrector().corrector(word='सुशल') #In a very raw stage for now.
 #output-> ['सुशील', 'सुशील']
+Corrector().spell_correct("कस्त भको हेरौ है")
+#output-> "कस्तो भयो हेर है"
 ```
 <h3>Nepali text summerizer</h3>
 
@@ -86,8 +88,8 @@ title, news = extract_news(news_link) #onlinekhabar and ekantipur is supported a
 <h3>Show latest news summary</h3>
 
 ```python
-from Nepali_nlp import Update_news
-title, links, summerized_news = Update_news().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
+from Nepali_nlp import UpdateNews
+title, links, summerized_news = UpdateNews().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
 ```
 
 TODOs:</br>
@@ -101,6 +103,6 @@ TODOs:</br>
 - [x] Summerization 
 - [x] Pos_tag
 - [x] Sentence similarity score
-- [ ] Translation(Nepali<->English)(Currently)
-- [ ] Spell correction (Currently)
-- [ ] Named Entity Recognition
+- [x] Spell correction (Currently)
+- [ ] Named Entity Recognition (Currently)
+- [ ] Translation(Nepali<->English)
