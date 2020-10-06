@@ -3,8 +3,7 @@
 <h2>Getting the module</h2>
 
 ```bash
-git clone git@github.com:sushil79g/Nepali_nlp.git
-cd Nepali_nlp/nepali_nlp
+git clone git+https://github.com/sushil79g/Nepali_nlp.git@spelling
 ```
 
 <h3>Loading Embedding</h3>
