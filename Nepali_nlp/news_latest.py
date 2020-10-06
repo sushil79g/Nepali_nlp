@@ -1,7 +1,7 @@
 import sys
 sys.path.append('..')
 
-from utils import top_news_link
+from .utils import top_news_link
 from .news_scrap import extract_news
 from .summerization import Summerize
 
