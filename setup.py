@@ -14,6 +14,7 @@ setup(
     name='Nepali nlp',
     description='Natural language processing library for Nepali langauge',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     url='https://github.com/sushil79g/Nepali_nlp',
     author=['Anish Pandey','Sushil Ghimire'],
     author_email=['sharmaanix@gmail.com','sushil79g@gmail.com'],
@@ -22,6 +23,7 @@ setup(
     packages=find_packages(exclude=('docs', 'tests', 'env', 'index.py')),
     include_package_data=True,
     install_requires=required,
+    dependency_links = ["https://github.com/sushil79g/spello_memory.git"],
     extras_require={
     'dev': [],
     'docs': [],
