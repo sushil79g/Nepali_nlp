@@ -3,7 +3,7 @@
 <h2>Getting the module</h2>
 
 ```bash
-!pip install git+https://github.com/sushil79g/Nepali_nlp.git@spelling
+!pip install git+https://github.com/sushil79g/Nepali_nlp.git
 ```
 
 <h3>Loading Embedding</h3>
