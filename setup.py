@@ -1,10 +1,14 @@
 """ Package setup """
 import os
+# from pip.req import parse_requirements
 from setuptools import setup, find_packages
 
 
-with open("README.md", "r") as f:
+with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
+
+with open('requirements.txt', 'r') as f:
+    required = f.read().splitlines()
 
 setup(
     name='Nepali nlp',
@@ -17,7 +21,7 @@ setup(
     keywords='NLP ml ai nepali',
     packages=find_packages(exclude=('docs', 'tests', 'env', 'index.py')),
     include_package_data=True,
-    install_requires=[],
+    install_requires=required,
     extras_require={
     'dev': [],
     'docs': [],

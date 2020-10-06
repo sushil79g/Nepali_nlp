@@ -7,7 +7,7 @@ import cv2
 import os
 
 
-def OCR(image,lang='nep', colab=False):
+def OCR(image,lang='nep', url_=False):
     """This function helps to generate text from image
     
     Arguments:
@@ -21,15 +21,20 @@ def OCR(image,lang='nep', colab=False):
     """
     assert lang in ['eng','nep'], 'specified language is not available at the moment'
 
-    if not colab:
-        image = cv2.imread(image)
-        image = cv2.cvtColor(image, cv2.COLOR_BRG2GRAY)
+    if url_:
+        import urllib.request
+        with urllib.request.urlopen(image) as url:
+            with open('temp.jpg', 'wb') as f:
+                f.write(url.read())
+
+        image = "temp.jpg"
 
     if lang=='nep':
         tessdata_dir_config = r'--tessdata-dir "local_dataset"'
         text = pytesseract.image_to_string(image, lang=lang, config=tessdata_dir_config)
         
         return text
-    
+    image = cv2.imread(image)
+    image = cv2.cvtColor(image, cv2.COLOR_BRG2GRAY)
     text = pytesseract.image_to_string(image)#if 'eng' is the choice
     return text

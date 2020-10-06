@@ -1,9 +1,9 @@
 import sys
 sys.path.append('..')
 
-from utils import top_news_link
-from Nepali_nlp.news_scrap import extract_news
-from Nepali_nlp.summerization import Summerize
+from .utils import top_news_link
+from .news_scrap import extract_news
+from .summerization import Summerize
 
 
 class UpdateNews:

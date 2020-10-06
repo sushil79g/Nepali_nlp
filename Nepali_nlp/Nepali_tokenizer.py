@@ -1,7 +1,5 @@
 import string
 
-import icu
-
 
 class Tokenizer:
     def __init__(self):
@@ -48,7 +46,12 @@ class Tokenizer:
         Returns:
             [list] -- list of characters.
         """
+        try:
+            import icu
 
+        except:
+            print("please install PyICU")
+        
         temp_ = icu.BreakIterator.createCharacterInstance(icu.Locale())
         temp_.setText(word)
         char = []

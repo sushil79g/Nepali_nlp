@@ -1,8 +1,7 @@
 gensim==3.7.3
 requests==2.22.0
 wget==3.2
-# ast==0.0.2
-PyICU==2.3.1
 beautifulsoup4
 news-please
 pytesseract
+spello==1.2.0

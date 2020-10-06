@@ -2,7 +2,7 @@ import sys
 sys.path.append('..')
 
 import numpy as np
-from Nepali_nlp.Nepali_tokenizer import Tokenizer
+from .Nepali_tokenizer import Tokenizer
 
 class PositionalEncoding:
     """This class helps to encoding the  tokenized text based on the postion of the word."""
