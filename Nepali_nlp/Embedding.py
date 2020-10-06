@@ -12,7 +12,7 @@ class Embeddings:
     def __init__(self):
         pass
 
-    def load_vector(self):
+    def load_large_vector(self):
         """Download and load embedding. #This is private embedding I will update link later
 
         Returns:
@@ -25,7 +25,7 @@ class Embeddings:
 
         return word_vector
 
-    def load_large_vector(self):
+    def load_vector(self):
         """Returns a large Nepali word embedding. Creator: https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language
         
         Returns:
