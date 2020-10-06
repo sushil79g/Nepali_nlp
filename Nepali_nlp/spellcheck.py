@@ -23,7 +23,7 @@ class Corrector:
         Returns:
             [list] -- [List of all Nepali word]
         """
-        file = open(os.path.join(self.this_dir, location), 'r')
+        file = open(os.path.join(self.this_dir,"local_dataset", location), 'r')
         text = file.read()
         text = text.split()
         file.close()
