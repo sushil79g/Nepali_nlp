@@ -103,6 +103,6 @@ TODOs:</br>
 - [x] Summerization 
 - [x] Pos_tag
 - [x] Sentence similarity score
-- [x] Spell correction (Currently)
+- [x] Spell correction
 - [ ] Named Entity Recognition (Currently)
 - [ ] Translation(Nepali<->English)
