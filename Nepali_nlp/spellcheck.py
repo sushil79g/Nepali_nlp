@@ -1,4 +1,5 @@
 # coding: utf-8
+import os
 import sys 
 sys.path.append('..')
 from spello.model import SpellCorrectionModel
@@ -10,7 +11,8 @@ class Corrector:
     
     """
     def __init__(self):
-        self.sp = SpellCorrectionModel(language='hi').load('.local_dataset/spell_model.pkl')
+        self.this_dir, self.this_file = os.path.split(__file__)
+        self.sp = SpellCorrectionModel(language='hi').load(os.path.join(self.this_dir, "local_dataset", "spell_model.pkl"))
 
     def __load_words(self,location):
         """This function load all the Nepali words in given location.
@@ -21,13 +23,13 @@ class Corrector:
         Returns:
             [list] -- [List of all Nepali word]
         """
-        file = open(location, 'r')
+        file = open(os.path.join(self.this_dir, location), 'r')
         text = file.read()
         text = text.split()
         file.close()
         return text
 
-    def corrector(self,word,location ='.local_dataset/words.txt',number=2, threshold = 0.3):
+    def corrector(self,word,location ='words.txt',number=2, threshold = 0.3):
         """This functon returns 'n' number of correct words.
         
         Arguments:
