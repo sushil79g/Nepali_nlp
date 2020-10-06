@@ -4,4 +4,4 @@ wget==3.2
 beautifulsoup4
 news-please
 pytesseract
-git+https://github.com/sushil79g/spello_memory.git
+spello==1.2.0
