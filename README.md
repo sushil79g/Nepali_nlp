@@ -69,6 +69,15 @@ Tokenizer().word_tokenize(text) #To tokenize word
 Tokenizer().character_tokenize(text) #To tokenize character
 ```
 
+<h3>Nepali Stemming</h3>
+
+```python
+from Nepali_nlp import Stem
+text = "सरकारका प्रवक्ता प्रदीप ज्ञवालीले पनि गत बिहीबार उनलाई अनशन तोड्न आग्रह गरेका थिए" #str or list of word
+Stem().rootify(text)
+#output -> ['सरकार','प्रवक्ता','प्रदीप','ज्ञवाली','पनि','गत','बिहीबार','उन','अनशन','तोड्न','आग्रह','गर','']
+```
+
 <h3>Nepali sentence similarity</h3>
 
 ```python
@@ -101,6 +110,7 @@ TODOs:</br>
 - [x] Nepali OCR
 - [x] Summerization 
 - [x] Pos_tag
+- [x] Nepali stemming
 - [x] Sentence similarity score
 - [x] Spell correction
 - [ ] Named Entity Recognition (Currently)
