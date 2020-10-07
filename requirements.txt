@@ -5,3 +5,4 @@ beautifulsoup4
 news-please
 pytesseract
 spello==1.2.0
+snowballstemmer

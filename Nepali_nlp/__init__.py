@@ -9,3 +9,4 @@ from .Nepali_tokenizer import Tokenizer
 from .sentence_similar import Avg_vector_similar
 from .news_scrap import extract_news
 from .news_latest import UpdateNews
+from .stemmer import Stem
