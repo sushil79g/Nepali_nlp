@@ -1,13 +1,21 @@
-<h1>This projects aims to build a library for all the NLP processes for Nepali Language.</h1>
+# Nepali_nlp: A NLP library for Nepali Language
+> This projects aims to build a library for all the NLP processes for Nepali Language.
 
-<h2>Getting the module</h2>
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Nepali_nlp)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/Nepali_nlp)
+[![GitHub license](https://img.shields.io/github/license/sushil79g/Nepali_nlp)](https://github.com/sushil79g/Nepali_nlp/blob/master/LICENSE)
+
+## Getting the module
 
 ```bash
-!pip install git+https://github.com/sushil79g/Nepali_nlp.git
+sudo apt install libicu-dev
+
+pip install gensim==3.7.3 requests==2.22.0 wget==3.2 beautifulsoup4 news-please pytesseract spello==1.2.0 snowballstemmer scikit-learn==0.23.2 opencv-python pyicu
+
+pip install git+https://github.com/sushil79g/Nepali_nlp.git
 ```
 
-<h3>Loading Embedding</h3>
-
+### Loading Embedding
 ```python
 from Nepali_nlp import Embeddings
 word_vec = Embeddings().load_large_vector()
@@ -16,8 +24,7 @@ word_vec = Embeddings().load_large_vector()
 #word_vec = Fasttext().load()
 ```
 
-<h3>For Nepali Synonym</h3>
-
+### For Nepali Synonym
 ```python
 from Nepali_nlp import Synonym
 Synonym().raw_synonym(word = 'माया',word_vec=word_vec) #method: 1
@@ -25,8 +32,8 @@ Synonym().raw_synonym(word = 'माया',word_vec=word_vec) #method: 1
 Synonym().filter_synonym(word = 'साथी',word_vec=word_vec) #method: 2
 #output -> 'भाइहरू','सहपाठी','प्रेमी','दाइ','प्रेमि','बहिनी'
 ```
-<h3>Word-spell corrector</h3>
 
+### Word-spell corrector
 ```python
 from Nepali_nlp import Corrector
 Corrector().corrector(word='सुशल') #In a very raw stage for now.
@@ -34,34 +41,35 @@ Corrector().corrector(word='सुशल') #In a very raw stage for now.
 Corrector().spell_correct("कस्त भको हेरौ है")
 #output-> "कस्तो भयो हेर है"
 ```
-<h3>Nepali text summerizer</h3>
 
+### Nepali text summarizer
 ```python
 from Nepali_nlp import Summerize
-Summerize().show_summary(word_vec,text, length_sentence_predict=5)
+Summerize().show_summary(word_vec, text, length_sentence_predict=5)
 ```
-<h3>Nepali unicode to Devnagiri Font</h3>
+
+### Nepali unicode to Devnagari Font
 
 ```python
 from Nepali_nlp import Unicode
 text = 'ma ghara jaanchhu'
 Unicode().unicode_word(text) #output-> 'म घर जान्छु'
 ```
-<h3>Preeti-font character to Devnagiri Font</h3>
 
+### Preeti-font character to Devnagari Font
 ```python
 from Nepali_nlp import preeti
 unicode_word = 'g]kfnL'
 print(preeti(unicode_word)) #output-> नेपाली
 ```
-<h3>OCR(optical character reader)</h3>
 
+### OCR(optical character reader)
 ```python
 from Nepali_nlp import OCR
 text = OCR(image_location)
 ```
-<h3>Nepali Tokenizer</h3>
 
+### Nepali Tokenizer
 ```python
 from Nepali_nlp import Tokenizer
 Tokenizer().sentence_tokenize(text) #To tokenize sentence
@@ -69,7 +77,7 @@ Tokenizer().word_tokenize(text) #To tokenize word
 Tokenizer().character_tokenize(text) #To tokenize character
 ```
 
-<h3>Nepali Stemming</h3>
+### Nepali Stemming
 
 ```python
 from Nepali_nlp import Stem
@@ -78,7 +86,7 @@ Stem().rootify(text)
 #output -> ['सरकार','प्रवक्ता','प्रदीप','ज्ञवाली','पनि','गत','बिहीबार','उन','अनशन','तोड्न','आग्रह','गर','']
 ```
 
-<h3>Nepali sentence similarity</h3>
+### Nepali sentence similarity
 
 ```python
 from Nepali_nlp import  Avg_vector_similar
@@ -86,21 +94,20 @@ sentences = ["कुपोषणकै कारण शारीरिक र �
 Avg_vector_similar().pair_similarity(word_vec, sentences) #output-> 0.6817289590835571
 ```
 
-<h3>Nepali new-portal Scrapper (onlinekhabar and ekantipur for now)</h3>
-
+### Nepali new-portal Scrapper (onlinekhabar and ekantipur for now)
 ```python
 from Nepali_nlp import extract_news
 news_link = 'https://www.onlinekhabar.com/2019/12/821094'
 title, news = extract_news(news_link) #onlinekhabar and ekantipur is supported at the moment.
 ```
-<h3>Show latest news summary</h3>
 
+### Show latest news summary
 ```python
 from Nepali_nlp import UpdateNews
 title, links, summerized_news = UpdateNews().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
 ```
 
-TODOs:</br>
+#### TODOs:
 - [x] Nepali Embeddings 
 - [x] Tokenizers (sentence, word, character) 
 - [x] Stop Words
