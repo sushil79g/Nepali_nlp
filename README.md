@@ -15,6 +15,7 @@ pip install gensim==3.7.3 requests==2.22.0 wget==3.2 beautifulsoup4 news-please 
 pip install git+https://github.com/sushil79g/Nepali_nlp.git
 ```
 
+## Currently available features
 ### Loading Embedding
 ```python
 from Nepali_nlp import Embeddings
@@ -63,7 +64,7 @@ unicode_word = 'g]kfnL'
 print(preeti(unicode_word)) #output-> नेपाली
 ```
 
-### OCR(optical character reader)
+### OCR(Optical Character Reader)
 ```python
 from Nepali_nlp import OCR
 text = OCR(image_location)
@@ -78,7 +79,6 @@ Tokenizer().character_tokenize(text) #To tokenize character
 ```
 
 ### Nepali Stemming
-
 ```python
 from Nepali_nlp import Stem
 text = "सरकारका प्रवक्ता प्रदीप ज्ञवालीले पनि गत बिहीबार उनलाई अनशन तोड्न आग्रह गरेका थिए" #str or list of word
@@ -87,7 +87,6 @@ Stem().rootify(text)
 ```
 
 ### Nepali sentence similarity
-
 ```python
 from Nepali_nlp import  Avg_vector_similar
 sentences = ["कुपोषणकै कारण शारीरिक र मानसिक रुपमा कमजोर मात्र होइन, अकालमै ज्यान पनि गुमाउनुको परेको समाचार बग्रेल्ती सुन्न सकिन्छ","कर्णाली प्रदेश सामाजिक विकास मन्त्रालयले उपलब्ध गराएको तथ्यांकले कर्णालीमा प्रत्येक वर्ष जन्मिएका ५ वर्षमुनीका बालबालिका १ हजार जनामध्ये ५८ जनाले ज्यान गुमाउँदै आएको देखाएको छ"]
