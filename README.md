@@ -25,6 +25,7 @@ Synonym().raw_synonym(word = 'माया',word_vec=word_vec) #method: 1
 Synonym().filter_synonym(word = 'साथी',word_vec=word_vec) #method: 2
 #output -> 'भाइहरू','सहपाठी','प्रेमी','दाइ','प्रेमि','बहिनी'
 ```
+
 <h3>Word-spell corrector</h3>
 
 ```python
@@ -34,12 +35,14 @@ Corrector().corrector(word='सुशल') #In a very raw stage for now.
 Corrector().spell_correct("कस्त भको हेरौ है")
 #output-> "कस्तो भयो हेर है"
 ```
-<h3>Nepali text summerizer</h3>
+
+<h3>Nepali text Summarizer</h3>
 
 ```python
-from Nepali_nlp import Summerize
-Summerize().show_summary(word_vec,text, length_sentence_predict=5)
+from Nepali_nlp import Summarize
+Summarize().show_summary(word_vec,text, length_sentence_predict=5)
 ```
+
 <h3>Nepali unicode to Devnagiri Font</h3>
 
 ```python
@@ -47,6 +50,7 @@ from Nepali_nlp import Unicode
 text = 'ma ghara jaanchhu'
 Unicode().unicode_word(text) #output-> 'म घर जान्छु'
 ```
+
 <h3>Preeti-font character to Devnagiri Font</h3>
 
 ```python
@@ -54,12 +58,14 @@ from Nepali_nlp import preeti
 unicode_word = 'g]kfnL'
 print(preeti(unicode_word)) #output-> नेपाली
 ```
+
 <h3>OCR(optical character reader)</h3>
 
 ```python
 from Nepali_nlp import OCR
 text = OCR(image_location)
 ```
+
 <h3>Nepali Tokenizer</h3>
 
 ```python
@@ -93,22 +99,24 @@ from Nepali_nlp import extract_news
 news_link = 'https://www.onlinekhabar.com/2019/12/821094'
 title, news = extract_news(news_link) #onlinekhabar and ekantipur is supported at the moment.
 ```
+
 <h3>Show latest news summary</h3>
 
 ```python
 from Nepali_nlp import UpdateNews
-title, links, summerized_news = UpdateNews().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
+title, links, Summarized_news = UpdateNews().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
 ```
 
 TODOs:</br>
-- [x] Nepali Embeddings 
-- [x] Tokenizers (sentence, word, character) 
+
+- [x] Nepali Embeddings
+- [x] Tokenizers (sentence, word, character)
 - [x] Stop Words
-- [x] Nepali Words Collection 
+- [x] Nepali Words Collection
 - [x] Nepali Word synonym
 - [x] Roman Nepali to Nepali
 - [x] Nepali OCR
-- [x] Summerization 
+- [x] summarization
 - [x] Pos_tag
 - [x] Nepali stemming
 - [x] Sentence similarity score
