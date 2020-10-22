@@ -1,7 +1,6 @@
+from nepali_nlp.nepali_tokenizer import Tokenizer
 import sys
-sys.path.append('..')
 
-from .Nepali_tokenizer import Tokenizer
 
 class NgramGenerator(Tokenizer):
 
@@ -10,11 +9,11 @@ class NgramGenerator(Tokenizer):
 
     def generate_n_gram(self, token_text):
         """This function generate ngram token list
-        
+
             Arguments:
                 sentence {list} -- list of tokenized text
                 n_gram {int} -- value of n-gram
-        
+
             Returns:
                 list --  multi array list of n-gram tokenized words
             """

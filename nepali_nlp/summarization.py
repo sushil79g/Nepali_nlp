@@ -1,9 +1,8 @@
 import string
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
-from .Embedding import Embeddings
+from nepali_nlp.embedding import Embeddings
 import sys
-sys.path.append('..')
 
 
 class Summarize:

@@ -1,8 +1,7 @@
-from .summarization import Summarize
-from .news_scrap import extract_news
-from .utils import top_news_link
+from nepali_nlp.summarization import Summarize
+from nepali_nlp.news_scrap import extract_news
+from nepali_nlp.utils import top_news_link
 import sys
-sys.path.append('..')
 
 
 class UpdateNews:
