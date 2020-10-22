@@ -1,5 +1,8 @@
 import string
 
+import tensorflow as tf
+import sentencepiece as spm
+
 
 class Tokenizer:
     def __init__(self):
@@ -14,7 +17,7 @@ class Tokenizer:
         Returns:
             sentence {list} -- tokenized sentence in list
         """
-        sentences = text.split(u"।")
+        sentences = text.strip().split(u"।")
         sentences = [sentence.translate(str.maketrans('', '', string.punctuation)) for sentence in sentences]
         return sentences
 
@@ -62,6 +65,24 @@ class Tokenizer:
             i = j
 
         return char
+
+    def sentencepeice_tokenize(text):
+        """unsupervised way of tokenizing the text using google sentencepiece library. More info at https://github.com/google/sentencepiece
+
+        Args:
+            text (string): Text in Nepali language
+        
+        Returns:
+            list: tokenized words.
+        """
+        try:
+            model = tf.io.gfile.GFile("local_dataset/m_bpe.model", "rb").read()
+        except:
+            model = tf.gfile.Gfile("local_dataset/m_bpe.model", "rb").read()
+        sp = spm.SentencePieceProcessor()
+        sp.load_from_serialized_proto(model)
+        return sp.encode_as_pieces(text)
+
 
     def __str__(self):
         return "Helps to tokenize content written in Nepali language."
