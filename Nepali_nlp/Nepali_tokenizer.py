@@ -76,9 +76,9 @@ class Tokenizer:
             list: tokenized words.
         """
         try:
-            model = tf.io.gfile.GFile("local_dataset/m_bpe.model", "rb").read()
+            model = tf.gfile.Gfile("local_dataset/m_bpe.model", "rb").read() #tf version 1
         except:
-            model = tf.gfile.Gfile("local_dataset/m_bpe.model", "rb").read()
+            model = tf.io.gfile.GFile("local_dataset/m_bpe.model", "rb").read() #tf version 2
         sp = spm.SentencePieceProcessor()
         sp.load_from_serialized_proto(model)
         return sp.encode_as_pieces(text)
