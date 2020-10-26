@@ -67,6 +67,7 @@ from Nepali_nlp import Tokenizer
 Tokenizer().sentence_tokenize(text) #To tokenize sentence
 Tokenizer().word_tokenize(text) #To tokenize word
 Tokenizer().character_tokenize(text) #To tokenize character
+Tokenizer().sentencepeice_tokenize(text) #Tokenize using BPE
 ```
 
 <h3>Nepali Stemming</h3>
