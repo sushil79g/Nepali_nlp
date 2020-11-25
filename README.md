@@ -115,4 +115,4 @@ TODOs:</br>
 - [x] Sentence similarity score
 - [x] Spell correction
 - [ ] Named Entity Recognition (Currently)
-- [ ] Translation(Nepali<->English)
+- [ ] Translation (Nepali<->English)
