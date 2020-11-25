@@ -2,8 +2,8 @@ import numpy as np
 from scipy import spatial
 from gensim.utils import simple_preprocess
 
-from .Embedding import Embeddings
-from .Nepali_tokenizer import Tokenizer
+from nepali_nlp.embedding import Embeddings
+from nepali_nlp.nepali_tokenizer import Tokenizer
 
 
 class Avg_vector_similar:
@@ -15,12 +15,12 @@ class Avg_vector_similar:
 
     def compute_sentence_similarity(self, model, sent_1, sent_2):
         """ Compute the average vector similarity 
-        
+
         Args:
             model : word2vec model
             sent_1 (string): first sentence
             sent_2 (string): second sentence
-        
+
         Returns:
             int: similarity score
         """
@@ -33,11 +33,11 @@ class Avg_vector_similar:
     def jaccard_similar(self, sent1, sent2):
         """This function return similarity of two sentence based in jaccard similarity methods.
             find more at https://arxiv.org/abs/1907.02251.
-        
+
         Arguments:
             sent1 {string} -- [first sentence]
             sent2 {string} -- [second sentence]
-        
+
         Returns:
             [int] -- [Similarity score]
         """
@@ -47,11 +47,11 @@ class Avg_vector_similar:
 
     def pair_similarity(self, word_vec, sentences):
         """compute similarity of two sentence using the mean of word's embedding
-        
+
         Args:
             word_vec (Embedding): Word to vec embedding
             sentences (string): sentences in Nepali
-           
+
         Returns:
             int: similarity score between two sentences.
         """
