@@ -101,6 +101,19 @@ from Nepali_nlp import UpdateNews
 title, links, summerized_news = UpdateNews().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
 ```
 
+<h3>Language Translation (English--Nepali)</h3>
+
+```python
+from Nepali_nlp import LanguageTranslation
+conv = LanguageTranslation()
+nepali_text = "प्रधानमन्त्री निवास बालुवाटारमा आज बिहान बसेको बैठकमा आसन्न स्थानीय तहको निर्वाचनको विषयमा छलफल भएको थियो । छलफलपछि सरकारका प्रवक्ता ज्ञानेन्द्रबहादुर कार्कीले निर्वाचन समयमै सम्पन्न गर्न आफूहरु सहमत भएको सन्चारकर्मीलाई जानकारी दिए ।"
+english_text = "You already know that a data class is just a regular class. That means that you can freely add your own methods to a data class. As an example, let us calculate the distance between one position and another, along the Earth’s surface"
+
+output = conv.to_nepali(english_text) #output-> ['तपाईँले पहिले नै जान्नु भएको छ कि डेटा वर्ग एउटा नियमित वर्ग मात्र हो । यसको अर्थ तपाईँले डेटा वर्गमा तपाईँको आफ्नै विधिहरू स्वतन्त्र रूपमा थप्न सक्नुहुन्छ । उदाहरणका लागि, हामीलाई पृथ्वीको सतहमा एक स्थान र अर्को बीचको दूरी गणना गर्नुहोस्']
+
+output = conv.to_english(nepali_text) #output-> ['After the meeting, government spokesman Gyanendra Bahadur Patel informed the media that they agreed to hold elections on time.']
+```
+
 TODOs:</br>
 - [x] Nepali Embeddings 
 - [x] Tokenizers (sentence, word, character) 
@@ -114,5 +127,5 @@ TODOs:</br>
 - [x] Nepali stemming
 - [x] Sentence similarity score
 - [x] Spell correction
+- [x] Translation (Nepali<->English)
 - [ ] Named Entity Recognition (Currently)
-- [ ] Translation (Nepali<->English)
