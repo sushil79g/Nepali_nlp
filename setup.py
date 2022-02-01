@@ -1,7 +1,7 @@
 """ Package setup """
 import os
 # from pip.req import parse_requirements
-from setuptools import setup, find_packages
+from setuptools import setup, find_namespace_packages
 
 
 with open("README.md", "r", encoding="utf-8") as f:
@@ -20,7 +20,8 @@ setup(
     author_email=['sharmaanix@gmail.com','sushil79g@gmail.com'],
     license='MIT',
     keywords='NLP ml ai nepali',
-    packages=find_packages(exclude=('docs', 'tests', 'env', 'index.py')),
+    packages=find_namespace_packages(exclude=('docs', 'tests', 'env', 'index.py')),
+    package_data={"Nepali_nlp.local_dataset": ["*"]},
     include_package_data=True,
     install_requires=required,
     dependency_links = ["https://github.com/sushil79g/spello_memory.git"],
