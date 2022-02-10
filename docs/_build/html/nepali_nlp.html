@@ -1,0 +1,726 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>nepali_nlp package &#8212; nepali_nlp  documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css" />
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Welcome to nepali_nlp’s documentation!" href="index.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="nepali-nlp-package">
+<h1>nepali_nlp package<a class="headerlink" href="#nepali-nlp-package" title="Permalink to this headline">¶</a></h1>
+<section id="submodules">
+<h2>Submodules<a class="headerlink" href="#submodules" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="module-nepali_nlp.Download_embedding">
+<span id="nepali-nlp-download-embedding-module"></span><h2>nepali_nlp.Download_embedding module<a class="headerlink" href="#module-nepali_nlp.Download_embedding" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.Download_embedding.Download">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.Download_embedding.</span></span><span class="sig-name descname"><span class="pre">Download</span></span><a class="reference internal" href="_modules/nepali_nlp/Download_embedding.html#Download"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Download_embedding.Download" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>This class helps to download different embeddings for Nepali language</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.Download_embedding.Download.download_file_from_google_drive">
+<span class="sig-name descname"><span class="pre">download_file_from_google_drive</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">id</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">destination</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/Download_embedding.html#Download.download_file_from_google_drive"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Download_embedding.Download.download_file_from_google_drive" title="Permalink to this definition">¶</a></dt>
+<dd><p>Download Nepali embedding file which is in gooogle drive.</p>
+<dl>
+<dt>Arguments:</dt><dd><p>id {string} – unique id;represent file in google drive
+destination {string} – filename where the content is to be written</p>
+<dl class="simple">
+<dt>eg: id: ‘1KnAZ2Eeqwz3S9VrAuzTLWysAaRB6Ch7e’</dt><dd><p>destination: ‘abc.txt’</p>
+</dd>
+</dl>
+</dd>
+<dt>Returns:</dt><dd><p>[type] – [description]</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.Embedding">
+<span id="nepali-nlp-embedding-module"></span><h2>nepali_nlp.Embedding module<a class="headerlink" href="#module-nepali_nlp.Embedding" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.Embedding.Embeddings">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.Embedding.</span></span><span class="sig-name descname"><span class="pre">Embeddings</span></span><a class="reference internal" href="_modules/nepali_nlp/Embedding.html#Embeddings"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Embedding.Embeddings" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>This class helps to load embedding in keyedvector format.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.Embedding.Embeddings.load_large_vector">
+<span class="sig-name descname"><span class="pre">load_large_vector</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/Embedding.html#Embeddings.load_large_vector"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Embedding.Embeddings.load_large_vector" title="Permalink to this definition">¶</a></dt>
+<dd><p>Download and load embedding. #This is private embedding I will update link later</p>
+<dl class="simple">
+<dt>Returns:</dt><dd><p>[keyedVectors] – [Custom Nepali word Embedding]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.Embedding.Embeddings.load_vector">
+<span class="sig-name descname"><span class="pre">load_vector</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/Embedding.html#Embeddings.load_vector"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Embedding.Embeddings.load_vector" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns a large Nepali word embedding. Creator: <a class="reference external" href="https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language">https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language</a></p>
+<dl class="simple">
+<dt>Returns:</dt><dd><p>[keyedVectors] – [Custom Nepali word Embedding]</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.Nepali_tokenizer">
+<span id="nepali-nlp-nepali-tokenizer-module"></span><h2>nepali_nlp.Nepali_tokenizer module<a class="headerlink" href="#module-nepali_nlp.Nepali_tokenizer" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.Nepali_tokenizer.Tokenizer">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.Nepali_tokenizer.</span></span><span class="sig-name descname"><span class="pre">Tokenizer</span></span><a class="reference internal" href="_modules/nepali_nlp/Nepali_tokenizer.html#Tokenizer"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Nepali_tokenizer.Tokenizer" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.Nepali_tokenizer.Tokenizer.character_tokenize">
+<span class="sig-name descname"><span class="pre">character_tokenize</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/Nepali_tokenizer.html#Tokenizer.character_tokenize"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Nepali_tokenizer.Tokenizer.character_tokenize" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns the tokenization in character level.</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>word {string} – word to be tokenized in character level.</p>
+</dd>
+<dt>Returns:</dt><dd><p>[list] – list of characters.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.Nepali_tokenizer.Tokenizer.sentence_tokenize">
+<span class="sig-name descname"><span class="pre">sentence_tokenize</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/Nepali_tokenizer.html#Tokenizer.sentence_tokenize"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Nepali_tokenizer.Tokenizer.sentence_tokenize" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function tokenize the sentences</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>text {string} – Sentences you want to tokenize</p>
+</dd>
+<dt>Returns:</dt><dd><p>sentence {list} – tokenized sentence in list</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.Nepali_tokenizer.Tokenizer.sentencepeice_tokenize">
+<span class="sig-name descname"><span class="pre">sentencepeice_tokenize</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/Nepali_tokenizer.html#Tokenizer.sentencepeice_tokenize"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Nepali_tokenizer.Tokenizer.sentencepeice_tokenize" title="Permalink to this definition">¶</a></dt>
+<dd><p>unsupervised way of tokenizing the text using google sentencepiece library. More info at <a class="reference external" href="https://github.com/google/sentencepiece">https://github.com/google/sentencepiece</a></p>
+<dl class="simple">
+<dt>Args:</dt><dd><p>text (string): Text in Nepali language</p>
+</dd>
+<dt>Returns:</dt><dd><p>list: tokenized words.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.Nepali_tokenizer.Tokenizer.word_tokenize">
+<span class="sig-name descname"><span class="pre">word_tokenize</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sentence</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">new_punctuation</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">[]</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/Nepali_tokenizer.html#Tokenizer.word_tokenize"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.Nepali_tokenizer.Tokenizer.word_tokenize" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function tokenize with respect to word</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>sentence {string} – sentence you want to tokenize
+new_punctuation {list} – more punctutaion for tokenizing  default [’।’,’,’,’;’,’?’,’!’,’—‘,’-‘]</p>
+</dd>
+<dt>Returns:</dt><dd><p>list – tokenized words</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.fasttext_embedding">
+<span id="nepali-nlp-fasttext-embedding-module"></span><h2>nepali_nlp.fasttext_embedding module<a class="headerlink" href="#module-nepali_nlp.fasttext_embedding" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.fasttext_embedding.Fasttext">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.fasttext_embedding.</span></span><span class="sig-name descname"><span class="pre">Fasttext</span></span><a class="reference internal" href="_modules/nepali_nlp/fasttext_embedding.html#Fasttext"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.fasttext_embedding.Fasttext" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Load fasttext Nepali embedding</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.fasttext_embedding.Fasttext.load">
+<span class="sig-name descname"><span class="pre">load</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">link</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz'</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/fasttext_embedding.html#Fasttext.load"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.fasttext_embedding.Fasttext.load" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function load fasttext embeddings for nepali</p>
+<dl class="simple">
+<dt>Keyword Arguments:</dt><dd><p>link {str} – link of binary embedding for Nepali (default: {”<a class="reference external" href="https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz">https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ne.300.vec.gz</a>”})</p>
+</dd>
+<dt>Returns:</dt><dd><p>keyebvector model – Embedding model</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.language_translation">
+<span id="nepali-nlp-language-translation-module"></span><h2>nepali_nlp.language_translation module<a class="headerlink" href="#module-nepali_nlp.language_translation" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.language_translation.LanguageTranslation">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.language_translation.</span></span><span class="sig-name descname"><span class="pre">LanguageTranslation</span></span><a class="reference internal" href="_modules/nepali_nlp/language_translation.html#LanguageTranslation"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.language_translation.LanguageTranslation" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.language_translation.LanguageTranslation.to_english">
+<span class="sig-name descname"><span class="pre">to_english</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/language_translation.html#LanguageTranslation.to_english"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.language_translation.LanguageTranslation.to_english" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.language_translation.LanguageTranslation.to_nepali">
+<span class="sig-name descname"><span class="pre">to_nepali</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/language_translation.html#LanguageTranslation.to_nepali"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.language_translation.LanguageTranslation.to_nepali" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.n_gram">
+<span id="nepali-nlp-n-gram-module"></span><h2>nepali_nlp.n_gram module<a class="headerlink" href="#module-nepali_nlp.n_gram" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.n_gram.NgramGenerator">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.n_gram.</span></span><span class="sig-name descname"><span class="pre">NgramGenerator</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">n_gram</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/n_gram.html#NgramGenerator"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.n_gram.NgramGenerator" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <a class="reference internal" href="#nepali_nlp.Nepali_tokenizer.Tokenizer" title="nepali_nlp.Nepali_tokenizer.Tokenizer"><code class="xref py py-class docutils literal notranslate"><span class="pre">nepali_nlp.Nepali_tokenizer.Tokenizer</span></code></a></p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.n_gram.NgramGenerator.generate_n_gram">
+<span class="sig-name descname"><span class="pre">generate_n_gram</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">token_text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/n_gram.html#NgramGenerator.generate_n_gram"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.n_gram.NgramGenerator.generate_n_gram" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function generate ngram token list</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>sentence {list} – list of tokenized text
+n_gram {int} – value of n-gram</p>
+</dd>
+<dt>Returns:</dt><dd><p>list –  multi array list of n-gram tokenized words</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.news_latest">
+<span id="nepali-nlp-news-latest-module"></span><h2>nepali_nlp.news_latest module<a class="headerlink" href="#module-nepali_nlp.news_latest" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.news_latest.UpdateNews">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.news_latest.</span></span><span class="sig-name descname"><span class="pre">UpdateNews</span></span><a class="reference internal" href="_modules/nepali_nlp/news_latest.html#UpdateNews"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.news_latest.UpdateNews" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.news_latest.UpdateNews.show_latest">
+<span class="sig-name descname"><span class="pre">show_latest</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word_vec</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">portal</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'onlinekhabar'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">number_of_news</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">5</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/news_latest.html#UpdateNews.show_latest"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.news_latest.UpdateNews.show_latest" title="Permalink to this definition">¶</a></dt>
+<dd><p>his function returns tile of latest news, link for latest news and summerize news</p>
+<dl class="simple">
+<dt>Keyword Arguments:</dt><dd><p>portal {str} – [news portal sites; for now either ‘onlinekhabar’ or ‘ekantipur’] (default: {‘onlinekhabar’})
+number_of_news {int} – [Number of top trending news] (default: {5})</p>
+</dd>
+<dt>Returns:</dt><dd><p>[tuple] – [tuple of (titles, links, news_summerises)]</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.news_scrap">
+<span id="nepali-nlp-news-scrap-module"></span><h2>nepali_nlp.news_scrap module<a class="headerlink" href="#module-nepali_nlp.news_scrap" title="Permalink to this headline">¶</a></h2>
+<dl class="py function">
+<dt class="sig sig-object py" id="nepali_nlp.news_scrap.extract_news">
+<span class="sig-prename descclassname"><span class="pre">nepali_nlp.news_scrap.</span></span><span class="sig-name descname"><span class="pre">extract_news</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">link</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/news_scrap.html#extract_news"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.news_scrap.extract_news" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function extract news from given link.</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>link {string} – [Link of news article.]</p>
+</dd>
+<dt>Raises:</dt><dd><p>ValueError: [Raise error if link is not for ekantipur/onlinekhabar]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[tuple(title, sample_text)] – [Title: Title of the news, sample_text: news article that has been extracted from the link given.]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="nepali_nlp.news_scrap.get_content_ekantipur">
+<span class="sig-prename descclassname"><span class="pre">nepali_nlp.news_scrap.</span></span><span class="sig-name descname"><span class="pre">get_content_ekantipur</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">link</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/news_scrap.html#get_content_ekantipur"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.news_scrap.get_content_ekantipur" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function helps in extracting the news from ekantipur.com</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>link {string} – [News link from ekantipur site.]</p>
+</dd>
+<dt>Raises:</dt><dd><p>ValueError: [If unable to extract news from given link]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[string] – [News content from the link]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="nepali_nlp.news_scrap.get_content_onlinekhabar">
+<span class="sig-prename descclassname"><span class="pre">nepali_nlp.news_scrap.</span></span><span class="sig-name descname"><span class="pre">get_content_onlinekhabar</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">link</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/news_scrap.html#get_content_onlinekhabar"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.news_scrap.get_content_onlinekhabar" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function extract the contants from onlinakhabar.com</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>link {string} – [Link for onlinekhabar news]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[string] – [News content from the link]</p>
+</dd>
+</dl>
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.ocr">
+<span id="nepali-nlp-ocr-module"></span><h2>nepali_nlp.ocr module<a class="headerlink" href="#module-nepali_nlp.ocr" title="Permalink to this headline">¶</a></h2>
+<dl class="py function">
+<dt class="sig sig-object py" id="nepali_nlp.ocr.OCR">
+<span class="sig-prename descclassname"><span class="pre">nepali_nlp.ocr.</span></span><span class="sig-name descname"><span class="pre">OCR</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">image</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">lang</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'nep'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">url_</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">False</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/ocr.html#OCR"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.ocr.OCR" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function helps to generate text from image</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>image {string} – [Location of image.]</p>
+</dd>
+<dt>Keyword Arguments:</dt><dd><p>lang {str} – [language for OCR] (default: {‘nep’})</p>
+</dd>
+<dt>Returns:</dt><dd><p>[string] – [Text generated by OCR.]</p>
+</dd>
+</dl>
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.positional_encoding">
+<span id="nepali-nlp-positional-encoding-module"></span><h2>nepali_nlp.positional_encoding module<a class="headerlink" href="#module-nepali_nlp.positional_encoding" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.positional_encoding.PositionalEncoding">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.positional_encoding.</span></span><span class="sig-name descname"><span class="pre">PositionalEncoding</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">vector_dim</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/positional_encoding.html#PositionalEncoding"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.positional_encoding.PositionalEncoding" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>This class helps to encoding the  tokenized text based on the postion of the word.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.positional_encoding.PositionalEncoding.encode">
+<span class="sig-name descname"><span class="pre">encode</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">token</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/positional_encoding.html#PositionalEncoding.encode"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.positional_encoding.PositionalEncoding.encode" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function generate  the embedding of text based on postion</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>token {list} – List of tokens of sentences</p>
+</dd>
+<dt>Returns:</dt><dd><p>2Darray {numpy.ndarray} – 2D embedding for the tokens based on postions</p>
+</dd>
+</dl>
+<p>———————–Test Case————————————– 
+test_data = “सहकारी भन्नासाथ नगदको कारोबार अर्थात वचत संकलन र ऋण लगानी गर्ने संस्था भन्ने आम धारणा छ”
+token = Tokenizer()
+token_text = token.word_tokenize(test_data)
+posencode = PositionalEncoding(10)
+print(posencode.encode(token_text))</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.preeti_unicode">
+<span id="nepali-nlp-preeti-unicode-module"></span><h2>nepali_nlp.preeti_unicode module<a class="headerlink" href="#module-nepali_nlp.preeti_unicode" title="Permalink to this headline">¶</a></h2>
+<dl class="py function">
+<dt class="sig sig-object py" id="nepali_nlp.preeti_unicode.preeti">
+<span class="sig-prename descclassname"><span class="pre">nepali_nlp.preeti_unicode.</span></span><span class="sig-name descname"><span class="pre">preeti</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">words</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/preeti_unicode.html#preeti"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.preeti_unicode.preeti" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</section>
+<section id="module-nepali_nlp.sentence_similar">
+<span id="nepali-nlp-sentence-similar-module"></span><h2>nepali_nlp.sentence_similar module<a class="headerlink" href="#module-nepali_nlp.sentence_similar" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.sentence_similar.Avg_vector_similar">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.sentence_similar.</span></span><span class="sig-name descname"><span class="pre">Avg_vector_similar</span></span><a class="reference internal" href="_modules/nepali_nlp/sentence_similar.html#Avg_vector_similar"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.sentence_similar.Avg_vector_similar" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.sentence_similar.Avg_vector_similar.compute_sentence_similarity">
+<span class="sig-name descname"><span class="pre">compute_sentence_similarity</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">model</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sent_1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sent_2</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/sentence_similar.html#Avg_vector_similar.compute_sentence_similarity"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.sentence_similar.Avg_vector_similar.compute_sentence_similarity" title="Permalink to this definition">¶</a></dt>
+<dd><p>Compute the average vector similarity</p>
+<dl class="simple">
+<dt>Args:</dt><dd><p>model : word2vec model
+sent_1 (string): first sentence
+sent_2 (string): second sentence</p>
+</dd>
+<dt>Returns:</dt><dd><p>int: similarity score</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.sentence_similar.Avg_vector_similar.jaccard_similar">
+<span class="sig-name descname"><span class="pre">jaccard_similar</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sent1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sent2</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/sentence_similar.html#Avg_vector_similar.jaccard_similar"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.sentence_similar.Avg_vector_similar.jaccard_similar" title="Permalink to this definition">¶</a></dt>
+<dd><dl class="simple">
+<dt>This function return similarity of two sentence based in jaccard similarity methods.</dt><dd><p>find more at <a class="reference external" href="https://arxiv.org/abs/1907.02251">https://arxiv.org/abs/1907.02251</a>.</p>
+</dd>
+<dt>Arguments:</dt><dd><p>sent1 {string} – [first sentence]
+sent2 {string} – [second sentence]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[int] – [Similarity score]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.sentence_similar.Avg_vector_similar.pair_similarity">
+<span class="sig-name descname"><span class="pre">pair_similarity</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word_vec</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sentences</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/sentence_similar.html#Avg_vector_similar.pair_similarity"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.sentence_similar.Avg_vector_similar.pair_similarity" title="Permalink to this definition">¶</a></dt>
+<dd><p>compute similarity of two sentence using the mean of word’s embedding</p>
+<dl class="simple">
+<dt>Args:</dt><dd><p>word_vec (Embedding): Word to vec embedding
+sentences (string): sentences in Nepali</p>
+</dd>
+<dt>Returns:</dt><dd><p>int: similarity score between two sentences.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.sentence_similar.Avg_vector_similar.tidy_sentence">
+<span class="sig-name descname"><span class="pre">tidy_sentence</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">sentence</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">vocabulary</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/sentence_similar.html#Avg_vector_similar.tidy_sentence"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.sentence_similar.Avg_vector_similar.tidy_sentence" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.spellcheck">
+<span id="nepali-nlp-spellcheck-module"></span><h2>nepali_nlp.spellcheck module<a class="headerlink" href="#module-nepali_nlp.spellcheck" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.spellcheck.Corrector">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.spellcheck.</span></span><span class="sig-name descname"><span class="pre">Corrector</span></span><a class="reference internal" href="_modules/nepali_nlp/spellcheck.html#Corrector"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.spellcheck.Corrector" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>This function correct the Nepali word based on distance of character.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.spellcheck.Corrector.corrector">
+<span class="sig-name descname"><span class="pre">corrector</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">location</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'words.txt'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">number</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">2</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">threshold</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">0.3</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/spellcheck.html#Corrector.corrector"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.spellcheck.Corrector.corrector" title="Permalink to this definition">¶</a></dt>
+<dd><p>This functon returns ‘n’ number of correct words.</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>word {string} – [Word you want to check for spelling.]</p>
+</dd>
+<dt>Keyword Arguments:</dt><dd><p>location {str} – [Location of Vocabulary file with name and extension.] (default: {‘../local_dataset/words.txt’})
+number {int} – [Number of close correct words.] (default: {2})
+threshold {float} – [Threshold distance between words enter and predicted word’.] (default: {0.3})</p>
+</dd>
+<dt>Returns:</dt><dd><p>[list] – [‘n’ correct word predictions.]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.spellcheck.Corrector.spell_correct">
+<span class="sig-name descname"><span class="pre">spell_correct</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/spellcheck.html#Corrector.spell_correct"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.spellcheck.Corrector.spell_correct" title="Permalink to this definition">¶</a></dt>
+<dd><p>Returns the spell corrected string based on context, phoneme</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>text {str} – Text in Nepali</p>
+</dd>
+<dt>Returns:</dt><dd><p>Dict – dictionary with correct word, input text and correction text.</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.stemmer">
+<span id="nepali-nlp-stemmer-module"></span><h2>nepali_nlp.stemmer module<a class="headerlink" href="#module-nepali_nlp.stemmer" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.stemmer.Stem">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.stemmer.</span></span><span class="sig-name descname"><span class="pre">Stem</span></span><a class="reference internal" href="_modules/nepali_nlp/stemmer.html#Stem"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.stemmer.Stem" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Stem the words to its root eg ‘गरेका’ to ‘गर’.
+Credit: <a class="reference external" href="https://github.com/snowballstem/snowball">https://github.com/snowballstem/snowball</a></p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.stemmer.Stem.rootify">
+<span class="sig-name descname"><span class="pre">rootify</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/stemmer.html#Stem.rootify"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.stemmer.Stem.rootify" title="Permalink to this definition">¶</a></dt>
+<dd><p>Generates the stem words for input text.</p>
+<dl class="simple">
+<dt>Args:</dt><dd><p>text (Union(List, str)): Text to be stemmed or lemmatized.</p>
+</dd>
+<dt>Returns:</dt><dd><p>Union(List, str): stemmed text.</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.stopword">
+<span id="nepali-nlp-stopword-module"></span><h2>nepali_nlp.stopword module<a class="headerlink" href="#module-nepali_nlp.stopword" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.stopword.Stopwords">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.stopword.</span></span><span class="sig-name descname"><span class="pre">Stopwords</span></span><a class="reference internal" href="_modules/nepali_nlp/stopword.html#Stopwords"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.stopword.Stopwords" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>This class helps in removing Nepali stopwords.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.stopword.Stopwords.remove_stopwords">
+<span class="sig-name descname"><span class="pre">remove_stopwords</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/stopword.html#Stopwords.remove_stopwords"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.stopword.Stopwords.remove_stopwords" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function remove stopwords from text</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>sentence {string} – sentence you want to remove stopwords</p>
+</dd>
+<dt>Returns:</dt><dd><p>list – token words</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.summerization">
+<span id="nepali-nlp-summerization-module"></span><h2>nepali_nlp.summerization module<a class="headerlink" href="#module-nepali_nlp.summerization" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.summerization.Summerize">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.summerization.</span></span><span class="sig-name descname"><span class="pre">Summerize</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="o"><span class="pre">*</span></span><span class="n"><span class="pre">args</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/summerization.html#Summerize"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.summerization.Summerize" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.summerization.Summerize.combine_sentence">
+<span class="sig-name descname"><span class="pre">combine_sentence</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">centroid_tfidf</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sent</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sent_dict</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">length</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/summerization.html#Summerize.combine_sentence"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.summerization.Summerize.combine_sentence" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function helps to combine summerized sentence.</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>centroid_tfidf {array} – [vectorized value of centroid.]
+sent {list} – [list of sentence in text]
+sent_dict {dictionary} – [Vectorized value of every sentence.]
+length {int/float} – [Number of desired sentence.]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[string] – [Paragraph of combine summerize sentence.]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.summerization.Summerize.generate_centroif_tfidf">
+<span class="sig-name descname"><span class="pre">generate_centroif_tfidf</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word_vec</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sentence</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/summerization.html#Summerize.generate_centroif_tfidf"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.summerization.Summerize.generate_centroif_tfidf" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function generates tfidf value for each sentences</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>sentence {[list]} – [list of sentence in paragraph]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[array] – [mathmatical representation for centroid]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.summerization.Summerize.preprocess">
+<span class="sig-name descname"><span class="pre">preprocess</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/summerization.html#Summerize.preprocess"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.summerization.Summerize.preprocess" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function remove punctuation and split text in sentences.</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>text {String} – [Nepali text paragraph]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[list] – [list of sentences]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.summerization.Summerize.sentence_selection">
+<span class="sig-name descname"><span class="pre">sentence_selection</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">centroid</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sentences_dict</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">summary_length</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/summerization.html#Summerize.sentence_selection"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.summerization.Summerize.sentence_selection" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function helps to select the most important sentece.</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>centroid {array} – [tf/idf values of centroid]
+sentences_dict {array} – [Vectorized value of every sentence]
+summary_length {int/float} – [Number of summerized sentence desired.]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[list] – [list of sentence id selected.]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.summerization.Summerize.sentence_vectorizer">
+<span class="sig-name descname"><span class="pre">sentence_vectorizer</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word_vec</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sentence</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">size</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/summerization.html#Summerize.sentence_vectorizer"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.summerization.Summerize.sentence_vectorizer" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function vectorize the passed sentence for the given size</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>sentence {list} – [list of sentence in Nepali text paragraph]
+size {int/tuple} – [size of word embedding vector]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[dictionary] – [vectorize value for every sentence]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.summerization.Summerize.show_summary">
+<span class="sig-name descname"><span class="pre">show_summary</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word_vec</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">sample_text</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">length_sentence_predict</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/summerization.html#Summerize.show_summary"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.summerization.Summerize.show_summary" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.synonym">
+<span id="nepali-nlp-synonym-module"></span><h2>nepali_nlp.synonym module<a class="headerlink" href="#module-nepali_nlp.synonym" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.synonym.Synonym">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.synonym.</span></span><span class="sig-name descname"><span class="pre">Synonym</span></span><a class="reference internal" href="_modules/nepali_nlp/synonym.html#Synonym"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.synonym.Synonym" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.synonym.Synonym.filter_synonym">
+<span class="sig-name descname"><span class="pre">filter_synonym</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">word_vec</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/synonym.html#Synonym.filter_synonym"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.synonym.Synonym.filter_synonym" title="Permalink to this definition">¶</a></dt>
+<dd><p>Funtion to filter the similarity words from embedding</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>word {string} – [word to find similar words]</p>
+</dd>
+<dt>Returns:</dt><dd><p>[list] – [similar words]</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.synonym.Synonym.raw_synonym">
+<span class="sig-name descname"><span class="pre">raw_synonym</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">word</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">word_vec</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/synonym.html#Synonym.raw_synonym"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.synonym.Synonym.raw_synonym" title="Permalink to this definition">¶</a></dt>
+<dd><p>show the similar words according to embedding</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>word{string} – word you want to find synonym</p>
+</dd>
+<dt>Returns:</dt><dd><p>[tuple]: synonym word with similarity score</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.unicode_nepali">
+<span id="nepali-nlp-unicode-nepali-module"></span><h2>nepali_nlp.unicode_nepali module<a class="headerlink" href="#module-nepali_nlp.unicode_nepali" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="nepali_nlp.unicode_nepali.Unicode">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">nepali_nlp.unicode_nepali.</span></span><span class="sig-name descname"><span class="pre">Unicode</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="o"><span class="pre">*</span></span><span class="n"><span class="pre">args</span></span></em>, <em class="sig-param"><span class="o"><span class="pre">**</span></span><span class="n"><span class="pre">kwargs</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/unicode_nepali.html#Unicode"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.unicode_nepali.Unicode" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>This class converts Roman written Nepali word to actual Nepali word.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="nepali_nlp.unicode_nepali.Unicode.unicode_word">
+<span class="sig-name descname"><span class="pre">unicode_word</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">text</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/unicode_nepali.html#Unicode.unicode_word"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.unicode_nepali.Unicode.unicode_word" title="Permalink to this definition">¶</a></dt>
+<dd><p>Function converts Unicode words(i.e Roman word like ‘nepal’) to actual Nepali word.</p>
+<dl class="simple">
+<dt>Arguments:</dt><dd><p>text {string} – Unicode ‘word’ to convert</p>
+</dd>
+<dt>Returns:</dt><dd><p>[string] – [Converted Nepali word.]</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp.utils">
+<span id="nepali-nlp-utils-module"></span><h2>nepali_nlp.utils module<a class="headerlink" href="#module-nepali_nlp.utils" title="Permalink to this headline">¶</a></h2>
+<dl class="py function">
+<dt class="sig sig-object py" id="nepali_nlp.utils.load_multiple_link_dataset">
+<span class="sig-prename descclassname"><span class="pre">nepali_nlp.utils.</span></span><span class="sig-name descname"><span class="pre">load_multiple_link_dataset</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">file_loc</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'nep-eng.txt'</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/utils.html#load_multiple_link_dataset"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.utils.load_multiple_link_dataset" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="nepali_nlp.utils.top_news_link">
+<span class="sig-prename descclassname"><span class="pre">nepali_nlp.utils.</span></span><span class="sig-name descname"><span class="pre">top_news_link</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">portal</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'onlinekhabar'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">top_n</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">5</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="_modules/nepali_nlp/utils.html#top_news_link"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#nepali_nlp.utils.top_news_link" title="Permalink to this definition">¶</a></dt>
+<dd><p>This function fetch the top_n trending news</p>
+<dl class="simple">
+<dt>Keyword Arguments:</dt><dd><p>portal {str} – [news portal that you want to see trending of] (default: {‘onlinekhabar’})
+top_n {int} – [number of top trending news] (default: {5})</p>
+</dd>
+<dt>Returns:</dt><dd><p>[list] – [links of trending news]</p>
+</dd>
+</dl>
+</dd></dl>
+
+</section>
+<section id="module-nepali_nlp">
+<span id="module-contents"></span><h2>Module contents<a class="headerlink" href="#module-nepali_nlp" title="Permalink to this headline">¶</a></h2>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">nepali_nlp</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">nepali_nlp package</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#submodules">Submodules</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.Download_embedding">nepali_nlp.Download_embedding module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.Embedding">nepali_nlp.Embedding module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.Nepali_tokenizer">nepali_nlp.Nepali_tokenizer module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.fasttext_embedding">nepali_nlp.fasttext_embedding module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.language_translation">nepali_nlp.language_translation module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.n_gram">nepali_nlp.n_gram module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.news_latest">nepali_nlp.news_latest module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.news_scrap">nepali_nlp.news_scrap module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.ocr">nepali_nlp.ocr module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.positional_encoding">nepali_nlp.positional_encoding module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.preeti_unicode">nepali_nlp.preeti_unicode module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.sentence_similar">nepali_nlp.sentence_similar module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.spellcheck">nepali_nlp.spellcheck module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.stemmer">nepali_nlp.stemmer module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.stopword">nepali_nlp.stopword module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.summerization">nepali_nlp.summerization module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.synonym">nepali_nlp.synonym module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.unicode_nepali">nepali_nlp.unicode_nepali module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp.utils">nepali_nlp.utils module</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-nepali_nlp">Module contents</a></li>
+</ul>
+</li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">Welcome to nepali_nlp’s documentation!</a></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2022, Author.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.4.0</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="_sources/nepali_nlp.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>nepali_nlp.Embedding &#8212; nepali_nlp  documentation</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <h1>Source code for nepali_nlp.Embedding</h1><div class="highlight"><pre>
+<span></span><span class="kn">import</span> <span class="nn">os</span>
+<span class="kn">import</span> <span class="nn">sys</span>
+<span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s1">&#39;..&#39;</span><span class="p">)</span>
+
+<span class="c1"># import gensim</span>
+<span class="c1"># from gensim.models.keyedvectors import KeyedVectors</span>
+<span class="kn">from</span> <span class="nn">.Download_embedding</span> <span class="kn">import</span> <span class="n">Download</span>
+
+<div class="viewcode-block" id="Embeddings"><a class="viewcode-back" href="../../nepali_nlp.html#nepali_nlp.Embedding.Embeddings">[docs]</a><span class="k">class</span> <span class="nc">Embeddings</span><span class="p">:</span>
+    <span class="sd">&quot;&quot;&quot;This class helps to load embedding in keyedvector format.&quot;&quot;&quot;</span>
+
+    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">pass</span>
+
+<div class="viewcode-block" id="Embeddings.load_large_vector"><a class="viewcode-back" href="../../nepali_nlp.html#nepali_nlp.Embedding.Embeddings.load_large_vector">[docs]</a>    <span class="k">def</span> <span class="nf">load_large_vector</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="sd">&quot;&quot;&quot;Download and load embedding. #This is private embedding I will update link later</span>
+
+<span class="sd">        Returns:</span>
+<span class="sd">            [keyedVectors] -- [Custom Nepali word Embedding]</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="n">download</span> <span class="o">=</span> <span class="n">Download</span><span class="p">()</span>
+        <span class="n">download</span><span class="o">.</span><span class="n">download_file_from_google_drive</span><span class="p">(</span><span class="s1">&#39;1ik38vahOmzhiU2DBi78VOqDt7YFPsk5w&#39;</span><span class="p">,</span> <span class="s1">&#39;word_vector.sg&#39;</span><span class="p">)</span>
+        <span class="n">word_vector</span> <span class="o">=</span> <span class="n">KeyedVectors</span><span class="o">.</span><span class="n">load_word2vec_format</span><span class="p">(</span><span class="s1">&#39;word_vector.sg&#39;</span><span class="p">,</span> <span class="n">binary</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+        <span class="n">os</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="s2">&quot;word_vector.sg&quot;</span><span class="p">)</span>
+
+        <span class="k">return</span> <span class="n">word_vector</span></div>
+
+<div class="viewcode-block" id="Embeddings.load_vector"><a class="viewcode-back" href="../../nepali_nlp.html#nepali_nlp.Embedding.Embeddings.load_vector">[docs]</a>    <span class="k">def</span> <span class="nf">load_vector</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="sd">&quot;&quot;&quot;Returns a large Nepali word embedding. Creator: https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language</span>
+<span class="sd">        </span>
+<span class="sd">        Returns:</span>
+<span class="sd">            [keyedVectors] -- [Custom Nepali word Embedding]</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="n">download</span> <span class="o">=</span> <span class="n">Download</span><span class="p">()</span>
+        <span class="n">download</span><span class="o">.</span><span class="n">download_file_from_google_drive</span><span class="p">(</span><span class="s1">&#39;1KnAZ2Eeqwz3S9VrAuzTLWysAaRB6Ch7e&#39;</span><span class="p">,</span> <span class="s1">&#39;nepali_embeddings_word2vec.txt&#39;</span><span class="p">)</span>
+        <span class="n">word_vector</span> <span class="o">=</span> <span class="n">KeyedVectors</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s1">&#39;nepali_embeddings_word2vec.txt&#39;</span><span class="p">)</span>
+        <span class="n">os</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="s2">&quot;nepali_embeddings_word2vec.txt&quot;</span><span class="p">)</span>
+        
+        <span class="k">return</span> <span class="n">word_vector</span></div>
+
+    <span class="k">def</span> <span class="fm">__str__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="s2">&quot;Required to load different emebeddings&quot;</span></div>
+</pre></div>
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../../index.html">nepali_nlp</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../nepali_nlp.html">nepali_nlp package</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../index.html">Documentation overview</a><ul>
+  <li><a href="../index.html">Module code</a><ul>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2022, Author.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.4.0</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+    </div>
+
+    
+
+    
+  </body>
+</html>

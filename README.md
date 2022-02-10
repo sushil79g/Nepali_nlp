@@ -9,7 +9,7 @@
 <h3>Loading Embedding</h3>
 
 ```python
-from Nepali_nlp import Embeddings
+from nepali_nlp import Embeddings
 word_vec = Embeddings().load_large_vector()
 #word_vec = Embeddings().load_vector() #For small Embedding
 #from fasttext_embedding import Fasttext
@@ -19,7 +19,7 @@ word_vec = Embeddings().load_large_vector()
 <h3>For Nepali Synonym</h3>
 
 ```python
-from Nepali_nlp import Synonym
+from nepali_nlp import Synonym
 Synonym().raw_synonym(word = 'माया',word_vec=word_vec) #method: 1
 #output -> स्नेह','प्रेम','आदर','मायाँ','दया','मायालु','श्रद्धा','आत्मियता','स्पर्श','तिमी
 Synonym().filter_synonym(word = 'साथी',word_vec=word_vec) #method: 2
@@ -28,7 +28,7 @@ Synonym().filter_synonym(word = 'साथी',word_vec=word_vec) #method: 2
 <h3>Word-spell corrector</h3>
 
 ```python
-from Nepali_nlp import Corrector
+from nepali_nlp import Corrector
 Corrector().corrector(word='सुशल') #In a very raw stage for now.
 #output-> ['सुशील', 'सुशील']
 Corrector().spell_correct("कस्त भको हेरौ है")
@@ -37,49 +37,49 @@ Corrector().spell_correct("कस्त भको हेरौ है")
 <h3>Nepali text summerizer</h3>
 
 ```python
-from Nepali_nlp import Summerize
+from nepali_nlp import Summerize
 Summerize().show_summary(word_vec,text, length_sentence_predict=5)
 ```
 <h3>Nepali unicode to Devnagiri Font</h3>
 
 ```python
-from Nepali_nlp import Unicode
+from nepali_nlp import Unicode
 text = 'ma ghara jaanchhu'
 Unicode().unicode_word(text) #output-> 'म घर जान्छु'
 ```
 <h3>Preeti-font character to Devnagiri Font</h3>
 
 ```python
-from Nepali_nlp import preeti
+from nepali_nlp import preeti
 unicode_word = 'g]kfnL'
 print(preeti(unicode_word)) #output-> नेपाली
 ```
 <h3>OCR(optical character reader)</h3>
 
 ```python
-from Nepali_nlp import OCR
+from nepali_nlp import OCR
 text = OCR(image_location)
 ```
 <h3>Nepali Tokenizer</h3>
 
 ```python
-from Nepali_nlp import Tokenizer
+from nepali_nlp import Tokenizer
 Tokenizer().sentence_tokenize(text) #To tokenize sentence
 Tokenizer().word_tokenize(text) #To tokenize word
 Tokenizer().character_tokenize(text) #To tokenize character
 Tokenizer().sentencepeice_tokenize(text) #Tokenize using BPE
 ```
 
-<h3>Nepali Stemming</h3>
+<h3>nepali Stemming</h3>
 
 ```python
-from Nepali_nlp import Stem
+from nepali_nlp import Stem
 text = "सरकारका प्रवक्ता प्रदीप ज्ञवालीले पनि गत बिहीबार उनलाई अनशन तोड्न आग्रह गरेका थिए" #str or list of word
 Stem().rootify(text)
 #output -> ['सरकार','प्रवक्ता','प्रदीप','ज्ञवाली','पनि','गत','बिहीबार','उन','अनशन','तोड्न','आग्रह','गर','']
 ```
 
-<h3>Nepali sentence similarity</h3>
+<h3>nepali sentence similarity</h3>
 
 ```python
 from Nepali_nlp import  Avg_vector_similar
@@ -87,24 +87,24 @@ sentences = ["कुपोषणकै कारण शारीरिक र �
 Avg_vector_similar().pair_similarity(word_vec, sentences) #output-> 0.6817289590835571
 ```
 
-<h3>Nepali new-portal Scrapper (onlinekhabar and ekantipur for now)</h3>
+<h3>nepali new-portal Scrapper (onlinekhabar and ekantipur for now)</h3>
 
 ```python
-from Nepali_nlp import extract_news
+from nepali_nlp import extract_news
 news_link = 'https://www.onlinekhabar.com/2019/12/821094'
 title, news = extract_news(news_link) #onlinekhabar and ekantipur is supported at the moment.
 ```
 <h3>Show latest news summary</h3>
 
 ```python
-from Nepali_nlp import UpdateNews
+from nepali_nlp import UpdateNews
 title, links, summerized_news = UpdateNews().show_latest(word_vec=word_vec,portal='onlinekhabar',number_of_news=5) #ekantipur portal is also supported
 ```
 
 <h3>Language Translation (English--Nepali)</h3>
 
 ```python
-from Nepali_nlp import LanguageTranslation
+from nepali_nlp import LanguageTranslation
 conv = LanguageTranslation()
 nepali_text = "प्रधानमन्त्री निवास बालुवाटारमा आज बिहान बसेको बैठकमा आसन्न स्थानीय तहको निर्वाचनको विषयमा छलफल भएको थियो । छलफलपछि सरकारका प्रवक्ता ज्ञानेन्द्रबहादुर कार्कीले निर्वाचन समयमै सम्पन्न गर्न आफूहरु सहमत भएको सन्चारकर्मीलाई जानकारी दिए ।"
 english_text = "You already know that a data class is just a regular class. That means that you can freely add your own methods to a data class. As an example, let us calculate the distance between one position and another, along the Earth’s surface"

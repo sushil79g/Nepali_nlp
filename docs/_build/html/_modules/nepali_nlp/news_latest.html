@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>nepali_nlp.news_latest &#8212; nepali_nlp  documentation</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <h1>Source code for nepali_nlp.news_latest</h1><div class="highlight"><pre>
+<span></span><span class="kn">import</span> <span class="nn">sys</span>
+<span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s1">&#39;..&#39;</span><span class="p">)</span>
+
+<span class="kn">from</span> <span class="nn">.utils</span> <span class="kn">import</span> <span class="n">top_news_link</span>
+<span class="kn">from</span> <span class="nn">.news_scrap</span> <span class="kn">import</span> <span class="n">extract_news</span>
+<span class="kn">from</span> <span class="nn">.summerization</span> <span class="kn">import</span> <span class="n">Summerize</span>
+
+
+<div class="viewcode-block" id="UpdateNews"><a class="viewcode-back" href="../../nepali_nlp.html#nepali_nlp.news_latest.UpdateNews">[docs]</a><span class="k">class</span> <span class="nc">UpdateNews</span><span class="p">:</span>
+    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">pass</span>
+
+<div class="viewcode-block" id="UpdateNews.show_latest"><a class="viewcode-back" href="../../nepali_nlp.html#nepali_nlp.news_latest.UpdateNews.show_latest">[docs]</a>    <span class="k">def</span> <span class="nf">show_latest</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">word_vec</span><span class="p">,</span> <span class="n">portal</span><span class="o">=</span><span class="s1">&#39;onlinekhabar&#39;</span><span class="p">,</span> <span class="n">number_of_news</span><span class="o">=</span><span class="mi">5</span><span class="p">):</span>
+        <span class="sd">&quot;&quot;&quot;his function returns tile of latest news, link for latest news and summerize news </span>
+<span class="sd">        </span>
+<span class="sd">        Keyword Arguments:</span>
+<span class="sd">            portal {str} -- [news portal sites; for now either &#39;onlinekhabar&#39; or &#39;ekantipur&#39;] (default: {&#39;onlinekhabar&#39;})</span>
+<span class="sd">            number_of_news {int} -- [Number of top trending news] (default: {5})</span>
+<span class="sd">        </span>
+<span class="sd">        Returns:</span>
+<span class="sd">            [tuple] -- [tuple of (titles, links, news_summerises)]</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="k">assert</span> <span class="n">portal</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;onlinekhabar&#39;</span><span class="p">,</span> <span class="s1">&#39;ekantipur&#39;</span><span class="p">],</span> <span class="s2">&quot;we currently support only ekantipur and onlinekhabar&quot;</span>
+        <span class="n">extracted_link</span> <span class="o">=</span> <span class="n">top_news_link</span><span class="p">(</span><span class="n">portal</span><span class="o">=</span><span class="n">portal</span><span class="p">,</span> <span class="n">top_n</span><span class="o">=</span><span class="n">number_of_news</span><span class="p">)</span>
+        <span class="n">summary_</span> <span class="o">=</span> <span class="n">Summerize</span><span class="p">()</span>
+        <span class="n">links</span> <span class="o">=</span> <span class="p">[]</span>
+        <span class="n">titles</span> <span class="o">=</span> <span class="p">[]</span>
+        <span class="n">news_summerises</span> <span class="o">=</span> <span class="p">[]</span>
+        <span class="k">for</span> <span class="n">link</span> <span class="ow">in</span> <span class="n">extracted_link</span><span class="p">:</span>
+            <span class="n">title</span><span class="p">,</span> <span class="n">text</span> <span class="o">=</span> <span class="n">extract_news</span><span class="p">(</span><span class="n">link</span><span class="p">)</span>
+            <span class="n">summary_news</span> <span class="o">=</span> <span class="n">summary_</span><span class="o">.</span><span class="n">show_summary</span><span class="p">(</span><span class="n">word_vec</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">length_sentence_predict</span><span class="o">=</span><span class="mi">7</span><span class="p">)</span>
+            <span class="n">links</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">link</span><span class="p">)</span>
+            <span class="n">titles</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">title</span><span class="p">)</span>
+            <span class="n">news_summerises</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">summary_news</span><span class="p">)</span>
+
+        <span class="k">return</span> <span class="p">(</span><span class="n">titles</span><span class="p">,</span> <span class="n">links</span><span class="p">,</span> <span class="n">news_summerises</span><span class="p">)</span></div></div>
+</pre></div>
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../../index.html">nepali_nlp</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../nepali_nlp.html">nepali_nlp package</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../index.html">Documentation overview</a><ul>
+  <li><a href="../index.html">Module code</a><ul>
+  </ul></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2022, Author.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.4.0</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+    </div>
+
+    
+
+    
+  </body>
+</html>
