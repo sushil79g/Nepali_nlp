@@ -8,3 +8,9 @@ spello==1.2.0
 snowballstemmer
 tensorflow
 sentencepiece
+sklearn
+pydload
+tensorboardX
+fairseq
+opencv-python
+transformers
