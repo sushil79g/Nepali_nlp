@@ -11,4 +11,4 @@ from .news_scrap import extract_news
 from .news_latest import UpdateNews
 from .stemmer import Stem
 from .language_translation import LanguageTranslation
-from .transliterator import TranslitEngine
+from .transliterator import Transliteration
