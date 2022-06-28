@@ -114,6 +114,15 @@ output = conv.to_nepali(english_text) #output-> ['तपाईँले पह�
 output = conv.to_english(nepali_text) #output-> ['After the meeting, government spokesman Gyanendra Bahadur Patel informed the media that they agreed to hold elections on time.']
 ```
 
+<h3> Language Transliteration </h3>
+
+```python
+from Nepali_nlp import Transliteration
+engine = Transliteration()
+engine.translit_word("Hello", topk=3)   # output -> ['हेल्लो', 'हेलो', 'हेललो']
+engine.translit_sentence("Hey, Do you like programming?")   # output -> हे, डो योउ लाइक प्रोग्रामिङ?
+```
+
 TODOs:</br>
 - [x] Nepali Embeddings 
 - [x] Tokenizers (sentence, word, character) 
@@ -128,4 +137,5 @@ TODOs:</br>
 - [x] Sentence similarity score
 - [x] Spell correction
 - [x] Translation (Nepali<->English)
+- [x] Transliteration 
 - [ ] Named Entity Recognition (Currently)
