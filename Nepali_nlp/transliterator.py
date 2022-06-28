@@ -1,3 +1,5 @@
+# credit: https://github.com/AI4Bharat/IndicXlit
+
 import os
 import enum
 import traceback
@@ -5,6 +7,7 @@ import re
 import ast
 import math
 import time
+import logging
 
 from argparse import Namespace
 from collections import namedtuple
@@ -15,6 +18,8 @@ from fairseq import checkpoint_utils, options, tasks, utils
 from fairseq.dataclass.utils import convert_namespace_to_omegaconf
 from fairseq.token_generation_constraints import pack_constraints, unpack_constraints
 from fairseq_cli.generate import get_symbols_to_strip_from_output
+
+logging.disable()
 
 class XlitError(enum.Enum):
     lang_err = "Unsupported langauge ID requested ;( Please check available languages."
@@ -310,15 +315,13 @@ def is_directory_writable(path):
     return os.access(path, os.W_OK | os.X_OK)
 
 
-class TranslitEngine():
+class Transliteration():
     """
     For Managing the top level tasks and applications of transliteration
     """
 
     def __init__(self,  beam_width=4):
-
         self.langs = {"ne"}
-
         if is_directory_writable(F_DIR):
             models_path = os.path.join(F_DIR, 'models')
         else:
@@ -328,8 +331,6 @@ class TranslitEngine():
 
         os.makedirs(models_path, exist_ok=True)
         self.download_models(models_path)
-
-        print("Initializing Multilingual model for transliteration")
 
         # initialize the model
         self.transliterator = Transliterator(
@@ -414,12 +415,10 @@ class TranslitEngine():
         return transliterated_word_list
 
     def translit_word(self, word, topk=4):
-
         # exit if invalid inputs
         if not word:
             print("error : Please insert valid inputs : pass one word")
             return
-        
         words = [word, ]
 
         # check if there is non-english characters
@@ -428,7 +427,7 @@ class TranslitEngine():
         if not words:
             print("error : Please insert valid inputs : only pass english characters ")
             return
-        
+
         try:
             perprcossed_words = self.pre_process(words, "ne")
             translation_str = self.transliterator.translate(perprcossed_words, nbest=topk)
@@ -460,9 +459,3 @@ class TranslitEngine():
             print("XlitError:", traceback.format_exc())
             print(XlitError.internal_err.value)
             return XlitError.internal_err
-
-
-
-# eng = XlitEngineTransformer(beam_width=4)
-# print(eng.translit_sentence("hami ta hereko herai"))
-
