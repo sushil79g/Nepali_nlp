@@ -1,5 +1,5 @@
 gensim==3.7.3
-requests==2.22.0
+requests==2.31.0
 wget==3.2
 beautifulsoup4
 news-please
